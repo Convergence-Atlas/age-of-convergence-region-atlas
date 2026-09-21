@@ -1,0 +1,2913 @@
+{
+  "Egypt and the Nile Delta": {
+    "name": "Egypt and the Nile Delta",
+    "basicInfo": "A densely inhabited delta of river branches, farmland, desert-edged cities, canals, the Faiyum, and Mediterranean coast centered on Cairo and the ancient seat of the First Nome. The climate is hot and dry outside the irrigated valley; the Duat presses close around temples, museums, necropolises, and the Nile's reflective water. House of Life magicians, direct Egyptian demigods, divine hosts, Egyptian gods, shabti, demons, ancestral spirits, and cult cells move through overlapping modern and ancient landscapes. The Egyptian Ennead refers specifically to the traditional Heliopolitan nine; other deities operate through their own courts, cults, and coalitions rather than being mislabeled as Ennead members.",
+    "x": 11,
+    "y": 2,
+    "realm": "Mortal World",
+    "factions": [
+      "First Nome",
+      "House of Life",
+      "Egyptian Ennead",
+      "River Gods Assembly",
+      "Court of Osiris",
+      "Cult of the Devouring Serpent"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 5,
+      "max": 50
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/mortal-world--egypt-and-the-nile-delta.png"
+      }
+    }
+  },
+  "Alaska Beyond the Gods": {
+    "name": "Alaska Beyond the Gods",
+    "basicInfo": "An immense northern wilderness of glacier fields, volcanic ranges, black-spruce forest, tundra, and storm-cut coast where the influence of the classical gods becomes unreliable. Winters are long and light behaves strangely around auroras; divine messages fail, monsters retain older forms, and distances stretch under supernatural pressure. Sparse mortal communities, nature spirits, wandering Hunters, rogue giants, and beings that reject Olympian authority inhabit the region, making it a dangerous frontier rather than empty land. Playable destinations now include Denali Aurora Watch, Aleutian Mistbreaker Station, Glacier of the Sleeping Jotun, and Midnight Sun Hunter Camp.",
+    "x": 0,
+    "y": 5,
+    "realm": "Mortal World",
+    "factions": [
+      "Hunters of Artemis",
+      "Clear-Sighted Network",
+      "Jotun Warbands"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 35,
+      "max": 75
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/mortal-world--alaska-beyond-the-gods.png"
+      }
+    }
+  },
+  "Pacific Northwest Mythic Frontier": {
+    "name": "Pacific Northwest Mythic Frontier",
+    "basicInfo": "A rain-soaked region of cedar forest, volcanic peaks, island channels, and gray coastal cities extending from Oregon through Washington. Mist gathers heavily beneath old trees, allowing Amazon compounds, monster migration routes, nature-spirit enclaves, and entrances to dwarf and elf roads to hide beside ordinary highways. The climate is cool and wet, and the region's deep wilderness attracts creatures displaced from Greek, Roman, and Norse territories.",
+    "x": 1,
+    "y": 4,
+    "realm": "Mortal World",
+    "factions": [
+      "Amazon Nation",
+      "Hunters of Artemis",
+      "Dwarven Forge Clans",
+      "Clear-Sighted Network"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 18,
+      "max": 55
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/mortal-world--pacific-northwest-mythic-frontier.png"
+      }
+    }
+  },
+  "Northern California and New Rome": {
+    "name": "Northern California and New Rome",
+    "basicInfo": "A broad landscape of dry golden hills, redwood valleys, river corridors, and fault-scarred mountains centered on the protected territory of Camp Jupiter and New Rome. Summers are hot and rainless while winter storms feed the Little Tiber; Roman boundaries, military roads, wolf trails, and buried imperial ruins overlay modern California. Roman demigods, legacies, senators, fauns, household spirits, and legion patrols dominate the protected core, but Giants and imperial remnants contest its outer approaches.",
+    "x": 1,
+    "y": 3,
+    "realm": "Mortal World",
+    "factions": [
+      "Camp Jupiter and New Rome",
+      "Twelfth Legion Fulminata",
+      "New Rome Senate",
+      "Lupa's Wolf Pack",
+      "Dii Consentes"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 1,
+      "max": 45
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/mortal-world--northern-california-and-new-rome.png"
+      }
+    }
+  },
+  "Mountain West Sacred Passes": {
+    "name": "Mountain West Sacred Passes",
+    "basicInfo": "A high inland belt of granite ranges, alpine lakes, desert basins, and isolated highways running through the Rockies and neighboring plateaus. Weather changes rapidly with elevation, and old westward routes of Olympus intersect Roman marching paths, monster burrows, and wind-god corridors. Settlements are scattered; satyrs, wolves, Hunters, cyclopes, storm spirits, and questing demigods use a handful of guarded passes while predators control the country between them.",
+    "x": 2,
+    "y": 4,
+    "realm": "Mortal World",
+    "factions": [
+      "Hunters of Artemis",
+      "Council of Cloven Elders",
+      "Camp Jupiter and New Rome",
+      "Lycaon's Pack"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 15,
+      "max": 50
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/mortal-world--mountain-west-sacred-passes.png"
+      }
+    }
+  },
+  "Great Lakes and Northern Midwest": {
+    "name": "Great Lakes and Northern Midwest",
+    "basicInfo": "A freshwater region of immense lakes, forested shorelines, industrial cities, winter snow belts, and abandoned tunnels beneath old transportation networks. Lake storms can carry Greek sea spirits, Norse draugr, and Roman river numina far inland, while the Mist hides islands and drowned ruins from mortal navigation. Clear-Sighted communities and scattered safe houses survive among monster-haunted rail corridors and waterways that increasingly connect to foreign mythic seas. Playable destinations now include Chicago Wind-and-Water Junction, Lake Superior Bronze Wreck, Detroit Hephaestian Rail Yard, and Mackinac Oath Bridge.",
+    "x": 4,
+    "y": 4,
+    "realm": "Mortal World",
+    "factions": [
+      "Clear-Sighted Network",
+      "Waystation Refuge",
+      "River Gods Assembly",
+      "Hunters of Artemis"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 10,
+      "max": 40
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/mortal-world--great-lakes-and-northern-midwest.png"
+      }
+    }
+  },
+  "Greater Boston and New England": {
+    "name": "Greater Boston and New England",
+    "basicInfo": "A compact region of rocky Atlantic coast, old cities, autumn forest, college towns, colonial roads, and mountains reaching toward the Canadian border. Winters are severe and Norse magic lies unusually close to the surface: Yggdrasil routes, dwarf workshops, elf portals, Valkyrie flight paths, and the supernatural Hotel Valhalla overlap Boston's ordinary streets. Einherjar, living Norse demigods, rune-workers, magicians, sea spirits, and monsters preparing for Ragnarök all move through the region.",
+    "x": 6,
+    "y": 4,
+    "realm": "Mortal World",
+    "factions": [
+      "Hotel Valhalla",
+      "Valkyries of Valhalla",
+      "Rune Hearth Reformers",
+      "Dwarven Forge Clans",
+      "Aesir Court"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 5,
+      "max": 50
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/mortal-world--greater-boston-and-new-england.png"
+      }
+    }
+  },
+  "Iceland and the North Atlantic Threshold": {
+    "name": "Iceland and the North Atlantic Threshold",
+    "basicInfo": "A volcanic ocean frontier of black beaches, glaciers, geysers, storm lanes, and isolated islands positioned between Midgard and the older roads of the Nine Worlds. The weather is cold, windy, and violently changeable; auroras expose Bifrost residue, while deep water conceals sea-giant halls and World Serpent disturbances. Sailors, seers, land spirits, draugr, jotunn scouts, and modern researchers share the coast without agreeing which realm owns it. Playable destinations now include Thingvellir Rift Althing, Reykjavik Rune Harbor, Snaefellsjokull World-Gate, and Hekla Fire-Giant Seal.",
+    "x": 8,
+    "y": 5,
+    "realm": "Mortal World",
+    "factions": [
+      "Aesir Court",
+      "Independent Norse Powers",
+      "Vanir Court",
+      "Forces of Ragnarok"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 25,
+      "max": 65
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/mortal-world--iceland-and-the-north-atlantic-threshold.png"
+      }
+    }
+  },
+  "Scandinavia and the Northern Rune Lands": {
+    "name": "Scandinavia and the Northern Rune Lands",
+    "basicInfo": "A northern European expanse of fjords, pine forest, snowy uplands, Baltic coasts, old burial fields, and cities built over rune-marked foundations. Long winter darkness and bright summers amplify prophecy, ancestral spirits, trolls, elves, dwarven roads, and entrances toward several Norse worlds. Modern mortals live beside a dense but concealed supernatural population, while Aesir, Vanir, jotunn, and independent rune traditions compete over ancient sites.",
+    "x": 10,
+    "y": 5,
+    "realm": "Mortal World",
+    "factions": [
+      "Aesir Court",
+      "Vanir Court",
+      "Rune Hearth Reformers",
+      "Jotun Warbands",
+      "Clear-Sighted Network"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 15,
+      "max": 60
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/mortal-world--scandinavia-and-the-northern-rune-lands.png"
+      }
+    }
+  },
+  "Southern California Underworld Coast": {
+    "name": "Southern California Underworld Coast",
+    "basicInfo": "A dry coastal region of mountains, freeways, dense cities, beaches, and fault lines where entrances to the Greek Underworld have repeatedly surfaced around Los Angeles. Marine haze and heat hide monster businesses, necromantic transit points, film-set illusions, imperial ruins, and routes toward the Sea of Monsters. Demigods, restless dead, empousai, wealthy immortal criminals, and Underworld agents operate among mortals who mistake supernatural danger for ordinary urban chaos.",
+    "x": 1,
+    "y": 2,
+    "realm": "Mortal World",
+    "factions": [
+      "Underworld Court",
+      "Monster Market Syndicate",
+      "Clear-Sighted Network",
+      "Triumvirate Remnants"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 12,
+      "max": 50
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/mortal-world--southern-california-underworld-coast.png"
+      }
+    }
+  },
+  "American Southwest and Nevada": {
+    "name": "American Southwest and Nevada",
+    "basicInfo": "A vast dry zone of red-rock canyon, military desert, reservoir, neon city, and highway stretching through Nevada, Arizona, and neighboring states. Heat mirages strengthen the Mist, while casinos, dams, abandoned mines, and desert shrines conceal lotus enchantments, Egyptian portals, Roman relics, and monster markets. Mortal settlement clusters around water; outside it, sphinxes, scorpions, wind spirits, giants, and time-distorting hospitality prey on travelers.",
+    "x": 2,
+    "y": 2,
+    "realm": "Mortal World",
+    "factions": [
+      "Lotus Eaters",
+      "Monster Market Syndicate",
+      "House of Life",
+      "Clear-Sighted Network"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 10,
+      "max": 45
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/mortal-world--american-southwest-and-nevada.png"
+      }
+    }
+  },
+  "Gulf Coast and Texas Crossroads": {
+    "name": "Gulf Coast and Texas Crossroads",
+    "basicInfo": "A warm region of coastal marsh, barrier islands, pine country, large river mouths, storm-prone cities, and inland ranchland. Hurricanes pull supernatural currents from the Caribbean and the Duat, while old trade routes carry Greek monsters, Roman relics, Egyptian spirits, and shapeshifters across the coast. Clear-Sighted families, river gods, wandering magicians, monster ranchers, and refugee networks maintain uneasy territory amid frequent divine weather. Playable destinations now include Houston Bayou Nome Annex, New Orleans River-Spirit Court, Galveston Stormbreak Lighthouse, and San Antonio Crossroads Depot.",
+    "x": 3,
+    "y": 2,
+    "realm": "Mortal World",
+    "factions": [
+      "Clear-Sighted Network",
+      "House of Life",
+      "River Gods Assembly",
+      "Monster Market Syndicate"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 10,
+      "max": 45
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/mortal-world--gulf-coast-and-texas-crossroads.png"
+      }
+    }
+  },
+  "Mississippi and Indianapolis Waystation Belt": {
+    "name": "Mississippi and Indianapolis Waystation Belt",
+    "basicInfo": "A central corridor of broad rivers, farmland, wooded ridges, interstate routes, and midsized cities surrounding a network of sanctuaries descended from the Indianapolis Waystation. Summers are humid and winters cold; crossroads magic, Roman roads, freedom trails, and river-spirit paths make the region a natural refuge and transit zone. Demigods, Hunters, former enemies seeking redemption, nature spirits, and clear-sighted mortals protect travelers from imperial remnants and monster patrols.",
+    "x": 4,
+    "y": 3,
+    "realm": "Mortal World",
+    "factions": [
+      "Waystation Refuge",
+      "Hunters of Artemis",
+      "Clear-Sighted Network",
+      "River Gods Assembly"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 3,
+      "max": 35
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/mortal-world--mississippi-and-indianapolis-waystation-belt.png"
+      }
+    }
+  },
+  "New York Mythic Corridor": {
+    "name": "New York Mythic Corridor",
+    "basicInfo": "A dense supernatural corridor encompassing Manhattan, Brooklyn, Queens, Long Island, nearby waterways, and the concealed eastern approaches to Camp Half-Blood. Humid summers, snowy winters, crowded transit, old cemeteries, parks, bridges, and skyscrapers provide overlapping terrain for Greek demigods, Egyptian magicians, nature spirits, monsters, Oracles, and divine messengers. Olympus rises above Manhattan's symbolic center while Brooklyn House and Half-Blood Hill anchor rival but increasingly connected protective networks.",
+    "x": 5,
+    "y": 3,
+    "realm": "Mortal World",
+    "factions": [
+      "Camp Half-Blood",
+      "Olympian Council",
+      "Brooklyn House",
+      "House of Life",
+      "Oracle Concord",
+      "Council of Cloven Elders"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 1,
+      "max": 45
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/mortal-world--new-york-mythic-corridor.png"
+      }
+    }
+  },
+  "British Isles and Western European Nomes": {
+    "name": "British Isles and Western European Nomes",
+    "basicInfo": "A temperate region of Atlantic cliffs, rain-green countryside, ancient stone circles, crowded capitals, river valleys, and layered Roman ruins. House of Life nomes operate through museums and old temples, while Greek and Roman relic routes cross older local magic and Norse sea roads. Magicians, clear-sighted scholars, ghosts, monsters, and minor gods use London and other cities as transfer points between the mortal world, the Duat, and northern realms.",
+    "x": 8,
+    "y": 4,
+    "realm": "Mortal World",
+    "factions": [
+      "House of Life",
+      "Clear-Sighted Network",
+      "Oracle Concord",
+      "Dii Consentes"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 12,
+      "max": 45
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/mortal-world--british-isles-and-western-european-nomes.png"
+      }
+    }
+  },
+  "Italy and the Imperial Heartlands": {
+    "name": "Italy and the Imperial Heartlands",
+    "basicInfo": "A Mediterranean peninsula of volcanic mountains, fertile valleys, ancient roads, buried cities, crowded modern centers, and coasts filled with classical ruins. Warm dry summers and wet winters shape a landscape where Roman temples, Greek colonies, Sibylline caves, necromantic sites, and imperial memories remain unusually active. Dii Consentes, household spirits, legionary ghosts, magicians, monsters, and Triumvirate remnants contest sites whose mortal archaeology only partly reveals their power.",
+    "x": 9,
+    "y": 3,
+    "realm": "Mortal World",
+    "factions": [
+      "Dii Consentes",
+      "Camp Jupiter and New Rome",
+      "Triumvirate Remnants",
+      "Restless Dead",
+      "Clear-Sighted Network"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 18,
+      "max": 60
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/mortal-world--italy-and-the-imperial-heartlands.png"
+      }
+    }
+  },
+  "Greek Mainland and Aegean": {
+    "name": "Greek Mainland and Aegean",
+    "basicInfo": "A sunlit region of rugged mountains, olive valleys, island chains, deep blue sea, ruined sanctuaries, and caves leading into older layers of myth. Summers are dry and bright, winters mild and stormy, and the Mist is thin around Delphi, Epirus, ancient battlefields, and waters once crossed by heroes. Greek gods, nymphs, centaurs, wind spirits, monsters, Oracles, and local guardians inhabit a landscape where many legendary routes remain physically reachable under the correct omen.",
+    "x": 10,
+    "y": 3,
+    "realm": "Mortal World",
+    "factions": [
+      "Olympian Council",
+      "Hunters of Artemis",
+      "Oracle Concord",
+      "Underworld Court",
+      "River Gods Assembly"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 15,
+      "max": 60
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/mortal-world--greek-mainland-and-aegean.png"
+      }
+    }
+  },
+  "Pacific Mythic Routes": {
+    "name": "Pacific Mythic Routes",
+    "basicInfo": "An oceanic region of deep trenches, volcanic island arcs, fog banks, and long shipping lanes west of North America. Mortal vessels see open water, but enchanted navigation reveals wandering islands, Titan debris, storm palaces, sea-monster nurseries, and routes that bend toward Ogygia or distant divine waters. Nereids, venti, cyclopes, ocean spirits, Amazons, and predatory monsters patrol a zone where distance and direction change with divine favor. Playable destinations now include Mid-Pacific Convergence Buoy, Hawaiian Mist Harbor, Pacific Gyre Monster Grave, and Date Line Threshold.",
+    "x": 0,
+    "y": 2,
+    "realm": "Mortal World",
+    "factions": [
+      "Amazon Nation",
+      "River Gods Assembly",
+      "Monster Market Syndicate",
+      "Primordial Powers"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 25,
+      "max": 65
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/mortal-world--pacific-mythic-routes.png"
+      }
+    }
+  },
+  "Mexico and Central American Crossroads": {
+    "name": "Mexico and Central American Crossroads",
+    "basicInfo": "A varied southern region of high plateaus, volcanic ranges, tropical forest, cenotes, Pacific and Caribbean coasts, and modern cities layered over ancient sacred landscapes. Greek, Roman, Egyptian, and Norse travelers are outsiders here, and their portals intersect powerful local traditions that the major camps do not control. House of Life routes, monster smugglers, clear-sighted communities, and forgotten deities use the region as neutral or contested passage into a wider mythological world. Playable destinations now include Mexico City Convergence Archive, Yucatan Cenote Gatehouse, Veracruz Storm Harbor, and Panama Isthmus Threshold.",
+    "x": 2,
+    "y": 1,
+    "realm": "Mortal World",
+    "factions": [
+      "House of Life",
+      "Clear-Sighted Network",
+      "Forgotten Gods Compact",
+      "Monster Market Syndicate"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 18,
+      "max": 55
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/mortal-world--mexico-and-central-american-crossroads.png"
+      }
+    }
+  },
+  "Caribbean Sea of Monsters": {
+    "name": "Caribbean Sea of Monsters",
+    "basicInfo": "A warm but treacherous expanse of islands, reefs, hurricane corridors, trenches, and fog-hidden waters where the modern Sea of Monsters overlaps the mortal Caribbean and Bermuda approaches. Compass headings fail, storms form without warning, and islands may belong to different centuries or myths from one visit to the next. Sirens, hydras, sea giants, sorceresses, cyclopes, pirates, and lost questers inhabit the shifting region, while several passages lead toward the Joined Seas. Playable destinations now include Bermuda Mist Triangle, Puerto Rico Hurricane Refuge, Hispaniola Deepwater Oracle, and Cayman Monster Exchange.",
+    "x": 4,
+    "y": 1,
+    "realm": "Mortal World",
+    "factions": [
+      "Monster Market Syndicate",
+      "River Gods Assembly",
+      "Primordial Powers",
+      "Unaffiliated Heroes"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 25,
+      "max": 70
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/mortal-world--caribbean-sea-of-monsters.png"
+      }
+    }
+  },
+  "Atlantic Mythic Routes": {
+    "name": "Atlantic Mythic Routes",
+    "basicInfo": "A broad ocean corridor of cold northern currents, warm southern streams, abyssal trenches, and supernatural weather connecting the Americas to Europe and North Africa. Enchanted vessels encounter ghost fleets, sea-god borders, drifting temples, Valkyrie air paths, and Egyptian portals reflected in the water. Merpeople, sea spirits, drowned dead, monsters, magicians, and immortal sailors use routes whose safety changes whenever the pantheons quarrel. Playable destinations now include Sargasso Memory Sea, Azores Storm Gate, Gulf Stream Naiad Road, and Mid-Atlantic Rescue Platform.",
+    "x": 7,
+    "y": 3,
+    "realm": "Mortal World",
+    "factions": [
+      "River Gods Assembly",
+      "Independent Norse Powers",
+      "House of Life",
+      "Monster Market Syndicate"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 20,
+      "max": 60
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/mortal-world--atlantic-mythic-routes.png"
+      }
+    }
+  },
+  "North Africa and Atlas Coast": {
+    "name": "North Africa and Atlas Coast",
+    "basicInfo": "A region of Mediterranean shore, Atlas mountain passes, dry interior plateau, old ports, and desert margins extending west of Egypt. Hot summers, winter coastal rains, and wind-shaped ruins conceal Titan memories, Garden-of-the-Hesperides routes, Roman roads, Egyptian nomes, and entrances into the western Duat. Magicians, nymphs, Atlas-bound spirits, monsters, and forgotten gods move through terrain where the ancient western edge of the world still survives beneath modern geography. Playable destinations now include Siwa Oracle Oasis, Carthage Memory Harbor, Atlas Mountain Sky-Fort, and Cyrene Crossroads Sanctuary.",
+    "x": 9,
+    "y": 2,
+    "realm": "Mortal World",
+    "factions": [
+      "House of Life",
+      "Titan Ashes",
+      "Forgotten Gods Compact",
+      "Clear-Sighted Network"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 20,
+      "max": 60
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/mortal-world--north-africa-and-atlas-coast.png"
+      }
+    }
+  },
+  "Nile Valley and the Red Lands": {
+    "name": "Nile Valley and the Red Lands",
+    "basicInfo": "A long river corridor of cultivated green banks bordered immediately by limestone cliffs, desert, temple fields, cataracts, and isolated oases stretching south from the delta. Days are intensely hot and nights cold in the desert; sacred geography follows the Nile while the Red Lands harbor Set's storms, sealed tombs, lost nomes, and demon roads. Priests, magicians, river gods, desert spirits, monsters, and remote communities guard passages into the deeper Duat.",
+    "x": 11,
+    "y": 1,
+    "realm": "Mortal World",
+    "factions": [
+      "House of Life",
+      "River Gods Assembly",
+      "Set's Red Company",
+      "Children of the Two Lands",
+      "Cult of the Devouring Serpent"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 15,
+      "max": 60
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/mortal-world--nile-valley-and-the-red-lands.png"
+      }
+    }
+  },
+  "Eastern Mediterranean and Levantine Crossroads": {
+    "name": "Eastern Mediterranean and Levantine Crossroads",
+    "basicInfo": "A coastal and inland region of dry hills, cedar remnants, island approaches, ancient ports, desert roads, and cities layered across thousands of years. Greek heroic routes, Roman imperial roads, Egyptian magical influence, and older local divine traditions converge more densely here than almost anywhere in the mortal world. Traders, magicians, monsters, spirits, clear-sighted archaeologists, and displaced minor gods compete for ruins that function as gates between pantheons.",
+    "x": 11,
+    "y": 3,
+    "realm": "Mortal World",
+    "factions": [
+      "House of Life",
+      "Olympian Council",
+      "Dii Consentes",
+      "Forgotten Gods Compact",
+      "Clear-Sighted Network"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 20,
+      "max": 65
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/mortal-world--eastern-mediterranean-and-levantine-crossroads.png"
+      }
+    }
+  },
+  "Aeolian Sky and Wind Courts": {
+    "name": "Aeolian Sky and Wind Courts",
+    "basicInfo": "A moving archipelago of cloud fortresses, bottled storms, jet-stream roads, and weather stations suspended above the mortal atmosphere. Light is brilliant, footing unreliable, and each directional wind creates its own temperature and season across adjacent cloud banks. Venti, anemoi, storm nymphs, harpies, divine broadcasters, and weather couriers crowd the region while contradictory orders from several pantheons turn ordinary forecasts into territorial disputes. Playable destinations now include Aeolus's Weather Citadel, Four Winds Rotunda, Anemoi Hippalectryon Stable, and Storm Ledger Vault.",
+    "x": 1,
+    "y": 5,
+    "realm": "Greek Divine Sphere",
+    "factions": [
+      "Olympian Council",
+      "Primordial Powers",
+      "Oracle Concord"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 35,
+      "max": 75
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/greek-divine-sphere--aeolian-sky-and-wind-courts.png"
+      }
+    }
+  },
+  "Delos and the Wandering Sacred Islands": {
+    "name": "Delos and the Wandering Sacred Islands",
+    "basicInfo": "A bright Aegean-like chain of divine islands that drift between mortal waters and Olympus, anchored by Delos and surrounded by reefs, sacred groves, ruined theaters, and oracle caves. The climate is clear and warm until prophecy changes, when islands can vanish into fog or move hundreds of miles overnight. Priests, nymphs, minor gods, sacred animals, Oracles, and questers inhabit the region, while monsters seek islands whose old protections are weakening.",
+    "x": 4,
+    "y": 3,
+    "realm": "Greek Divine Sphere",
+    "factions": [
+      "Olympian Council",
+      "Oracle Concord",
+      "Hunters of Artemis"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 25,
+      "max": 60
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/greek-divine-sphere--delos-and-the-wandering-sacred-islands.png"
+      }
+    }
+  },
+  "Mount Olympus and the Olympian City": {
+    "name": "Mount Olympus and the Olympian City",
+    "basicInfo": "A divine mountain-city of white palaces, gardens, plazas, temples, training courts, and cloud-bright heights existing above the current center of Western power. The air is thin but invigorating, weather responds to divine mood, and every district expresses the domain of an Olympian or recognized minor god. Gods, attendants, nature spirits, immortal servants, petitioners, and guarded mortal guests fill the region; political tension is visible even when the city appears festive.",
+    "x": 3,
+    "y": 4,
+    "realm": "Greek Divine Sphere",
+    "factions": [
+      "Olympian Council",
+      "Olympian Court",
+      "Hunters of Artemis",
+      "The Moirai"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 35,
+      "max": 80
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/greek-divine-sphere--mount-olympus-and-the-olympian-city.png"
+      }
+    }
+  },
+  "Sun, Moon, and Dawn Roads": {
+    "name": "Sun, Moon, and Dawn Roads",
+    "basicInfo": "A high celestial region of burning chariot paths, silver lunar bridges, rose-colored dawn gates, and star-marked night roads circling the divine sky. Temperature and gravity shift sharply between routes, and a traveler without protection can be blinded, frozen, or carried into a different day. Solar, lunar, and dawn powers, celestial horses, constellations, winds, and prophetic spirits maintain the roads while foreign sun and moon deities increasingly appear on parallel tracks.",
+    "x": 5,
+    "y": 5,
+    "realm": "Greek Divine Sphere",
+    "factions": [
+      "Olympian Council",
+      "Primordial Powers",
+      "Oracle Concord"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 45,
+      "max": 85
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/greek-divine-sphere--sun-moon-and-dawn-roads.png"
+      }
+    }
+  },
+  "Garden of the Hesperides and Western Edge": {
+    "name": "Garden of the Hesperides and Western Edge",
+    "basicInfo": "A remote western highland of golden evening light, steep mountains, immortal orchards, guarded springs, and the ancient garden where the Hesperides tend sacred fruit. The climate remains at luminous sunset, but Atlas's old burden and Titan wounds distort gravity near the horizon. Nymphs, immortals, dragon guardians, Titan remnants, and rare questers inhabit the region; entry is difficult and theft awakens protections older than Olympus.",
+    "x": 0,
+    "y": 3,
+    "realm": "Greek Divine Sphere",
+    "factions": [
+      "Titan Ashes",
+      "Independent Titans",
+      "Olympian Council"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 45,
+      "max": 85
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/greek-divine-sphere--garden-of-the-hesperides-and-western-edge.png"
+      }
+    }
+  },
+  "Ogygia and the Hidden Isles": {
+    "name": "Ogygia and the Hidden Isles",
+    "basicInfo": "A warm isolated sea of flowered islands, gentle coves, forested hills, caves, and beautifully maintained homes that conceal the supernatural weight of exile. Weather is calm and seasons blur, while routes appear only to the lost, the cursed, or those released by exact divine permission. Immortal exiles, nymphs, stranded heroes, spirits, and memory-echoes inhabit the islands, and the Convergence has begun revealing shores that were never meant to share one sea. Playable destinations now include Calypso's Empty Garden, Ogygian Tide Clock, Hero's Departure Shore, and Archipelago of Unchosen Exiles.",
+    "x": 1,
+    "y": 2,
+    "realm": "Greek Divine Sphere",
+    "factions": [
+      "Forgotten Gods Compact",
+      "Unaffiliated Heroes",
+      "Olympian Council"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 20,
+      "max": 55
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/greek-divine-sphere--ogygia-and-the-hidden-isles.png"
+      }
+    }
+  },
+  "Oracle Roads and Sacred Crossroads": {
+    "name": "Oracle Roads and Sacred Crossroads",
+    "basicInfo": "A shifting region of torchlit crossroads, prophetic caverns, laurel groves, dream gates, rainbow bridges, and roads that connect shrines without crossing ordinary distance. Day and night overlap, spoken names carry unusual weight, and every path becomes more dangerous when a traveler tries to avoid a foretold choice. Oracles, Hecatean spirits, messengers, dream beings, ghosts, and crossroads guardians inhabit the region while the Severed Thread corrupts signs and destinations.",
+    "x": 3,
+    "y": 3,
+    "realm": "Greek Divine Sphere",
+    "factions": [
+      "Oracle Concord",
+      "Olympian Council",
+      "The Moirai",
+      "Order of the Severed Thread"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 25,
+      "max": 70
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/greek-divine-sphere--oracle-roads-and-sacred-crossroads.png"
+      }
+    }
+  },
+  "Mount Othrys and the Titan Ruins": {
+    "name": "Mount Othrys and the Titan Ruins",
+    "basicInfo": "A broken divine mountain region of black pine, shattered palaces, tilted time fields, ash-filled valleys, and fortress foundations left from Titan rule. Weather repeats in loops and aging becomes unreliable near ruined thrones, while fragments of old standards still command lesser monsters. Titan Ashes, reforming Titans, Earthborn remnants, scavengers, and spies from Olympus occupy separate strongholds in a region officially defeated but never truly empty.",
+    "x": 5,
+    "y": 3,
+    "realm": "Greek Divine Sphere",
+    "factions": [
+      "Titan Ashes",
+      "Independent Titans",
+      "Earthborn Remnants",
+      "Olympian Council"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 50,
+      "max": 90
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/greek-divine-sphere--mount-othrys-and-the-titan-ruins.png"
+      }
+    }
+  },
+  "Atlantis and the Sea Court": {
+    "name": "Atlantis and the Sea Court",
+    "basicInfo": "A vast underwater region of coral cities, palace trenches, kelp forests, volcanic vents, drowned temples, and highways traveled by hippocampi and sea spirits. Light fades from bright shelf waters to absolute abyss, pressure becomes supernatural, and boundaries change with Poseidon's treaties. The Sea Court, merpeople, cyclopes, nereids, tritons, marine monsters, and ancient ocean powers inhabit the region, now threatened by currents connecting it to the Duat and Norse seas. Playable destinations now include Poseidon's Submerged Palace, Amphitrite's Pearl Court, Triton Muster Reef, and Cyclops Forge-Trenches.",
+    "x": 2,
+    "y": 0,
+    "realm": "Greek Divine Sphere",
+    "factions": [
+      "Olympian Council",
+      "River Gods Assembly",
+      "Primordial Powers",
+      "Monster Market Syndicate"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 30,
+      "max": 75
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/greek-divine-sphere--atlantis-and-the-sea-court.png"
+      }
+    }
+  },
+  "Aeaea and the Sorcerous Archipelago": {
+    "name": "Aeaea and the Sorcerous Archipelago",
+    "basicInfo": "A green island region of sheltered bays, marble villas, enchanted woodland, herb terraces, animal pens, and fog-hidden neighboring islands shaped by powerful sorcery. The air is fragrant and deceptively peaceful, while the Mist grows dense enough to turn hospitality, identity, and memory into physical traps. Immortal witches, transformed mortals, nymphs, magical beasts, apprentices, and wandering heroes inhabit the archipelago under rules that reward courtesy but punish carelessness. Playable destinations now include Circe's Reclaimed Palace, Sorceress Harbor, Beast-Shape Gardens, and Loom of Reversible Forms.",
+    "x": 4,
+    "y": 1,
+    "realm": "Greek Divine Sphere",
+    "factions": [
+      "Forgotten Gods Compact",
+      "Monster Market Syndicate",
+      "Unaffiliated Heroes"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 30,
+      "max": 70
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/greek-divine-sphere--aeaea-and-the-sorcerous-archipelago.png"
+      }
+    }
+  },
+  "The Living Labyrinth": {
+    "name": "The Living Labyrinth",
+    "basicInfo": "An immense self-altering maze-region of bronze corridors, stone tunnels, forgotten subway lines, underground rivers, workshops, palaces, monster dens, and doors that can open beneath any land. Climate and architecture change without warning; time, direction, and distance depend on the maze's mood and whoever currently influences its design. Monsters, lost travelers, ghosts of inventors, sorcerers, smugglers, and living mechanisms inhabit the passages, while the Fractured Labyrinth leaks into this older network. Playable destinations now include Daedalus's Lost Workshop, Janus Junction, Sphinx Examination Hall, and Briares Ventilation Chasm.",
+    "x": 3,
+    "y": 1,
+    "realm": "Greek Divine Sphere",
+    "factions": [
+      "Monster Market Syndicate",
+      "Order of the Severed Thread",
+      "Unaffiliated Heroes"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 25,
+      "max": 80
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/greek-divine-sphere--the-living-labyrinth.png"
+      }
+    }
+  },
+  "Forgotten Rustic Wilds": {
+    "name": "Forgotten Rustic Wilds",
+    "basicInfo": "A broad divine wilderness of old-growth forest, meadow, mountain spring, cave, and abandoned shrine preserving what remains of Pan's influence and other neglected nature powers. Seasons follow ecological need rather than calendar, and areas damaged in the mortal world appear here as gray wounds or silent clearings. Satyrs, fauns, dryads, naiads, animal spirits, faded gods, Hunters, and nature monsters inhabit the region, which expands or contracts according to mortal environmental choices. Playable destinations now include Pan's Last Echo Grove, Council of the Wild, Path of Lost Music, and Dryad Refuge Orchard.",
+    "x": 1,
+    "y": 4,
+    "realm": "Greek Divine Sphere",
+    "factions": [
+      "Council of Cloven Elders",
+      "Hunters of Artemis",
+      "Forgotten Gods Compact",
+      "Olympian Council"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 15,
+      "max": 55
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/greek-divine-sphere--forgotten-rustic-wilds.png"
+      }
+    }
+  },
+  "Saturnian Fields": {
+    "name": "Saturnian Fields",
+    "basicInfo": "A golden agricultural highland of grain terraces, winter festival roads, ancient farmsteads, and ruins recalling the Roman Golden Age. The region alternates between abundant harvest and cold temporal stillness, and rank temporarily loses meaning during Saturnalia-like surges. Old Roman powers, agricultural spirits, Titan memories, petitioners, and ideological movements gather here around competing visions of a restored past. Playable destinations now include Saturn's Golden-Age Terrace, Ops Granary of Ages, Saturnalia Agora, and Titan Truce Orchard.",
+    "x": 0,
+    "y": 3,
+    "realm": "Roman Divine Sphere",
+    "factions": [
+      "Dii Consentes",
+      "Independent Titans",
+      "Forgotten Gods Compact"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 35,
+      "max": 75
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/roman-divine-sphere--saturnian-fields.png"
+      }
+    }
+  },
+  "Capitoline Olympus": {
+    "name": "Capitoline Olympus",
+    "basicInfo": "A disciplined Roman manifestation of Olympus shaped as a monumental hill-city of temples, senate courts, triumphal ways, military terraces, archives, and civic gardens. The atmosphere is bright, formal, and charged with collective authority; every road is measured and every threshold has a numen. Roman gods, divine attendants, Lares, legionary spirits, augurs, ambassadors, and approved demigods inhabit the region while separation from their Greek aspects creates growing political strain.",
+    "x": 2,
+    "y": 3,
+    "realm": "Roman Divine Sphere",
+    "factions": [
+      "Dii Consentes",
+      "New Rome Senate",
+      "Camp Jupiter and New Rome"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 35,
+      "max": 80
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/roman-divine-sphere--capitoline-olympus.png"
+      }
+    }
+  },
+  "Imperial Memory City": {
+    "name": "Imperial Memory City",
+    "basicInfo": "A spectral metropolis assembled from the remembered Rome of many eras, containing forums, aqueducts, apartment blocks, theaters, barracks, palaces, and streets that rearrange according to public memory. Weather follows ceremony rather than season, and crowds of ancestral echoes appear during triumphs or crises. Honored Roman dead, civic spirits, imperial vestiges, historians, and divine officials occupy the region, where propaganda can literally rebuild a tyrant's monument overnight. Playable destinations now include Forum of Remembered Rome, Archive of Unmade Triumphs, Legion of Shades Barracks, and Palatine Echo Palace.",
+    "x": 2,
+    "y": 2,
+    "realm": "Roman Divine Sphere",
+    "factions": [
+      "Dii Consentes",
+      "Restless Dead",
+      "Triumvirate Remnants",
+      "New Rome Senate"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 40,
+      "max": 85
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/roman-divine-sphere--imperial-memory-city.png"
+      }
+    }
+  },
+  "Roads of Sol and Luna": {
+    "name": "Roads of Sol and Luna",
+    "basicInfo": "A celestial Roman region of straight solar highways, moonlit calendar tracks, triumphal arches, observatories, and stations marking the hours and months of state ritual. Light is orderly but severe, and deviations from the official route can strand travelers in an omitted date. Roman solar, lunar, messenger, victory, and time powers maintain the roads while Greek and Egyptian celestial traffic increasingly crosses them. Playable destinations now include Sol's Chariot Station, Luna's Silver Mile, Aurora Gate, and Eclipse Milestone.",
+    "x": 4,
+    "y": 3,
+    "realm": "Roman Divine Sphere",
+    "factions": [
+      "Dii Consentes",
+      "Oracle Concord",
+      "Convergence Council"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 45,
+      "max": 85
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/roman-divine-sphere--roads-of-sol-and-luna.png"
+      }
+    }
+  },
+  "Numina Countryside": {
+    "name": "Numina Countryside",
+    "basicInfo": "A cultivated divine landscape of vineyards, orchards, springs, boundary stones, country roads, household shrines, and small sacred groves representing Rome's innumerable local powers. The climate is mild and seasonal, but every task, gate, cupboard, field, and water source may possess an attentive spirit. Lares, Penates, nymphs, agricultural gods, travelers, fauns, and ancestral guardians inhabit the region, making courtesy and exact naming more important than raw strength. Playable destinations now include Lares Crossroad Village, Terminus Boundary Field, Pomona's Orchard Province, and Faunus Prophecy Wood.",
+    "x": 0,
+    "y": 1,
+    "realm": "Roman Divine Sphere",
+    "factions": [
+      "Dii Consentes",
+      "Council of Cloven Elders",
+      "River Gods Assembly"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 15,
+      "max": 50
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/roman-divine-sphere--numina-countryside.png"
+      }
+    }
+  },
+  "Janus Gate Network": {
+    "name": "Janus Gate Network",
+    "basicInfo": "A threshold region formed from city gates, domestic doors, military arches, bridgeheads, beginnings, endings, and roads suspended between arrival and departure. No stable climate exists: one side of a gate may open into winter and the other into summer, and travelers can meet versions of themselves who chose differently. Janus, Terminus's servants, messengers, legal spirits, smugglers, and trapped questers inhabit the network as a third unknown face opens forbidden routes. Playable destinations now include Janus Bifrons Vestibule, Door of First Choices, Door of Last Returns, and Gatewright Depot.",
+    "x": 4,
+    "y": 1,
+    "realm": "Roman Divine Sphere",
+    "factions": [
+      "Dii Consentes",
+      "Order of the Severed Thread",
+      "Convergence Council"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 30,
+      "max": 75
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/roman-divine-sphere--janus-gate-network.png"
+      }
+    }
+  },
+  "Concordia Forum": {
+    "name": "Concordia Forum",
+    "basicInfo": "A marble civic basin of assembly halls, treaty gardens, law courts, embassies, sacred flames, and open plazas built for disputes between gods, spirits, mortals, and cities. The air remains calm unless an oath is broken, when statues crack and every spoken contradiction becomes audible. Roman civic gods, diplomats, senators, ancestral witnesses, foreign envoys, and legal spirits inhabit the region, which now hosts arguments over multi-parent demigod citizenship. Playable destinations now include Basilica of Concordia, Treaty Steps, Hall of Shared Standards, and Messenger Courtyard.",
+    "x": 2,
+    "y": 1,
+    "realm": "Roman Divine Sphere",
+    "factions": [
+      "Dii Consentes",
+      "Convergence Council",
+      "New Rome Senate",
+      "Camp Jupiter and New Rome"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 20,
+      "max": 60
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/roman-divine-sphere--concordia-forum.png"
+      }
+    }
+  },
+  "Roman Sea Court": {
+    "name": "Roman Sea Court",
+    "basicInfo": "A formal underwater and coastal divine region of pearl basilicas, naval harbors, salt terraces, lighthouse roads, and deep chambers governed by Neptune and Salacia. Currents move like disciplined fleets and storms resemble military formations, while ancient sea treaties are carved into the seabed. Roman sea gods, tritons, river numina, naval ghosts, marine spirits, and hostile Giant remnants contest the new trench joining these waters to other cosmologies. Playable destinations now include Neptune's Salt Basilica, Portunus Harbor of Keys, Salacia's Quiet Trench, and Roman Triton Anchorage.",
+    "x": 2,
+    "y": 0,
+    "realm": "Roman Divine Sphere",
+    "factions": [
+      "Dii Consentes",
+      "River Gods Assembly",
+      "Earthborn Remnants",
+      "Convergence Council"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 30,
+      "max": 75
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/roman-divine-sphere--roman-sea-court.png"
+      }
+    }
+  },
+  "Styx Threshold and Judgment Roads": {
+    "name": "Styx Threshold and Judgment Roads",
+    "basicInfo": "A dim borderland of black beaches, cavern stations, funerary roads, guarded gates, and the River Styx where newly arrived souls are sorted toward judgment. The air is cold and dry, coin offerings still matter, and multiple entrances from the mortal world converge without sharing ordinary geography. Charon's staff, Furies, death spirits, shades, petitioners, and Underworld guards inhabit the region while foreign afterlife seals create unprecedented traffic disputes.",
+    "x": 2,
+    "y": 4,
+    "realm": "Greek Underworld",
+    "factions": [
+      "Underworld Court",
+      "Restless Dead",
+      "The Moirai"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 20,
+      "max": 55
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/greek-underworld--styx-threshold-and-judgment-roads.png"
+      }
+    }
+  },
+  "Palace of Hades and Chthonic Court": {
+    "name": "Palace of Hades and Chthonic Court",
+    "basicInfo": "A vast black-stone capital of throne halls, treasure vaults, archives, pomegranate gardens, audience chambers, and gates opening toward every part of the Greek dead. The climate is still and mineral-cold, lit by ghost flame and precious metals drawn from beneath the earth. Hades, Persephone, chthonic gods, Furies, judges, guards, petitioning shades, and carefully supervised living visitors inhabit the region amid an expanding crisis of disputed souls.",
+    "x": 2,
+    "y": 2,
+    "realm": "Greek Underworld",
+    "factions": [
+      "Underworld Court",
+      "The Moirai",
+      "Court of Osiris",
+      "Court of Hel"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 30,
+      "max": 70
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/greek-underworld--palace-of-hades-and-chthonic-court.png"
+      }
+    }
+  },
+  "Fields of Asphodel": {
+    "name": "Fields of Asphodel",
+    "basicInfo": "An immense gray plain of asphodel, low hills, drifting mist, modest shade settlements, and paths worn by souls whose lives were neither exceptionally heroic nor exceptionally wicked. Light never changes and memory gradually softens unless a soul finds purpose, company, or an official summons. Countless dead, ancestral guides, minor Underworld spirits, lost questers, and opportunistic recruiters inhabit the region, making it peaceful in places but dangerously easy to disappear within.",
+    "x": 1,
+    "y": 2,
+    "realm": "Greek Underworld",
+    "factions": [
+      "Underworld Court",
+      "Restless Dead",
+      "Clear-Sighted Network"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 5,
+      "max": 35
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/greek-underworld--fields-of-asphodel.png"
+      }
+    }
+  },
+  "Elysium and the Isles of the Blest": {
+    "name": "Elysium and the Isles of the Blest",
+    "basicInfo": "A luminous afterlife region of green valleys, warm coast, beautiful cities, music, athletic fields, orchards, and offshore islands reserved for heroic and blessed souls. Weather is gentle and tailored to meaningful memory, though entry and repeated rebirth remain governed by judgment rather than desire alone. Honored dead, heroes, artists, judges, divine messengers, and rare living guests inhabit the region, which now receives competing claims from Valhalla, Folkvanger, and Aaru.",
+    "x": 0,
+    "y": 1,
+    "realm": "Greek Underworld",
+    "factions": [
+      "Underworld Court",
+      "Unaffiliated Heroes",
+      "Convergence Council"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 15,
+      "max": 50
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/greek-underworld--elysium-and-the-isles-of-the-blest.png"
+      }
+    }
+  },
+  "Acheron and Cocytus Canyons": {
+    "name": "Acheron and Cocytus Canyons",
+    "basicInfo": "A harsh chthonic region of steep black ravines, echoing caves, broken bridges, and the Rivers of Pain and Lament winding through cold stone. Sound travels too far, grief takes physical shape, and water can expose wounds a traveler has refused to acknowledge. River gods, mournful shades, Furies, monsters, psychopomps, and rescuers inhabit the canyons, while foreign dead increasingly wash ashore with memories from other afterlives.",
+    "x": 3,
+    "y": 2,
+    "realm": "Greek Underworld",
+    "factions": [
+      "Underworld Court",
+      "River Gods Assembly",
+      "Restless Dead"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 25,
+      "max": 60
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/greek-underworld--acheron-and-cocytus-canyons.png"
+      }
+    }
+  },
+  "Fields of Punishment": {
+    "name": "Fields of Punishment",
+    "basicInfo": "A severe landscape of ash, iron, barren ridges, prisons, and repeating environments shaped around the consequences assigned to condemned souls. Heat, cold, distance, and time vary by sentence, and escape attempts can create contagious punishment loops. Wardens, Furies, condemned shades, curse spirits, monsters, and occasional investigators inhabit the region as forged verdicts begin sending innocent souls into occupied cells.",
+    "x": 4,
+    "y": 1,
+    "realm": "Greek Underworld",
+    "factions": [
+      "Underworld Court",
+      "Restless Dead",
+      "Triumvirate Remnants"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 35,
+      "max": 75
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/greek-underworld--fields-of-punishment.png"
+      }
+    }
+  },
+  "Hall of Disputed Judgments": {
+    "name": "Hall of Disputed Judgments",
+    "basicInfo": "A newly expanded border region of courts, waiting chambers, archive stacks, neutral gardens, and sealed doors created for souls claimed by several afterlives or recorded differently by rival divine systems. The atmosphere shifts with each case, from Greek cavern to Roman tribunal, Egyptian hall, or Norse mist. Judges, psychopomps, advocates, ancestral witnesses, confused dead, and divine envoys inhabit the region while ambitious shades seek to turn uncertainty into personal authority.",
+    "x": 2,
+    "y": 3,
+    "realm": "Greek Underworld",
+    "factions": [
+      "Underworld Court",
+      "Court of Osiris",
+      "Court of Hel",
+      "Convergence Council",
+      "Restless Dead"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 25,
+      "max": 65
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/greek-underworld--hall-of-disputed-judgments.png"
+      }
+    }
+  },
+  "Isles of Rebirth": {
+    "name": "Isles of Rebirth",
+    "basicInfo": "A remote bright-water region of small islands, quiet temples, memory springs, and departure beaches associated with souls preparing to return to mortal life or attempt the path toward the Isles of the Blest. Weather moves backward near certain shores, and names must be surrendered or protected according to the chosen rite. Guides, rebirth candidates, Moirai attendants, memory spirits, and unauthorized soul traffickers inhabit the region. Playable destinations now include Isle of Chosen Return, Lethe Consent Pavilion, Mnemosyne Memory Spring, and Rebirth Ferry Harbor.",
+    "x": 0,
+    "y": 0,
+    "realm": "Greek Underworld",
+    "factions": [
+      "Underworld Court",
+      "The Moirai",
+      "Monster Market Syndicate"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 20,
+      "max": 55
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/greek-underworld--isles-of-rebirth.png"
+      }
+    }
+  },
+  "Upper Tartarean Wastes": {
+    "name": "Upper Tartarean Wastes",
+    "basicInfo": "A poisoned wilderness of dark cliffs, metallic dust, jagged plains, monster tracks, and a hostile sky forming the upper reaches of Tartarus. Air, water, and even distance resist mortal life; destroyed monsters reform here and remember fragments of prior deaths. Regenerating creatures, defeated armies, rogue Titans, trapped spirits, and rare survivors inhabit the wastes, while cracks created by the Convergence offer dangerous routes upward.",
+    "x": 2,
+    "y": 3,
+    "realm": "Tartarus",
+    "factions": [
+      "Earthborn Remnants",
+      "Titan Ashes",
+      "Primordial Powers"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 55,
+      "max": 90
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/tartarus--upper-tartarean-wastes.png"
+      }
+    }
+  },
+  "Phlegethon Canyons": {
+    "name": "Phlegethon Canyons",
+    "basicInfo": "A burning canyon region carved by the River Phlegethon through black stone, sulfur flats, bone fields, and volcanic tunnels. The fiery water can sustain desperate travelers while inflicting agony, and eruptions expose weapons or memories buried during ancient wars. Fire spirits, monsters, Titan remnants, arai, and scavengers inhabit the region, which connects unpredictably to Muspelheim and volcanic sites in the mortal world.",
+    "x": 4,
+    "y": 3,
+    "realm": "Tartarus",
+    "factions": [
+      "Titan Ashes",
+      "Forces of Ragnarok",
+      "Earthborn Remnants"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 60,
+      "max": 95
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/tartarus--phlegethon-canyons.png"
+      }
+    }
+  },
+  "Damasen's Broken Farm": {
+    "name": "Damasen's Broken Farm",
+    "basicInfo": "A rare cultivated refuge of damaged fields, a stone farmhouse, drakon paths, and stubborn living growth surviving in hostile Tartarean soil. The sky remains oppressive and every harvest must resist poison, yet the land carries the memory of Damasen's choice to reject the violent purpose assigned at his birth. Peace-seeking monsters, rescued souls, reforming enemies, and hunted travelers use the region while Giant remnants attempt to reclaim it.",
+    "x": 0,
+    "y": 3,
+    "realm": "Tartarus",
+    "factions": [
+      "Unaffiliated Heroes",
+      "Giantborn Compact",
+      "Earthborn Remnants"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 40,
+      "max": 75
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/tartarus--damasens-broken-farm.png"
+      }
+    }
+  },
+  "Doors of Death and Tartarean Gate": {
+    "name": "Doors of Death and Tartarean Gate",
+    "basicInfo": "A fortress-region of towering gates, chained elevators, basalt approaches, broken temples, and paths converging from the mortal House of Hades and the deepest pit. Gravity pulls toward the Doors, ghosts move in opposing streams, and every opening risks allowing monsters to bypass normal regeneration. Underworld forces, Giant remnants, monsters, psychopomps, and gatekeepers contest the region, making it both an escape route and an invasion front.",
+    "x": 2,
+    "y": 4,
+    "realm": "Tartarus",
+    "factions": [
+      "Underworld Court",
+      "Earthborn Remnants",
+      "Titan Ashes",
+      "Convergence Council"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 65,
+      "max": 100
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/tartarus--doors-of-death-and-tartarean-gate.png"
+      }
+    }
+  },
+  "Akhlys's Misery Marsh": {
+    "name": "Akhlys's Misery Marsh",
+    "basicInfo": "A lightless wetland of poisonous fog, black pools, thorn scrub, acid rain, and islands formed from concentrated suffering. Breath becomes difficult, despair alters terrain, and wounds can manifest as predators outside the body. Akhlys's servants, poison spirits, arai, monsters, and lost souls inhabit the marsh; the Convergence now drains grief from several afterlives into the same basin.",
+    "x": 0,
+    "y": 2,
+    "realm": "Tartarus",
+    "factions": [
+      "Primordial Powers",
+      "Monster Market Syndicate",
+      "Restless Dead"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 65,
+      "max": 100
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/tartarus--akhlyss-misery-marsh.png"
+      }
+    }
+  },
+  "Nyx's Mansion and Nightlands": {
+    "name": "Nyx's Mansion and Nightlands",
+    "basicInfo": "An immense region of starless night containing Nyx's dark estate, cavernous plains, nightmare forests, and roads visible only when no light is carried. Shadows possess depth, names attract attention, and primordial children embodying sleep, death, deceit, pain, and doom gather around the borders. Primordial powers, nightmares, hostile personifications, and a few secretive guides inhabit the Nightlands, where even gods travel cautiously.",
+    "x": 4,
+    "y": 2,
+    "realm": "Tartarus",
+    "factions": [
+      "Primordial Powers",
+      "Titan Ashes",
+      "Order of the Severed Thread"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 70,
+      "max": 100
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/tartarus--nyxs-mansion-and-nightlands.png"
+      }
+    }
+  },
+  "Giant Ossuary": {
+    "name": "Giant Ossuary",
+    "basicInfo": "A battlefield region of enormous bones, buried armor, petrified serpent legs, cracked standards, and unfinished bodies where Gigantes essences gather after defeat. Earth pulses beneath the ossuary and can assemble a new Giant vessel around any sufficiently powerful grievance. Earthborn remnants, monster smiths, Titan agents, scavengers, and unwilling Giant souls inhabit the region, including those resisting the nature assigned to them.",
+    "x": 2,
+    "y": 1,
+    "realm": "Tartarus",
+    "factions": [
+      "Earthborn Remnants",
+      "Giantborn Compact",
+      "Titan Ashes"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 65,
+      "max": 100
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/tartarus--giant-ossuary.png"
+      }
+    }
+  },
+  "Heart of Tartarus": {
+    "name": "Heart of Tartarus",
+    "basicInfo": "The deepest personified interior of the primordial pit, a landscape of pulsing red darkness, impossible organs, crushing caverns, and roads that behave like thoughts inside an immense hostile being. There is no stable climate or trustworthy direction, and merely existing here attracts Tartarus's awareness. Primordial manifestations, ancient monsters, absorbed spirits, and world-ending remnants inhabit the region; entry should mark an endgame expedition rather than ordinary travel.",
+    "x": 2,
+    "y": 0,
+    "realm": "Tartarus",
+    "factions": [
+      "Primordial Powers",
+      "Earthborn Remnants",
+      "Order of the Severed Thread"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 80,
+      "max": 100
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/tartarus--heart-of-tartarus.png"
+      }
+    }
+  },
+  "First Layer of the Duat": {
+    "name": "First Layer of the Duat",
+    "basicInfo": "A mutable reflection of the mortal world where buildings, roads, rivers, memories, and symbolic meanings overlap their physical counterparts. Colors are sharper, distance follows magical importance, and a temple may loom larger than the city surrounding it. Magicians, gods traveling in reduced forms, spirits, demons, shabti, and accidental dreamers inhabit or cross the layer, which serves as the most accessible entrance to deeper Egyptian reality.",
+    "x": 1,
+    "y": 4,
+    "realm": "Egyptian Duat",
+    "factions": [
+      "House of Life",
+      "Duat Gatehouse Keepers",
+      "Children of the Two Lands"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 8,
+      "max": 40
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/egyptian-duat--first-layer-of-the-duat.png"
+      }
+    }
+  },
+  "City of the Honored Dead": {
+    "name": "City of the Honored Dead",
+    "basicInfo": "A sprawling necropolis-city of mastabas, tomb streets, shaded courtyards, ancestor houses, canals, and markets where remembered dead maintain identities and communities. The sky remains late evening and desert wind carries names from grave inscriptions; damaged or forgotten tombs create abandoned districts. Honored spirits, funerary priests, guardian statues, psychopomps, ancestral families, and grave robbers inhabit the city under the distant authority of Osiris.",
+    "x": 2,
+    "y": 3,
+    "realm": "Egyptian Duat",
+    "factions": [
+      "Court of Osiris",
+      "House of Life",
+      "Monster Market Syndicate"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 15,
+      "max": 45
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/egyptian-duat--city-of-the-honored-dead.png"
+      }
+    }
+  },
+  "Hall of the Ennead": {
+    "name": "Hall of the Ennead",
+    "basicInfo": "A monumental divine region of columned assembly chambers, solar courtyards, throne rooms, sacred lakes, gardens, archives, and halls dedicated to thousands of divine names. Architecture shifts among Egypt's ancient religious centers, and the atmosphere changes with the dominant god's domain. Egyptian gods, divine attendants, magicians, messengers, sacred animals, petitioners, and foreign ambassadors inhabit the region while direct demigod children force the court to redefine divine family law.",
+    "x": 3,
+    "y": 3,
+    "realm": "Egyptian Duat",
+    "factions": [
+      "Egyptian Ennead",
+      "House of Life",
+      "Convergence Embassy"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 35,
+      "max": 80
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/egyptian-duat--hall-of-the-ennead.png"
+      }
+    }
+  },
+  "Hall of Judgment and Two Truths": {
+    "name": "Hall of Judgment and Two Truths",
+    "basicInfo": "A solemn afterlife region of white stone, black water, waiting courts, forty-two assessor chambers, the scales of Ma'at, and roads leading toward reward, return, or destruction. The air is perfectly still and lies gain visible weight; hearts, names, ka, and ba arrive under protective escort. Osiris's court, Anubis, Ma'at, assessors, psychopomps, Ammit, advocates, and disputed souls inhabit the region, now strained by claimants from several afterlives.",
+    "x": 4,
+    "y": 3,
+    "realm": "Egyptian Duat",
+    "factions": [
+      "Court of Osiris",
+      "Convergence Council",
+      "Underworld Court",
+      "Court of Hel"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 25,
+      "max": 65
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/egyptian-duat--hall-of-judgment-and-two-truths.png"
+      }
+    }
+  },
+  "Aaru, the Field of Reeds": {
+    "name": "Aaru, the Field of Reeds",
+    "basicInfo": "A fertile afterlife region of idealized Nile channels, green fields, comfortable estates, villages, orchards, and bright horizons where justified souls continue meaningful life. Floods arrive in perfect balance, crops grow without exhaustion, and loved landscapes can appear within the broader Egyptian terrain. Blessed dead, ancestors, field spirits, divine visitors, and guardians inhabit Aaru, while heroic souls claimed by other pantheons create new shared neighborhoods along its borders. Playable destinations now include Osiris's Barley Fields, Village of True Names, Celestial Nile Landing, and Hall of Completed Lives.",
+    "x": 5,
+    "y": 3,
+    "realm": "Egyptian Duat",
+    "factions": [
+      "Court of Osiris",
+      "Convergence Council",
+      "Unaffiliated Heroes"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 10,
+      "max": 40
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/egyptian-duat--aaru-the-field-of-reeds.png"
+      }
+    }
+  },
+  "Solar Barque and the Dawn Passage": {
+    "name": "Solar Barque and the Dawn Passage",
+    "basicInfo": "A moving celestial region centered on Ra's solar barque, its escort vessels, radiant decks, defensive coils, and the eastern horizon where the sun is reborn. Daylight burns above while the surrounding Duat remains night, and time advances through ritual stations rather than ordinary hours. Solar gods, protective serpents, divine crews, magician guests, demons, and Chaos attackers inhabit the passage as foreign solar roads begin running alongside it.",
+    "x": 6,
+    "y": 4,
+    "realm": "Egyptian Duat",
+    "factions": [
+      "Solar Court",
+      "Cult of the Devouring Serpent"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 45,
+      "max": 90
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/egyptian-duat--solar-barque-and-the-dawn-passage.png"
+      }
+    }
+  },
+  "Mound of Creation": {
+    "name": "Mound of Creation",
+    "basicInfo": "A primordial island of ordered earth rising from dark pre-creation water, surrounded by reeds, first light, unfinished forms, and the echoes of creator gods speaking reality into structure. Climate does not yet exist consistently; thought, word, and name can become terrain. Creator deities, sacred craftsmen, personified concepts, guarded scholars, and unstable newborn beings inhabit the region, which the Convergence may be expanding into the foundation of an unwanted new cosmos. Playable destinations now include Benben Summit, Atum's First-Light Shrine, Ogdoad Waterline, and Khepri's Dawn Ramp.",
+    "x": 1,
+    "y": 1,
+    "realm": "Egyptian Duat",
+    "factions": [
+      "Egyptian Ennead",
+      "Primordial Powers",
+      "Convergence Council"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 60,
+      "max": 100
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/egyptian-duat--mound-of-creation.png"
+      }
+    }
+  },
+  "Western Gates of Evening": {
+    "name": "Western Gates of Evening",
+    "basicInfo": "A desert-edge region of sunset cliffs, necropolis roads, guarded pylons, burial caves, and gates through which the sun and the dead enter the night journey. The air cools rapidly after eternal sunset, and every gate demands names, seals, or correct ritual knowledge. Funerary gods, gate guardians, ba spirits, magicians, mourners, and hostile demons inhabit the approaches, while unauthorized dead from other pantheons increasingly arrive without Egyptian credentials. Playable destinations now include Gate of Sunset Names, Hathor's Sycamore Station, Jackal-Warden Road, and Night-Barque Mooring.",
+    "x": 0,
+    "y": 4,
+    "realm": "Egyptian Duat",
+    "factions": [
+      "Court of Osiris",
+      "House of Life",
+      "Duat Gatehouse Keepers"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 20,
+      "max": 55
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/egyptian-duat--western-gates-of-evening.png"
+      }
+    }
+  },
+  "River of Night": {
+    "name": "River of Night",
+    "basicInfo": "A black and star-reflecting river winding through caverns, deserts, submerged temples, and the twelve divisions of the solar night. Its current follows ritual time, and tributaries now connect to the Styx, Gjoll, and the Joined Seas. Solar crews, ferrymen, river gods, demons, drowned spirits, sacred crocodiles, and questing magicians inhabit the banks, where taking the wrong branch can carry a traveler into another cosmology.",
+    "x": 3,
+    "y": 2,
+    "realm": "Egyptian Duat",
+    "factions": [
+      "Solar Court",
+      "River Gods Assembly",
+      "Court of Osiris",
+      "Independent Norse Powers"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 30,
+      "max": 70
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/egyptian-duat--river-of-night.png"
+      }
+    }
+  },
+  "Cavern of Sokar and Rostau": {
+    "name": "Cavern of Sokar and Rostau",
+    "basicInfo": "A silent subterranean region of burial caverns, sand-choked passages, hawk-guarded shrines, sealed chambers, and roads through the deepest necropolis mysteries. Sound is muffled, magic clings to stone, and the terrain tests knowledge of death rites rather than simple strength. Sokar's guardians, funerary spirits, ancient craftsmen, treasure protectors, demons, and lost magicians inhabit the caverns around routes that may lead toward creation or annihilation.",
+    "x": 2,
+    "y": 1,
+    "realm": "Egyptian Duat",
+    "factions": [
+      "Court of Osiris",
+      "House of Life",
+      "Monster Market Syndicate"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 40,
+      "max": 75
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/egyptian-duat--cavern-of-sokar-and-rostau.png"
+      }
+    }
+  },
+  "Lake of Fire and Execution Fields": {
+    "name": "Lake of Fire and Execution Fields",
+    "basicInfo": "A dangerous region of burning water, iron shores, execution islands, furnace gates, and channels whose flames protect the justified while destroying hostile spirits. Heat responds to moral and ritual status rather than physical resistance, making stolen identities especially hazardous. Punitive deities, guardians, condemned demons, executioner spirits, and investigators inhabit the region as forged judgments cause the fire to target the wrong travelers.",
+    "x": 4,
+    "y": 1,
+    "realm": "Egyptian Duat",
+    "factions": [
+      "Court of Osiris",
+      "Cult of the Devouring Serpent"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 50,
+      "max": 85
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/egyptian-duat--lake-of-fire-and-execution-fields.png"
+      }
+    }
+  },
+  "Red Lands of Set": {
+    "name": "Red Lands of Set",
+    "basicInfo": "A vast desert region of crimson dunes, basalt ridges, dry wadis, electrical sandstorms, ruined fortresses, and oases that move between visits. Days are punishing, nights sharply cold, and chaos is present as dangerous change without automatically becoming Apophis's total unmaking. Set's followers, desert spirits, storm demons, exiles, caravans, sacred animals, and monster bands inhabit the region under unstable truces.",
+    "x": 5,
+    "y": 2,
+    "realm": "Egyptian Duat",
+    "factions": [
+      "Set's Red Company",
+      "Egyptian Ennead",
+      "Cult of the Devouring Serpent",
+      "Children of the Two Lands"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 30,
+      "max": 75
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/egyptian-duat--red-lands-of-set.png"
+      }
+    }
+  },
+  "Desert of Chaos": {
+    "name": "Desert of Chaos",
+    "basicInfo": "A collapsing border region beyond reliable Duat geography, composed of black dunes, broken hieroglyphs, inverted temples, shadow storms, and spaces where names cease to describe what they touch. Direction and form decay with exposure, and the remnants of Apophis can manifest without restoring the complete defeated serpent. Chaos demons, cultists, erased spirits, failed divine vessels, and desperate wardens inhabit the region, which should function as a high-level containment frontier. Playable destinations now include Red Storm Expanse, Unwritten Dune, Serpent Coil Trench, and Ma'at Survey Camp.",
+    "x": 6,
+    "y": 1,
+    "realm": "Egyptian Duat",
+    "factions": [
+      "Cult of the Devouring Serpent",
+      "Order of the Severed Thread",
+      "Axis Wardens"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 65,
+      "max": 100
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/egyptian-duat--desert-of-chaos.png"
+      }
+    }
+  },
+  "Waters of Nun": {
+    "name": "Waters of Nun",
+    "basicInfo": "An endless primordial ocean of darkness, unrealized stars, floating first mounds, half-formed creatures, and possibilities that existed before ordered creation. There is no weather, shoreline, or stable horizon; protected islands survive only through creator magic and true names. Nun, creator powers, solar guardians, concept spirits, and things that never completed creation inhabit or emerge from the waters, where the Interstice appears to be drinking from several cosmologies at once.",
+    "x": 1,
+    "y": 0,
+    "realm": "Egyptian Duat",
+    "factions": [
+      "Primordial Powers",
+      "Solar Court",
+      "Order of the Severed Thread"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 75,
+      "max": 100
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/egyptian-duat--waters-of-nun.png"
+      }
+    }
+  },
+  "Niflheim": {
+    "name": "Niflheim",
+    "basicInfo": "A primordial northern world-region of freezing fog, glacier chasms, dark rivers, poisonous springs, and ice fields surrounding the well Hvergelmir. Visibility is poor, sound carries strangely, and cold drains memory as readily as heat; borders blur toward Helheim and the root of Yggdrasil gnawed by Nidhogg. Frost spirits, dragons, ancient serpents, lost dead, jotunn scouts, and beings formed before Midgard inhabit the region.",
+    "x": 0,
+    "y": 0,
+    "realm": "The Nine Worlds",
+    "factions": [
+      "Primordial Powers",
+      "Forces of Ragnarok",
+      "Court of Hel"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 55,
+      "max": 95
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/the-nine-worlds--niflheim.png"
+      }
+    }
+  },
+  "Asgard": {
+    "name": "Asgard",
+    "basicInfo": "A radiant high world of mountains, golden fields, fortified halls, broad rivers, rainbow approaches, divine farms, and roads connecting the homes of the Aesir. Weather is clear and vigorous until war councils gather, when thunder and prophetic cloud build over the walls. Aesir gods, Valkyries, honored guests, divine servants, warriors, animals, and messengers inhabit the region while preparations for Ragnarök compete with Convergence diplomacy.",
+    "x": 3,
+    "y": 5,
+    "realm": "The Nine Worlds",
+    "factions": [
+      "Aesir Court",
+      "Valkyries of Valhalla",
+      "The Norns"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 35,
+      "max": 80
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/the-nine-worlds--asgard.png"
+      }
+    }
+  },
+  "Muspelheim": {
+    "name": "Muspelheim",
+    "basicInfo": "A southern fire world of volcanic plains, magma rivers, ash storms, obsidian fortresses, furnace caverns, and a burning horizon ruled by Surt's power. Heat is cosmically destructive rather than merely physical, yet fire giants cultivate weapons, roads, and strongholds within it. Fire jotunn, salamanders, smiths, war bands, and apocalyptic envoys inhabit the region, where stolen fragments of Surt's sword are being prepared for an early Ragnarök.",
+    "x": 6,
+    "y": 0,
+    "realm": "The Nine Worlds",
+    "factions": [
+      "Forces of Ragnarok",
+      "Jotun Warbands",
+      "Dwarven Forge Clans"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 65,
+      "max": 100
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/the-nine-worlds--muspelheim.png"
+      }
+    }
+  },
+  "Jotunheim": {
+    "name": "Jotunheim",
+    "basicInfo": "A vast wild world of towering mountains, giant forests, deep fjords, stone halls, illusion-wrapped settlements, and terrain whose scale makes ordinary travelers feel insignificant. Weather changes violently and local rulers reshape their lands through Giant magic, hospitality law, and deception. Jotunn clans, giant kings, trolls, wolves, monsters, traders, and a few diplomats inhabit the region; not every resident supports Ragnarök or Loki.",
+    "x": 1,
+    "y": 3,
+    "realm": "The Nine Worlds",
+    "factions": [
+      "Jotun Warbands",
+      "Giantborn Compact",
+      "Forces of Ragnarok",
+      "Independent Norse Powers"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 35,
+      "max": 85
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/the-nine-worlds--jotunheim.png"
+      }
+    }
+  },
+  "Yggdrasil Crossroads": {
+    "name": "Yggdrasil Crossroads",
+    "basicInfo": "A vertical wilderness of immense bark, luminous sap, root caverns, branch roads, squirrel trails, wells, eagle-haunted heights, and portals opening toward every Norse world. Season and gravity depend on the branch, while damage in one area can echo across distant realms. Norns, messengers, Valkyries, dragons, tree spirits, Ratatosk's kin, travelers, and hidden enemies inhabit the crossroads, where new roots now reach the Duat, Olympus, and the Interstice.",
+    "x": 3,
+    "y": 4,
+    "realm": "The Nine Worlds",
+    "factions": [
+      "The Norns",
+      "Aesir Court",
+      "Valkyries of Valhalla",
+      "Order of the Severed Thread"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 25,
+      "max": 75
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/the-nine-worlds--yggdrasil-crossroads.png"
+      }
+    }
+  },
+  "Vanaheim": {
+    "name": "Vanaheim",
+    "basicInfo": "A warm green world of fertile valleys, bright coasts, forests, lakes, meadows, farms, and elegant halls shaped by Vanir prosperity and older nature magic. Rain and sunlight remain balanced, and magic concerned with growth, desire, foresight, wealth, and peace is unusually strong. Vanir gods, spirits, healers, farmers, seiðr practitioners, elves, visitors, and chosen dead inhabit the region under a court more flexible than Asgard but no less powerful.",
+    "x": 1,
+    "y": 4,
+    "realm": "The Nine Worlds",
+    "factions": [
+      "Vanir Court",
+      "Vanir Assembly",
+      "Independent Norse Powers"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 25,
+      "max": 65
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/the-nine-worlds--vanaheim.png"
+      }
+    }
+  },
+  "Helheim": {
+    "name": "Helheim",
+    "basicInfo": "A cold shadowed world of misty valleys, dark rivers, iron forests, pale settlements, burial roads, and Hel's great halls for those not chosen by battlefield afterlives. The region is somber rather than uniformly torturous, with conditions reflecting death, memory, and hospitality; deeper districts become much harsher. Hel's court, ordinary dead, dishonored souls, guardians, draugr, messengers, and disputed spirits inhabit the world while cross-pantheon judgments strain its gates.",
+    "x": 3,
+    "y": 1,
+    "realm": "The Nine Worlds",
+    "factions": [
+      "Court of Hel",
+      "Hel's Quiet Host",
+      "Forces of Ragnarok",
+      "Convergence Council"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 25,
+      "max": 70
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/the-nine-worlds--helheim.png"
+      }
+    }
+  },
+  "Midgard's Mythic Reflection": {
+    "name": "Midgard's Mythic Reflection",
+    "basicInfo": "A supernatural reflection of the mortal world formed from oceans, cities, wilderness, old battlefields, and roads visible from Yggdrasil but hidden from ordinary human perception. Seasons follow mortal geography while Norse symbols, runestones, monsters, and divine paths appear at amplified scale. Living demigods, mortals, einherjar on missions, Valkyries, dwarves, elves, jotunn, and Midgard spirits inhabit or cross the region, which links directly to Boston and other northern gateways. Playable destinations now include Boston Rune Reflection, Valhalla Recruitment Shadow, Mortal Oath Market, and Bifrost Echo Station.",
+    "x": 3,
+    "y": 3,
+    "realm": "The Nine Worlds",
+    "factions": [
+      "Hotel Valhalla",
+      "Valkyries of Valhalla",
+      "Aesir Court",
+      "Rune Hearth Reformers"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 5,
+      "max": 50
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/the-nine-worlds--midgards-mythic-reflection.png"
+      }
+    }
+  },
+  "Alfheim": {
+    "name": "Alfheim",
+    "basicInfo": "A luminous world of forests, immaculate estates, gemstone cities, bright rivers, sculpted gardens, and sunlight that reveals social status as visible radiance. The climate is mild and beautiful, but hospitality, beauty, wealth, and reputation function as powerful magic that can conceal cruelty. Light elves, noble houses, artisans, healers, servants, political exiles, and visitors inhabit the region, where old elites oppose reforms that would protect mixed-lineage children.",
+    "x": 5,
+    "y": 4,
+    "realm": "The Nine Worlds",
+    "factions": [
+      "Alfheim Old Houses",
+      "Rune Hearth Reformers",
+      "Convergence Council"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 20,
+      "max": 60
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/the-nine-worlds--alfheim.png"
+      }
+    }
+  },
+  "Sea of Jormungand": {
+    "name": "Sea of Jormungand",
+    "basicInfo": "A world-spanning ocean region of storm belts, scattered islands, abyssal trenches, drowned Giant roads, and the immeasurable coils of the sleeping World Serpent. Waves respond to Thor's storms and Jormungand's dreams, while new currents join the sea to Atlantis, Aegir's hall, and the Duat. Sea gods, sailors, jotunn, drowned dead, marine monsters, and serpent cults inhabit the navigable margins; disturbing the central depths risks waking a Ragnarök power. Playable destinations now include Aegir's Golden Hall, Ran's Net Garden, Jormungand Wake, and Naglfar Driftwatch.",
+    "x": 5,
+    "y": 3,
+    "realm": "The Nine Worlds",
+    "factions": [
+      "Independent Norse Powers",
+      "Forces of Ragnarok",
+      "River Gods Assembly"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 50,
+      "max": 95
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/the-nine-worlds--sea-of-jormungand.png"
+      }
+    }
+  },
+  "Nidavellir and Svartalfheim Deeps": {
+    "name": "Nidavellir and Svartalfheim Deeps",
+    "basicInfo": "A subterranean world-region of volcanic caverns, underground rivers, mine cities, mechanical roads, forge halls, treasure vaults, and districts claimed by dwarves or darker elf traditions. Air is hot, metal-rich, and filled with hammer echoes; craftsmanship, contract, price, and exact wording possess supernatural force. Dwarven clans, smiths, inventors, merchants, rune-workers, constructs, and thieves inhabit the deeps while competing to control Convergence materials.",
+    "x": 1,
+    "y": 2,
+    "realm": "The Nine Worlds",
+    "factions": [
+      "Dwarven Forge Clans",
+      "Rune Hearth Reformers",
+      "Monster Market Syndicate"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 20,
+      "max": 65
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/the-nine-worlds--nidavellir-and-svartalfheim-deeps.png"
+      }
+    }
+  },
+  "Ginnungagap Frontier": {
+    "name": "Ginnungagap Frontier",
+    "basicInfo": "A widening border of emptiness, rime, sparks, floating fragments, and unstable bridges recalling the gap between Niflheim and Muspelheim before creation. No stable climate or ground persists; new matter forms where cold and fire meet, then falls toward whichever world claims it. Primordial beings, fire and frost spirits, cosmic scavengers, Norns' agents, and Chaos cultists inhabit temporary islands in a region the Convergence is making larger.",
+    "x": 3,
+    "y": 0,
+    "realm": "The Nine Worlds",
+    "factions": [
+      "Primordial Powers",
+      "Forces of Ragnarok",
+      "The Norns",
+      "Order of the Severed Thread"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 70,
+      "max": 100
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/the-nine-worlds--ginnungagap-frontier.png"
+      }
+    }
+  },
+  "Manyfold Sanctuary Basin": {
+    "name": "Manyfold Sanctuary Basin",
+    "basicInfo": "A sheltered valley-region of warm hills, mixed woodland, clear streams, protected roads, training grounds, and settlements built to house mortals and supernatural beings from more than one pantheon. Climate remains temperate through layered hearth, boundary, and name wards, though the sky sometimes shows several divine realms at once. Many-parent demigods, refugees, healers, teachers, clear-sighted families, nature spirits, and guarded divine visitors inhabit the basin under rules that treat chosen belonging as equal to ancestry.",
+    "x": 1,
+    "y": 3,
+    "realm": "The Interstice",
+    "factions": [
+      "Manyfold Sanctuary",
+      "Convergence Council",
+      "Clear-Sighted Network",
+      "Children of the Two Lands",
+      "Rune Hearth Reformers"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 1,
+      "max": 40
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/the-interstice--manyfold-sanctuary-basin.png"
+      }
+    }
+  },
+  "Convergence Nexus": {
+    "name": "Convergence Nexus",
+    "basicInfo": "A central region of interlocking roads, embassy terraces, neutral plazas, gatehouses, ward towers, temporary camps, and a summit complex built where the four principal mythological systems overlap without fully merging. Weather and architecture shift subtly with whichever pantheon holds the strongest local influence, but shared wards prevent any one court from rewriting the whole landscape. Delegates, heroes, guards, merchants, petitioners, spies, monsters under truce, and many-parent demigods crowd the Nexus.",
+    "x": 3,
+    "y": 3,
+    "realm": "The Interstice",
+    "factions": [
+      "Convergence Council",
+      "Convergence Embassy",
+      "Olympian Council",
+      "Dii Consentes",
+      "Egyptian Ennead",
+      "Aesir Court"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 10,
+      "max": 55
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/the-interstice--convergence-nexus.png"
+      }
+    }
+  },
+  "Axis Gate Network": {
+    "name": "Axis Gate Network",
+    "basicInfo": "A fortified region of rotating portals, transit halls, map chambers, anchor towers, quarantine yards, and white roads used to stabilize travel between mortal and divine territories. There is no natural climate; each gate leaks wind, light, dust, water, or darkness from its destination, producing rapidly changing local conditions. Axis Wardens, couriers, inspectors, stranded travelers, diplomats, smugglers, and portal-born creatures inhabit the network while someone secretly alters destination records.",
+    "x": 3,
+    "y": 4,
+    "realm": "The Interstice",
+    "factions": [
+      "Axis Wardens",
+      "Convergence Council",
+      "Order of the Severed Thread",
+      "Clear-Sighted Network"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 20,
+      "max": 60
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/the-interstice--axis-gate-network.png"
+      }
+    }
+  },
+  "Forgotten Pantheon Frontier": {
+    "name": "Forgotten Pantheon Frontier",
+    "basicInfo": "An expanding frontier of half-restored temples, nameless forests, abandoned celestial roads, ruined cities, unfamiliar constellations, and landscapes belonging to traditions pushed outside the four dominant powers. Climate changes from zone to zone because no single cosmology governs the whole region, and some valleys remember gods whose names are absent from every surviving book. Forgotten deities, unique heroes, displaced spirits, scholars, refugees, and opportunistic monsters inhabit the frontier, extending the world beyond familiar Riordan territories.",
+    "x": 5,
+    "y": 3,
+    "realm": "The Interstice",
+    "factions": [
+      "Forgotten Gods Compact",
+      "Convergence Council",
+      "Clear-Sighted Network",
+      "Monster Market Syndicate"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 30,
+      "max": 75
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/the-interstice--forgotten-pantheon-frontier.png"
+      }
+    }
+  },
+  "Midnight Market Expanse": {
+    "name": "Midnight Market Expanse",
+    "basicInfo": "A sprawling nocturnal trade-region of tent cities, permanent bazaars, canal docks, auction courts, warehouse alleys, hidden clinics, and roads that open only after sunset somewhere in the mortal world. The sky is always dark but illuminated by lanterns, magical signs, ghost fire, and stolen celestial objects. Legitimate traders, gods in disguise, monsters, thieves, refugees, artifact brokers, soul traffickers, and investigators inhabit the market under contracts enforced more reliably than morality.",
+    "x": 1,
+    "y": 2,
+    "realm": "The Interstice",
+    "factions": [
+      "Monster Market Syndicate",
+      "Hollow Crown",
+      "Triumvirate Remnants",
+      "Convergence Council"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 20,
+      "max": 70
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/the-interstice--midnight-market-expanse.png"
+      }
+    }
+  },
+  "Echo Wastes": {
+    "name": "Echo Wastes",
+    "basicInfo": "A gray region of ruined camps, abandoned palaces, spectral battlefields, unfinished cities, and neighborhoods copied from timelines that prophecy erased. Weather repeats fragments of lost events, and travelers may encounter memories that believe they are living people. Restless dead, redeemed shades, imperial vestiges, discarded possibilities, historians, rescue teams, and Order agents inhabit the wastes, where attention can make an echo more real. Playable destinations now include Battlefield of Repeated Last Words, Shattered Triumph Arch, Memory Scavenger Camp, and Silence Well.",
+    "x": 3,
+    "y": 2,
+    "realm": "The Interstice",
+    "factions": [
+      "Restless Dead",
+      "Triumvirate Remnants",
+      "Order of the Severed Thread",
+      "Convergence Council"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 35,
+      "max": 80
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/the-interstice--echo-wastes.png"
+      }
+    }
+  },
+  "Severed Prophecy Reach": {
+    "name": "Severed Prophecy Reach",
+    "basicInfo": "A high broken region of black observatories, hanging bridges, thread-cut valleys, silent libraries, impossible stairways, and the distant Severed Spire rising through several versions of the sky. Weather arrives as unfinished omens—rain that never lands, thunder before decisions, and eclipses visible to only one person. Prophecy thieves, corrupted Oracles, fate spirits, Order agents, captive seers, and investigators inhabit the Reach, which hides the force editing divine predictions.",
+    "x": 5,
+    "y": 2,
+    "realm": "The Interstice",
+    "factions": [
+      "Order of the Severed Thread",
+      "Oracle Concord",
+      "The Moirai",
+      "The Norns",
+      "Convergence Council"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 55,
+      "max": 95
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/the-interstice--severed-prophecy-reach.png"
+      }
+    }
+  },
+  "Empty Throne Dominion": {
+    "name": "Empty Throne Dominion",
+    "basicInfo": "A pale region of deserted ceremonial avenues, roofless palaces, blank statues, silent courts, and a central throne complex whose architecture imitates every pantheon without belonging to any. The air is windless and sound travels toward the throne, while names carved into the stone vanish when their owners accept another authority. Hollow Crown agents, false gods, stolen identities, ambitious spirits, imprisoned witnesses, and resistant refugees inhabit the Dominion.",
+    "x": 3,
+    "y": 0,
+    "realm": "The Interstice",
+    "factions": [
+      "Hollow Crown",
+      "Order of the Severed Thread",
+      "Forgotten Gods Compact"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 60,
+      "max": 100
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/the-interstice--empty-throne-dominion.png"
+      }
+    }
+  },
+  "Joined Seas": {
+    "name": "Joined Seas",
+    "basicInfo": "An impossible ocean-region where Greek, Roman, Egyptian, Norse, mortal, and primordial waters meet through shifting currents, overlapping horizons, floating borders, and islands claimed by more than one reality. Weather systems collide violently, salt and freshwater change places, and ships can cross cosmologies without recognizing the moment of passage. Sea gods, river spirits, merpeople, sailors, drowned dead, monsters, ghost fleets, and diplomatic patrols inhabit the region as an unseen deeper ocean grows beneath them.",
+    "x": 0,
+    "y": 1,
+    "realm": "The Interstice",
+    "factions": [
+      "River Gods Assembly",
+      "Olympian Council",
+      "Dii Consentes",
+      "Independent Norse Powers",
+      "Monster Market Syndicate"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 40,
+      "max": 90
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/the-interstice--joined-seas.png"
+      }
+    }
+  },
+  "Fractured Labyrinth": {
+    "name": "Fractured Labyrinth",
+    "basicInfo": "A broken maze-region assembled from pieces of Daedalus's Labyrinth, Egyptian temple corridors, dwarven tunnels, Roman sewers, subway lines, dream architecture, and doors removed from erased worlds. Gravity, scale, and direction change at fracture lines, while some corridors create temporary duplicates of whoever crosses them. Monsters, smugglers, lost heroes, mechanical guardians, sorcerers, mapmakers, and Severed Thread agents inhabit the maze around a construction project no known forge designed. Playable destinations now include Broken Thread Junction, Daedalan Debris Vault, Moving Minotaur Court, and Exit That Remembers.",
+    "x": 2,
+    "y": 1,
+    "realm": "The Interstice",
+    "factions": [
+      "Monster Market Syndicate",
+      "Order of the Severed Thread",
+      "Axis Wardens",
+      "Dwarven Forge Clans"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 40,
+      "max": 90
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/the-interstice--fractured-labyrinth.png"
+      }
+    }
+  },
+  "Giant King's Road": {
+    "name": "Giant King's Road",
+    "basicInfo": "A militarized region of colossal roads, siege camps, quarries, bone monuments, broken anti-god weapons, and fortresses sized for Giants from several cosmologies. The terrain is barren and frequently shaken by the growth of new Earthborn bodies, while banners change according to whichever king currently claims command. Gigantes remnants, jotunn war bands, giantborn reformers, Titan agents, enslaved monsters, and spies inhabit the road, divided over whether to invade the pantheons or build an independent nation.",
+    "x": 4,
+    "y": 1,
+    "realm": "The Interstice",
+    "factions": [
+      "Earthborn Remnants",
+      "Jotun Warbands",
+      "Giantborn Compact",
+      "Titan Ashes",
+      "Forces of Ragnarok"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 55,
+      "max": 100
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/the-interstice--giant-kings-road.png"
+      }
+    }
+  },
+  "Sunless Shrine Wastes": {
+    "name": "Sunless Shrine Wastes",
+    "basicInfo": "A dark desert-region of black sand, inverted obelisks, broken solar stations, serpent trenches, abandoned cult cities, and a shrine complex that absorbs light from every pantheon. Days never fully begin, shadows move independently, and spoken true names attract Chaos rather than protection. Apophis remnants, Chaos demons, cult magicians, Atenist extremists, imprisoned solar spirits, and Solar Court strike teams inhabit the wastes around an attempt to rebuild the Devouring Serpent from distributed fragments.",
+    "x": 6,
+    "y": 1,
+    "realm": "The Interstice",
+    "factions": [
+      "Cult of the Devouring Serpent",
+      "Atenist Remnants",
+      "Order of the Severed Thread",
+      "Solar Court"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 65,
+      "max": 100
+    },
+    "images": {
+      "map": {
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        },
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/main/tiles/the-interstice--sunless-shrine-wastes.png"
+      }
+    }
+  }
+}
