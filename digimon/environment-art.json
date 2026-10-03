@@ -1,0 +1,4840 @@
+{
+  "Yagami Apartment": {
+    "overview": {
+      "image": "environment-board-00.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        3,
+        300,
+        164
+      ]
+    },
+    "areas": {
+      "Living Room": {
+        "image": "environment-board-00.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          3,
+          302,
+          164
+        ]
+      },
+      "Tai and Kari's Room": {
+        "image": "environment-board-00.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          617,
+          3,
+          300,
+          164
+        ]
+      },
+      "Balcony": {
+        "image": "environment-board-00.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          923,
+          3,
+          302,
+          164
+        ]
+      },
+      "Building Lobby": {
+        "image": "environment-board-00.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1231,
+          3,
+          302,
+          164
+        ]
+      }
+    }
+  },
+  "Odaiba Elementary School": {
+    "overview": {
+      "image": "environment-board-00.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        173,
+        300,
+        164
+      ]
+    },
+    "areas": {
+      "Computer Room": {
+        "image": "environment-board-00.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          173,
+          302,
+          164
+        ]
+      },
+      "Classroom": {
+        "image": "environment-board-00.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          617,
+          173,
+          300,
+          164
+        ]
+      },
+      "Rooftop": {
+        "image": "environment-board-00.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          923,
+          173,
+          302,
+          164
+        ]
+      },
+      "Schoolyard": {
+        "image": "environment-board-00.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1231,
+          173,
+          302,
+          164
+        ]
+      }
+    }
+  },
+  "Odaiba Waterfront": {
+    "overview": {
+      "image": "environment-board-00.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        343,
+        300,
+        165
+      ]
+    },
+    "areas": {
+      "Promenade": {
+        "image": "environment-board-00.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          343,
+          302,
+          165
+        ]
+      },
+      "Ferry Pier": {
+        "image": "environment-board-00.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          617,
+          343,
+          300,
+          165
+        ]
+      },
+      "Warehouse Walk": {
+        "image": "environment-board-00.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          923,
+          343,
+          302,
+          165
+        ]
+      },
+      "Bridge Shelter": {
+        "image": "environment-board-00.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1231,
+          343,
+          302,
+          165
+        ]
+      }
+    }
+  },
+  "Fuji TV and Bay Observatory": {
+    "overview": {
+      "image": "environment-board-00.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        514,
+        300,
+        165
+      ]
+    },
+    "areas": {
+      "Visitor Lobby": {
+        "image": "environment-board-00.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          514,
+          302,
+          165
+        ]
+      },
+      "Observation Deck": {
+        "image": "environment-board-00.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          617,
+          514,
+          300,
+          165
+        ]
+      },
+      "Broadcast Access": {
+        "image": "environment-board-00.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          923,
+          514,
+          302,
+          165
+        ]
+      },
+      "Emergency Stairwell": {
+        "image": "environment-board-00.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1231,
+          514,
+          302,
+          165
+        ]
+      }
+    }
+  },
+  "Izzy's Computer Workshop": {
+    "overview": {
+      "image": "environment-board-00.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        685,
+        300,
+        165
+      ]
+    },
+    "areas": {
+      "Analysis Desk": {
+        "image": "environment-board-00.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          685,
+          301,
+          165
+        ]
+      },
+      "Device Bench": {
+        "image": "environment-board-00.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          616,
+          685,
+          301,
+          165
+        ]
+      },
+      "Server Corner": {
+        "image": "environment-board-00.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          923,
+          685,
+          302,
+          165
+        ]
+      },
+      "Guest Mat": {
+        "image": "environment-board-00.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1231,
+          685,
+          302,
+          165
+        ]
+      }
+    }
+  },
+  "First Light Community Room": {
+    "overview": {
+      "image": "environment-board-00.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        856,
+        300,
+        165
+      ]
+    },
+    "areas": {
+      "Kitchen": {
+        "image": "environment-board-00.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          856,
+          302,
+          165
+        ]
+      },
+      "Noticeboard": {
+        "image": "environment-board-00.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          617,
+          856,
+          300,
+          165
+        ]
+      },
+      "Quiet Alcove": {
+        "image": "environment-board-00.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          923,
+          856,
+          301,
+          165
+        ]
+      },
+      "Training Terrace": {
+        "image": "environment-board-00.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1230,
+          856,
+          303,
+          165
+        ]
+      }
+    }
+  },
+  "Hikarigaoka Apartments": {
+    "overview": {
+      "image": "environment-board-01.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        3,
+        300,
+        162
+      ]
+    },
+    "areas": {
+      "Courtyard": {
+        "image": "environment-board-01.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          3,
+          302,
+          162
+        ]
+      },
+      "Apartment Corridor": {
+        "image": "environment-board-01.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          617,
+          3,
+          301,
+          162
+        ]
+      },
+      "Playground": {
+        "image": "environment-board-01.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          924,
+          3,
+          302,
+          162
+        ]
+      },
+      "Footbridge": {
+        "image": "environment-board-01.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1232,
+          3,
+          301,
+          162
+        ]
+      }
+    }
+  },
+  "First Encounter Memorial Route": {
+    "overview": {
+      "image": "environment-board-01.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        171,
+        300,
+        166
+      ]
+    },
+    "areas": {
+      "Witness Bench": {
+        "image": "environment-board-01.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          171,
+          303,
+          166
+        ]
+      },
+      "Camera Shop": {
+        "image": "environment-board-01.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          618,
+          171,
+          300,
+          166
+        ]
+      },
+      "Underpass": {
+        "image": "environment-board-01.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          924,
+          171,
+          302,
+          166
+        ]
+      },
+      "Old Photograph Wall": {
+        "image": "environment-board-01.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1232,
+          171,
+          301,
+          166
+        ]
+      }
+    }
+  },
+  "Summer Camp Trailhead": {
+    "overview": {
+      "image": "environment-board-01.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        343,
+        300,
+        165
+      ]
+    },
+    "areas": {
+      "Campfire Ring": {
+        "image": "environment-board-01.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          343,
+          302,
+          165
+        ]
+      },
+      "Cabin": {
+        "image": "environment-board-01.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          617,
+          343,
+          301,
+          165
+        ]
+      },
+      "Storm Shelter": {
+        "image": "environment-board-01.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          924,
+          343,
+          302,
+          165
+        ]
+      },
+      "Riverside": {
+        "image": "environment-board-01.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1232,
+          343,
+          301,
+          165
+        ]
+      }
+    }
+  },
+  "Ichijouji Home": {
+    "overview": {
+      "image": "environment-board-01.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        514,
+        300,
+        165
+      ]
+    },
+    "areas": {
+      "Entryway": {
+        "image": "environment-board-01.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          514,
+          302,
+          165
+        ]
+      },
+      "Ken's Room": {
+        "image": "environment-board-01.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          617,
+          514,
+          300,
+          165
+        ]
+      },
+      "Family Table": {
+        "image": "environment-board-01.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          923,
+          514,
+          303,
+          165
+        ]
+      },
+      "Balcony": {
+        "image": "environment-board-01.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1232,
+          514,
+          301,
+          165
+        ]
+      }
+    }
+  },
+  "Tamachi Station": {
+    "overview": {
+      "image": "environment-board-01.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        685,
+        300,
+        165
+      ]
+    },
+    "areas": {
+      "Ticket Hall": {
+        "image": "environment-board-01.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          685,
+          302,
+          165
+        ]
+      },
+      "Platform": {
+        "image": "environment-board-01.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          617,
+          685,
+          300,
+          165
+        ]
+      },
+      "Lockers": {
+        "image": "environment-board-01.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          923,
+          685,
+          303,
+          165
+        ]
+      },
+      "Service Passage": {
+        "image": "environment-board-01.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1232,
+          685,
+          301,
+          165
+        ]
+      }
+    }
+  },
+  "Tokyo General Hospital": {
+    "overview": {
+      "image": "environment-board-01.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        856,
+        300,
+        165
+      ]
+    },
+    "areas": {
+      "Waiting Area": {
+        "image": "environment-board-01.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          856,
+          302,
+          165
+        ]
+      },
+      "Family Room": {
+        "image": "environment-board-01.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          617,
+          856,
+          300,
+          165
+        ]
+      },
+      "Triage Desk": {
+        "image": "environment-board-01.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          923,
+          856,
+          303,
+          165
+        ]
+      },
+      "Computer Office": {
+        "image": "environment-board-01.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1232,
+          856,
+          301,
+          165
+        ]
+      }
+    }
+  },
+  "DigiDestined Terminal Cafe": {
+    "overview": {
+      "image": "environment-board-02.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        3,
+        300,
+        164
+      ]
+    },
+    "areas": {
+      "Counter": {
+        "image": "environment-board-02.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          3,
+          301,
+          164
+        ]
+      },
+      "Computer Booth": {
+        "image": "environment-board-02.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          616,
+          3,
+          301,
+          164
+        ]
+      },
+      "Back Room": {
+        "image": "environment-board-02.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          923,
+          3,
+          301,
+          164
+        ]
+      },
+      "Street Tables": {
+        "image": "environment-board-02.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1230,
+          3,
+          303,
+          164
+        ]
+      }
+    }
+  },
+  "New York Chosen Contact": {
+    "overview": {
+      "image": "environment-board-02.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        173,
+        299,
+        164
+      ]
+    },
+    "areas": {
+      "Community Hall": {
+        "image": "environment-board-02.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          308,
+          173,
+          302,
+          164
+        ]
+      },
+      "Rooftop Garden": {
+        "image": "environment-board-02.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          616,
+          173,
+          301,
+          164
+        ]
+      },
+      "Transit Stop": {
+        "image": "environment-board-02.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          923,
+          173,
+          301,
+          164
+        ]
+      },
+      "Terminal Booth": {
+        "image": "environment-board-02.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1230,
+          173,
+          303,
+          164
+        ]
+      }
+    }
+  },
+  "Colorado Summer Memory": {
+    "overview": {
+      "image": "environment-board-02.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        343,
+        300,
+        165
+      ]
+    },
+    "areas": {
+      "Farm Road": {
+        "image": "environment-board-02.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          343,
+          301,
+          165
+        ]
+      },
+      "Summer Field": {
+        "image": "environment-board-02.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          616,
+          343,
+          301,
+          165
+        ]
+      },
+      "Abandoned Barn": {
+        "image": "environment-board-02.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          923,
+          343,
+          301,
+          165
+        ]
+      },
+      "Memory Gate": {
+        "image": "environment-board-02.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1230,
+          343,
+          303,
+          165
+        ]
+      }
+    }
+  },
+  "Hong Kong Harbor Gate": {
+    "overview": {
+      "image": "environment-board-02.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        514,
+        300,
+        165
+      ]
+    },
+    "areas": {
+      "Market Pier": {
+        "image": "environment-board-02.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          514,
+          301,
+          165
+        ]
+      },
+      "Container Lane": {
+        "image": "environment-board-02.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          616,
+          514,
+          301,
+          165
+        ]
+      },
+      "Rooftop Terminal": {
+        "image": "environment-board-02.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          923,
+          514,
+          301,
+          165
+        ]
+      },
+      "Ferry Ramp": {
+        "image": "environment-board-02.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1230,
+          514,
+          303,
+          165
+        ]
+      }
+    }
+  },
+  "Paris River Contact": {
+    "overview": {
+      "image": "environment-board-02.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        685,
+        300,
+        164
+      ]
+    },
+    "areas": {
+      "Riverbank": {
+        "image": "environment-board-02.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          685,
+          301,
+          164
+        ]
+      },
+      "Cafe": {
+        "image": "environment-board-02.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          616,
+          685,
+          301,
+          164
+        ]
+      },
+      "Museum Steps": {
+        "image": "environment-board-02.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          923,
+          685,
+          301,
+          164
+        ]
+      },
+      "Contact Flat": {
+        "image": "environment-board-02.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1230,
+          685,
+          303,
+          164
+        ]
+      }
+    }
+  },
+  "Sydney Coastal Contact": {
+    "overview": {
+      "image": "environment-board-02.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        855,
+        300,
+        166
+      ]
+    },
+    "areas": {
+      "Surf Beach": {
+        "image": "environment-board-02.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          855,
+          301,
+          166
+        ]
+      },
+      "Rescue Station": {
+        "image": "environment-board-02.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          616,
+          855,
+          301,
+          166
+        ]
+      },
+      "Terminal Hut": {
+        "image": "environment-board-02.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          923,
+          855,
+          301,
+          166
+        ]
+      },
+      "Harbor": {
+        "image": "environment-board-02.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1230,
+          855,
+          303,
+          166
+        ]
+      }
+    }
+  },
+  "Primary Village": {
+    "overview": {
+      "image": "environment-board-03.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        3,
+        300,
+        162
+      ]
+    },
+    "areas": {
+      "Egg Meadow": {
+        "image": "environment-board-03.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          3,
+          301,
+          162
+        ]
+      },
+      "Incubation Hut": {
+        "image": "environment-board-03.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          616,
+          3,
+          301,
+          162
+        ]
+      },
+      "Elecmon's Watch": {
+        "image": "environment-board-03.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          923,
+          3,
+          302,
+          162
+        ]
+      },
+      "Hatching Glade": {
+        "image": "environment-board-03.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1231,
+          3,
+          302,
+          162
+        ]
+      }
+    }
+  },
+  "Gear Savannah": {
+    "overview": {
+      "image": "environment-board-03.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        171,
+        299,
+        166
+      ]
+    },
+    "areas": {
+      "Broken Gear Field": {
+        "image": "environment-board-03.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          308,
+          171,
+          302,
+          166
+        ]
+      },
+      "Water Pump": {
+        "image": "environment-board-03.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          616,
+          171,
+          301,
+          166
+        ]
+      },
+      "Caravan Camp": {
+        "image": "environment-board-03.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          923,
+          171,
+          302,
+          166
+        ]
+      },
+      "Buried Workshop": {
+        "image": "environment-board-03.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1231,
+          171,
+          302,
+          166
+        ]
+      }
+    }
+  },
+  "Native Forest": {
+    "overview": {
+      "image": "environment-board-03.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        343,
+        299,
+        165
+      ]
+    },
+    "areas": {
+      "Root Trail": {
+        "image": "environment-board-03.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          308,
+          343,
+          302,
+          165
+        ]
+      },
+      "Forest Pool": {
+        "image": "environment-board-03.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          616,
+          343,
+          301,
+          165
+        ]
+      },
+      "Bird Nest": {
+        "image": "environment-board-03.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          923,
+          343,
+          302,
+          165
+        ]
+      },
+      "Meat Orchard": {
+        "image": "environment-board-03.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1231,
+          343,
+          302,
+          165
+        ]
+      }
+    }
+  },
+  "Mount Infinity": {
+    "overview": {
+      "image": "environment-board-03.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        514,
+        300,
+        164
+      ]
+    },
+    "areas": {
+      "Lower Climb": {
+        "image": "environment-board-03.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          514,
+          301,
+          164
+        ]
+      },
+      "Rock Bridge": {
+        "image": "environment-board-03.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          616,
+          514,
+          301,
+          164
+        ]
+      },
+      "Black Gear Shrine": {
+        "image": "environment-board-03.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          923,
+          514,
+          302,
+          164
+        ]
+      },
+      "Summit": {
+        "image": "environment-board-03.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1231,
+          514,
+          302,
+          164
+        ]
+      }
+    }
+  },
+  "Toy Town": {
+    "overview": {
+      "image": "environment-board-03.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        684,
+        299,
+        163
+      ]
+    },
+    "areas": {
+      "Toy Square": {
+        "image": "environment-board-03.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          308,
+          684,
+          302,
+          163
+        ]
+      },
+      "Repair Shop": {
+        "image": "environment-board-03.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          616,
+          684,
+          301,
+          163
+        ]
+      },
+      "Clock Tower": {
+        "image": "environment-board-03.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          923,
+          684,
+          302,
+          163
+        ]
+      },
+      "Toy House": {
+        "image": "environment-board-03.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1231,
+          684,
+          302,
+          163
+        ]
+      }
+    }
+  },
+  "Factorial Town": {
+    "overview": {
+      "image": "environment-board-03.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        853,
+        299,
+        168
+      ]
+    },
+    "areas": {
+      "Factory Gate": {
+        "image": "environment-board-03.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          308,
+          853,
+          301,
+          168
+        ]
+      },
+      "Cooling Hall": {
+        "image": "environment-board-03.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          615,
+          853,
+          302,
+          168
+        ]
+      },
+      "Control Room": {
+        "image": "environment-board-03.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          923,
+          853,
+          302,
+          168
+        ]
+      },
+      "Pipe Tunnels": {
+        "image": "environment-board-03.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1231,
+          853,
+          302,
+          168
+        ]
+      }
+    }
+  },
+  "Freezeland": {
+    "overview": {
+      "image": "environment-board-04.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        3,
+        300,
+        163
+      ]
+    },
+    "areas": {
+      "Snow Trail": {
+        "image": "environment-board-04.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          3,
+          302,
+          163
+        ]
+      },
+      "Ice Cave": {
+        "image": "environment-board-04.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          617,
+          3,
+          300,
+          163
+        ]
+      },
+      "Warm Lodge": {
+        "image": "environment-board-04.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          923,
+          3,
+          301,
+          163
+        ]
+      },
+      "Frozen Lake": {
+        "image": "environment-board-04.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1230,
+          3,
+          303,
+          163
+        ]
+      }
+    }
+  },
+  "Dragon Eye Lake": {
+    "overview": {
+      "image": "environment-board-04.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        172,
+        300,
+        164
+      ]
+    },
+    "areas": {
+      "Fishing Bank": {
+        "image": "environment-board-04.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          172,
+          301,
+          164
+        ]
+      },
+      "Reed Bed": {
+        "image": "environment-board-04.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          616,
+          172,
+          302,
+          164
+        ]
+      },
+      "Lake Island": {
+        "image": "environment-board-04.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          924,
+          172,
+          301,
+          164
+        ]
+      },
+      "Sunken Marker": {
+        "image": "environment-board-04.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1231,
+          172,
+          302,
+          164
+        ]
+      }
+    }
+  },
+  "Gennai's Hidden House": {
+    "overview": {
+      "image": "environment-board-04.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        342,
+        300,
+        165
+      ]
+    },
+    "areas": {
+      "Submerged Approach": {
+        "image": "environment-board-04.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          342,
+          301,
+          165
+        ]
+      },
+      "Guest Chamber": {
+        "image": "environment-board-04.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          616,
+          342,
+          302,
+          165
+        ]
+      },
+      "Archive Room": {
+        "image": "environment-board-04.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          924,
+          342,
+          301,
+          165
+        ]
+      },
+      "Gate Workshop": {
+        "image": "environment-board-04.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1231,
+          342,
+          302,
+          165
+        ]
+      }
+    }
+  },
+  "Etemon Desert Network": {
+    "overview": {
+      "image": "environment-board-04.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        513,
+        301,
+        165
+      ]
+    },
+    "areas": {
+      "Relay Ridge": {
+        "image": "environment-board-04.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          310,
+          513,
+          301,
+          165
+        ]
+      },
+      "Sand Camp": {
+        "image": "environment-board-04.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          617,
+          513,
+          301,
+          165
+        ]
+      },
+      "Stage Ruins": {
+        "image": "environment-board-04.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          924,
+          513,
+          301,
+          165
+        ]
+      },
+      "Cable Trench": {
+        "image": "environment-board-04.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1231,
+          513,
+          302,
+          165
+        ]
+      }
+    }
+  },
+  "Nanomon Pyramid": {
+    "overview": {
+      "image": "environment-board-04.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        684,
+        300,
+        162
+      ]
+    },
+    "areas": {
+      "Entrance Maze": {
+        "image": "environment-board-04.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          684,
+          301,
+          162
+        ]
+      },
+      "Laboratory": {
+        "image": "environment-board-04.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          616,
+          684,
+          301,
+          162
+        ]
+      },
+      "Captive Chamber": {
+        "image": "environment-board-04.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          923,
+          684,
+          301,
+          162
+        ]
+      },
+      "Network Core": {
+        "image": "environment-board-04.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1230,
+          684,
+          303,
+          162
+        ]
+      }
+    }
+  },
+  "Koromon Village": {
+    "overview": {
+      "image": "environment-board-04.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        852,
+        300,
+        169
+      ]
+    },
+    "areas": {
+      "Village Square": {
+        "image": "environment-board-04.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          852,
+          302,
+          169
+        ]
+      },
+      "Kitchen": {
+        "image": "environment-board-04.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          617,
+          852,
+          300,
+          169
+        ]
+      },
+      "Orchard": {
+        "image": "environment-board-04.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          923,
+          852,
+          302,
+          169
+        ]
+      },
+      "Watch Hill": {
+        "image": "environment-board-04.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1231,
+          852,
+          302,
+          169
+        ]
+      }
+    }
+  },
+  "Crest Ruins": {
+    "overview": {
+      "image": "environment-board-05.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        3,
+        300,
+        164
+      ]
+    },
+    "areas": {
+      "Tag Hall": {
+        "image": "environment-board-05.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          3,
+          301,
+          164
+        ]
+      },
+      "Trial Courtyard": {
+        "image": "environment-board-05.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          616,
+          3,
+          303,
+          164
+        ]
+      },
+      "Buried Stair": {
+        "image": "environment-board-05.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          925,
+          3,
+          306,
+          164
+        ]
+      },
+      "Resonance Chamber": {
+        "image": "environment-board-05.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1237,
+          3,
+          296,
+          164
+        ]
+      }
+    }
+  },
+  "Datamon Relay Hospital": {
+    "overview": {
+      "image": "environment-board-05.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        173,
+        300,
+        165
+      ]
+    },
+    "areas": {
+      "Reception": {
+        "image": "environment-board-05.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          173,
+          301,
+          165
+        ]
+      },
+      "Diagnostic Bay": {
+        "image": "environment-board-05.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          616,
+          173,
+          304,
+          165
+        ]
+      },
+      "Recovery Garden": {
+        "image": "environment-board-05.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          926,
+          173,
+          305,
+          165
+        ]
+      },
+      "Quarantine Room": {
+        "image": "environment-board-05.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1237,
+          173,
+          296,
+          165
+        ]
+      }
+    }
+  },
+  "MetalSeadramon Ocean": {
+    "overview": {
+      "image": "environment-board-05.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        344,
+        300,
+        164
+      ]
+    },
+    "areas": {
+      "Reef Passage": {
+        "image": "environment-board-05.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          344,
+          301,
+          164
+        ]
+      },
+      "Wreck Field": {
+        "image": "environment-board-05.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          616,
+          344,
+          304,
+          164
+        ]
+      },
+      "Harbor Refuge": {
+        "image": "environment-board-05.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          926,
+          344,
+          305,
+          164
+        ]
+      },
+      "Deep Trench": {
+        "image": "environment-board-05.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1237,
+          344,
+          296,
+          164
+        ]
+      }
+    }
+  },
+  "Puppetmon Forest": {
+    "overview": {
+      "image": "environment-board-05.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        514,
+        300,
+        165
+      ]
+    },
+    "areas": {
+      "Living Trees": {
+        "image": "environment-board-05.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          514,
+          301,
+          165
+        ]
+      },
+      "Puppet House": {
+        "image": "environment-board-05.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          616,
+          514,
+          304,
+          165
+        ]
+      },
+      "Escape Trail": {
+        "image": "environment-board-05.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          926,
+          514,
+          305,
+          165
+        ]
+      },
+      "Abandoned Gameyard": {
+        "image": "environment-board-05.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1237,
+          514,
+          296,
+          165
+        ]
+      }
+    }
+  },
+  "Machinedramon City": {
+    "overview": {
+      "image": "environment-board-05.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        685,
+        300,
+        162
+      ]
+    },
+    "areas": {
+      "Transit Ruins": {
+        "image": "environment-board-05.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          685,
+          301,
+          162
+        ]
+      },
+      "Power Plant": {
+        "image": "environment-board-05.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          616,
+          685,
+          304,
+          162
+        ]
+      },
+      "Subway Shelter": {
+        "image": "environment-board-05.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          926,
+          685,
+          305,
+          162
+        ]
+      },
+      "Factory Square": {
+        "image": "environment-board-05.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1237,
+          685,
+          296,
+          162
+        ]
+      }
+    }
+  },
+  "Piedmon's Nightmare Keep": {
+    "overview": {
+      "image": "environment-board-05.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        853,
+        300,
+        168
+      ]
+    },
+    "areas": {
+      "Gates": {
+        "image": "environment-board-05.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          853,
+          301,
+          168
+        ]
+      },
+      "Mirror Gallery": {
+        "image": "environment-board-05.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          616,
+          853,
+          304,
+          168
+        ]
+      },
+      "Prison Hall": {
+        "image": "environment-board-05.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          926,
+          853,
+          305,
+          168
+        ]
+      },
+      "Final Terrace": {
+        "image": "environment-board-05.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1237,
+          853,
+          296,
+          168
+        ]
+      }
+    }
+  },
+  "Spiral Mountain Echo": {
+    "overview": {
+      "image": "environment-board-06.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        3,
+        301,
+        151
+      ]
+    },
+    "areas": {
+      "Lower Spiral": {
+        "image": "environment-board-06.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          310,
+          3,
+          301,
+          151
+        ]
+      },
+      "Broken Causeway": {
+        "image": "environment-board-06.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          617,
+          3,
+          300,
+          151
+        ]
+      },
+      "Domain Junction": {
+        "image": "environment-board-06.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          923,
+          3,
+          301,
+          151
+        ]
+      },
+      "Apex Gate": {
+        "image": "environment-board-06.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1230,
+          3,
+          303,
+          151
+        ]
+      }
+    }
+  },
+  "Digi-Egg Shrine of Courage": {
+    "overview": {
+      "image": "environment-board-06.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        160,
+        301,
+        157
+      ]
+    },
+    "areas": {
+      "Sealed Door": {
+        "image": "environment-board-06.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          310,
+          160,
+          301,
+          157
+        ]
+      },
+      "Flame Relief": {
+        "image": "environment-board-06.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          617,
+          160,
+          300,
+          157
+        ]
+      },
+      "Egg Dais": {
+        "image": "environment-board-06.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          923,
+          160,
+          301,
+          157
+        ]
+      },
+      "Exit Tunnel": {
+        "image": "environment-board-06.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1230,
+          160,
+          303,
+          157
+        ]
+      }
+    }
+  },
+  "Digi-Egg Shrine of Love": {
+    "overview": {
+      "image": "environment-board-06.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        323,
+        301,
+        160
+      ]
+    },
+    "areas": {
+      "Wind Stair": {
+        "image": "environment-board-06.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          310,
+          323,
+          301,
+          160
+        ]
+      },
+      "Feather Court": {
+        "image": "environment-board-06.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          617,
+          323,
+          300,
+          160
+        ]
+      },
+      "Egg Dais": {
+        "image": "environment-board-06.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          923,
+          323,
+          301,
+          160
+        ]
+      },
+      "Sky Bridge": {
+        "image": "environment-board-06.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1230,
+          323,
+          303,
+          160
+        ]
+      }
+    }
+  },
+  "Digi-Egg Shrine of Knowledge": {
+    "overview": {
+      "image": "environment-board-06.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        489,
+        301,
+        163
+      ]
+    },
+    "areas": {
+      "Stone Puzzle": {
+        "image": "environment-board-06.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          310,
+          489,
+          301,
+          163
+        ]
+      },
+      "Map Room": {
+        "image": "environment-board-06.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          617,
+          489,
+          300,
+          163
+        ]
+      },
+      "Egg Dais": {
+        "image": "environment-board-06.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          923,
+          489,
+          301,
+          163
+        ]
+      },
+      "Digging Shaft": {
+        "image": "environment-board-06.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1230,
+          489,
+          303,
+          163
+        ]
+      }
+    }
+  },
+  "Digi-Egg Shrine of Hope and Light": {
+    "overview": {
+      "image": "environment-board-06.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        658,
+        301,
+        158
+      ]
+    },
+    "areas": {
+      "Hope Court": {
+        "image": "environment-board-06.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          310,
+          658,
+          301,
+          158
+        ]
+      },
+      "Light Court": {
+        "image": "environment-board-06.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          617,
+          658,
+          300,
+          158
+        ]
+      },
+      "Shared Bridge": {
+        "image": "environment-board-06.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          923,
+          658,
+          301,
+          158
+        ]
+      },
+      "Sanctuary": {
+        "image": "environment-board-06.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1230,
+          658,
+          303,
+          158
+        ]
+      }
+    }
+  },
+  "Digimon Emperor Fortress": {
+    "overview": {
+      "image": "environment-board-06.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        822,
+        301,
+        199
+      ]
+    },
+    "areas": {
+      "Hangar": {
+        "image": "environment-board-06.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          310,
+          822,
+          301,
+          199
+        ]
+      },
+      "Control Room": {
+        "image": "environment-board-06.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          617,
+          822,
+          300,
+          199
+        ]
+      },
+      "Prison": {
+        "image": "environment-board-06.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          923,
+          822,
+          301,
+          199
+        ]
+      },
+      "Kimeramon Lab": {
+        "image": "environment-board-06.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1230,
+          822,
+          303,
+          199
+        ]
+      }
+    }
+  },
+  "Dark Spire Prairie": {
+    "overview": {
+      "image": "environment-board-07.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        3,
+        304,
+        162
+      ]
+    },
+    "areas": {
+      "Spire Base": {
+        "image": "environment-board-07.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          313,
+          3,
+          301,
+          162
+        ]
+      },
+      "Settlement": {
+        "image": "environment-board-07.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          620,
+          3,
+          299,
+          162
+        ]
+      },
+      "Observation Ridge": {
+        "image": "environment-board-07.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          925,
+          3,
+          300,
+          162
+        ]
+      },
+      "Hidden Conduit": {
+        "image": "environment-board-07.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1231,
+          3,
+          302,
+          162
+        ]
+      }
+    }
+  },
+  "Holy Stone Valley": {
+    "overview": {
+      "image": "environment-board-07.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        171,
+        304,
+        164
+      ]
+    },
+    "areas": {
+      "Stone Circle": {
+        "image": "environment-board-07.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          313,
+          171,
+          301,
+          164
+        ]
+      },
+      "Mountain Path": {
+        "image": "environment-board-07.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          620,
+          171,
+          299,
+          164
+        ]
+      },
+      "Guardian Pool": {
+        "image": "environment-board-07.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          925,
+          171,
+          300,
+          164
+        ]
+      },
+      "Refuge Camp": {
+        "image": "environment-board-07.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1231,
+          171,
+          302,
+          164
+        ]
+      }
+    }
+  },
+  "Azulongmon's Eastern Sanctuary": {
+    "overview": {
+      "image": "environment-board-07.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        341,
+        304,
+        159
+      ]
+    },
+    "areas": {
+      "Cloud Gate": {
+        "image": "environment-board-07.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          313,
+          341,
+          301,
+          159
+        ]
+      },
+      "Dragon Court": {
+        "image": "environment-board-07.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          620,
+          341,
+          299,
+          159
+        ]
+      },
+      "Restoration Pool": {
+        "image": "environment-board-07.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          925,
+          341,
+          300,
+          159
+        ]
+      },
+      "Archive Ledge": {
+        "image": "environment-board-07.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1231,
+          341,
+          302,
+          159
+        ]
+      }
+    }
+  },
+  "Zhuqiaomon's Southern Crater": {
+    "overview": {
+      "image": "environment-board-07.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        506,
+        303,
+        165
+      ]
+    },
+    "areas": {
+      "Lava Bridge": {
+        "image": "environment-board-07.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          312,
+          506,
+          301,
+          165
+        ]
+      },
+      "Ember Shrine": {
+        "image": "environment-board-07.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          619,
+          506,
+          300,
+          165
+        ]
+      },
+      "Audience Rock": {
+        "image": "environment-board-07.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          925,
+          506,
+          299,
+          165
+        ]
+      },
+      "Cooling Cave": {
+        "image": "environment-board-07.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1230,
+          506,
+          303,
+          165
+        ]
+      }
+    }
+  },
+  "Baihumon's Western Bastion": {
+    "overview": {
+      "image": "environment-board-07.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        677,
+        304,
+        165
+      ]
+    },
+    "areas": {
+      "Stone Gate": {
+        "image": "environment-board-07.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          313,
+          677,
+          301,
+          165
+        ]
+      },
+      "Training Court": {
+        "image": "environment-board-07.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          620,
+          677,
+          299,
+          165
+        ]
+      },
+      "Watch Summit": {
+        "image": "environment-board-07.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          925,
+          677,
+          299,
+          165
+        ]
+      },
+      "Supply Vault": {
+        "image": "environment-board-07.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1230,
+          677,
+          303,
+          165
+        ]
+      }
+    }
+  },
+  "Ebonwumon's Northern Forest": {
+    "overview": {
+      "image": "environment-board-07.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        848,
+        304,
+        173
+      ]
+    },
+    "areas": {
+      "Root Gate": {
+        "image": "environment-board-07.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          313,
+          848,
+          301,
+          173
+        ]
+      },
+      "Twin Canopy": {
+        "image": "environment-board-07.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          620,
+          848,
+          299,
+          173
+        ]
+      },
+      "Memory Pond": {
+        "image": "environment-board-07.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          925,
+          848,
+          299,
+          173
+        ]
+      },
+      "Seed Nursery": {
+        "image": "environment-board-07.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1230,
+          848,
+          303,
+          173
+        ]
+      }
+    }
+  },
+  "Fanglongmon's Central Seal": {
+    "overview": {
+      "image": "environment-board-08.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        3,
+        333,
+        163
+      ]
+    },
+    "areas": {
+      "Four Roads": {
+        "image": "environment-board-08.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          342,
+          3,
+          284,
+          163
+        ]
+      },
+      "Seal Court": {
+        "image": "environment-board-08.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          632,
+          3,
+          279,
+          163
+        ]
+      },
+      "Deep Chamber": {
+        "image": "environment-board-08.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          917,
+          3,
+          308,
+          163
+        ]
+      },
+      "Concordance Ring": {
+        "image": "environment-board-08.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1231,
+          3,
+          302,
+          163
+        ]
+      }
+    }
+  },
+  "Lantern Harbor": {
+    "overview": {
+      "image": "environment-board-08.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        172,
+        334,
+        166
+      ]
+    },
+    "areas": {
+      "Arrival Pier": {
+        "image": "environment-board-08.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          343,
+          172,
+          283,
+          166
+        ]
+      },
+      "Soup Kitchen": {
+        "image": "environment-board-08.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          632,
+          172,
+          279,
+          166
+        ]
+      },
+      "Lantern Office": {
+        "image": "environment-board-08.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          917,
+          172,
+          309,
+          166
+        ]
+      },
+      "Repair Dock": {
+        "image": "environment-board-08.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1232,
+          172,
+          301,
+          166
+        ]
+      }
+    }
+  },
+  "Hollow Nursery": {
+    "overview": {
+      "image": "environment-board-08.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        344,
+        334,
+        165
+      ]
+    },
+    "areas": {
+      "Blank Meadow": {
+        "image": "environment-board-08.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          343,
+          344,
+          283,
+          165
+        ]
+      },
+      "Incubation Room": {
+        "image": "environment-board-08.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          632,
+          344,
+          279,
+          165
+        ]
+      },
+      "Witness Wall": {
+        "image": "environment-board-08.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          917,
+          344,
+          309,
+          165
+        ]
+      },
+      "Sealed Cradle": {
+        "image": "environment-board-08.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1232,
+          344,
+          301,
+          165
+        ]
+      }
+    }
+  },
+  "Index Forest": {
+    "overview": {
+      "image": "environment-board-08.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        515,
+        334,
+        164
+      ]
+    },
+    "areas": {
+      "Memory Trail": {
+        "image": "environment-board-08.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          343,
+          515,
+          283,
+          164
+        ]
+      },
+      "Witness Clearing": {
+        "image": "environment-board-08.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          632,
+          515,
+          279,
+          164
+        ]
+      },
+      "Root Archive": {
+        "image": "environment-board-08.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          917,
+          515,
+          309,
+          164
+        ]
+      },
+      "Signal Canopy": {
+        "image": "environment-board-08.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1232,
+          515,
+          301,
+          164
+        ]
+      }
+    }
+  },
+  "Unsent Letter Beach": {
+    "overview": {
+      "image": "environment-board-08.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        685,
+        334,
+        152
+      ]
+    },
+    "areas": {
+      "Letter Shore": {
+        "image": "environment-board-08.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          343,
+          685,
+          283,
+          152
+        ]
+      },
+      "Tide Cave": {
+        "image": "environment-board-08.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          632,
+          685,
+          279,
+          152
+        ]
+      },
+      "Courier Hut": {
+        "image": "environment-board-08.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          917,
+          685,
+          309,
+          152
+        ]
+      },
+      "Broken Beacon": {
+        "image": "environment-board-08.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1232,
+          685,
+          301,
+          152
+        ]
+      }
+    }
+  },
+  "Choir's White Citadel": {
+    "overview": {
+      "image": "environment-board-08.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        843,
+        334,
+        178
+      ]
+    },
+    "areas": {
+      "Mercy Hall": {
+        "image": "environment-board-08.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          343,
+          843,
+          283,
+          178
+        ]
+      },
+      "Silence Barracks": {
+        "image": "environment-board-08.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          632,
+          843,
+          279,
+          178
+        ]
+      },
+      "Witness Vault": {
+        "image": "environment-board-08.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          917,
+          843,
+          309,
+          178
+        ]
+      },
+      "Erasure Engine": {
+        "image": "environment-board-08.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1232,
+          843,
+          301,
+          178
+        ]
+      }
+    }
+  },
+  "First Light Observatory": {
+    "overview": {
+      "image": "environment-board-09.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        3,
+        300,
+        163
+      ]
+    },
+    "areas": {
+      "Sky Lens": {
+        "image": "environment-board-09.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          3,
+          302,
+          163
+        ]
+      },
+      "Consent Chamber": {
+        "image": "environment-board-09.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          617,
+          3,
+          301,
+          163
+        ]
+      },
+      "Restoration Console": {
+        "image": "environment-board-09.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          924,
+          3,
+          301,
+          163
+        ]
+      },
+      "First Bond Core": {
+        "image": "environment-board-09.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1231,
+          3,
+          302,
+          163
+        ]
+      }
+    }
+  },
+  "Our War Game Network": {
+    "overview": {
+      "image": "environment-board-09.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        172,
+        300,
+        165
+      ]
+    },
+    "areas": {
+      "Mail Hub": {
+        "image": "environment-board-09.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          172,
+          302,
+          165
+        ]
+      },
+      "Countdown Node": {
+        "image": "environment-board-09.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          617,
+          172,
+          301,
+          165
+        ]
+      },
+      "Copy Swarm": {
+        "image": "environment-board-09.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          924,
+          172,
+          301,
+          165
+        ]
+      },
+      "Fusion Coordinate": {
+        "image": "environment-board-09.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1231,
+          172,
+          302,
+          165
+        ]
+      }
+    }
+  },
+  "Diaboromon Copy Basin": {
+    "overview": {
+      "image": "environment-board-09.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        343,
+        300,
+        167
+      ]
+    },
+    "areas": {
+      "Packet River": {
+        "image": "environment-board-09.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          343,
+          302,
+          167
+        ]
+      },
+      "Quarantine Ring": {
+        "image": "environment-board-09.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          617,
+          343,
+          301,
+          167
+        ]
+      },
+      "Copy Nursery": {
+        "image": "environment-board-09.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          924,
+          343,
+          301,
+          167
+        ]
+      },
+      "Exit Firewall": {
+        "image": "environment-board-09.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1231,
+          343,
+          302,
+          167
+        ]
+      }
+    }
+  },
+  "Gate Junction Station": {
+    "overview": {
+      "image": "environment-board-09.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        516,
+        300,
+        163
+      ]
+    },
+    "areas": {
+      "Departure Board": {
+        "image": "environment-board-09.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          516,
+          302,
+          163
+        ]
+      },
+      "Customs Desk": {
+        "image": "environment-board-09.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          617,
+          516,
+          301,
+          163
+        ]
+      },
+      "Repair Booth": {
+        "image": "environment-board-09.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          924,
+          516,
+          301,
+          163
+        ]
+      },
+      "Rest Platform": {
+        "image": "environment-board-09.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1231,
+          516,
+          302,
+          163
+        ]
+      }
+    }
+  },
+  "Lost Packet Sea": {
+    "overview": {
+      "image": "environment-board-09.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        685,
+        300,
+        164
+      ]
+    },
+    "areas": {
+      "Buoy Chain": {
+        "image": "environment-board-09.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          685,
+          302,
+          164
+        ]
+      },
+      "Data Reef": {
+        "image": "environment-board-09.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          617,
+          685,
+          301,
+          164
+        ]
+      },
+      "Rescue Skiff": {
+        "image": "environment-board-09.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          924,
+          685,
+          301,
+          164
+        ]
+      },
+      "Signal Storm": {
+        "image": "environment-board-09.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1231,
+          685,
+          302,
+          164
+        ]
+      }
+    }
+  },
+  "Dark Ocean Shore": {
+    "overview": {
+      "image": "environment-board-09.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        855,
+        300,
+        166
+      ]
+    },
+    "areas": {
+      "Beach": {
+        "image": "environment-board-09.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          855,
+          302,
+          166
+        ]
+      },
+      "Signal House": {
+        "image": "environment-board-09.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          617,
+          855,
+          301,
+          166
+        ]
+      },
+      "Fog Road": {
+        "image": "environment-board-09.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          924,
+          855,
+          301,
+          166
+        ]
+      },
+      "Return Gate": {
+        "image": "environment-board-09.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1231,
+          855,
+          302,
+          166
+        ]
+      }
+    }
+  },
+  "Deep One Settlement": {
+    "overview": {
+      "image": "environment-board-10.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        3,
+        300,
+        163
+      ]
+    },
+    "areas": {
+      "Abandoned Street": {
+        "image": "environment-board-10.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          3,
+          302,
+          163
+        ]
+      },
+      "Meeting Hall": {
+        "image": "environment-board-10.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          617,
+          3,
+          299,
+          163
+        ]
+      },
+      "Tide Shrine": {
+        "image": "environment-board-10.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          922,
+          3,
+          302,
+          163
+        ]
+      },
+      "Cliff Route": {
+        "image": "environment-board-10.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1230,
+          3,
+          303,
+          163
+        ]
+      }
+    }
+  },
+  "tri. Odaiba Archive": {
+    "overview": {
+      "image": "environment-board-10.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        172,
+        300,
+        166
+      ]
+    },
+    "areas": {
+      "School Gate": {
+        "image": "environment-board-10.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          172,
+          303,
+          166
+        ]
+      },
+      "Research Room": {
+        "image": "environment-board-10.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          618,
+          172,
+          298,
+          166
+        ]
+      },
+      "Quarantine Site": {
+        "image": "environment-board-10.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          922,
+          172,
+          302,
+          166
+        ]
+      },
+      "Reboot Gate": {
+        "image": "environment-board-10.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1230,
+          172,
+          303,
+          166
+        ]
+      }
+    }
+  },
+  "Kizuna Memory Sphere": {
+    "overview": {
+      "image": "environment-board-10.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        344,
+        300,
+        165
+      ]
+    },
+    "areas": {
+      "False Playground": {
+        "image": "environment-board-10.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          344,
+          302,
+          165
+        ]
+      },
+      "Memory Corridor": {
+        "image": "environment-board-10.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          617,
+          344,
+          299,
+          165
+        ]
+      },
+      "Partner Chamber": {
+        "image": "environment-board-10.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          922,
+          344,
+          302,
+          165
+        ]
+      },
+      "Release Core": {
+        "image": "environment-board-10.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1230,
+          344,
+          303,
+          165
+        ]
+      }
+    }
+  },
+  "The Beginning Egg Canopy": {
+    "overview": {
+      "image": "environment-board-10.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        515,
+        300,
+        163
+      ]
+    },
+    "areas": {
+      "City Square": {
+        "image": "environment-board-10.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          515,
+          302,
+          163
+        ]
+      },
+      "Egg Canopy": {
+        "image": "environment-board-10.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          617,
+          515,
+          299,
+          163
+        ]
+      },
+      "Rui's Refuge": {
+        "image": "environment-board-10.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          922,
+          515,
+          302,
+          163
+        ]
+      },
+      "Ukkomon Core": {
+        "image": "environment-board-10.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1230,
+          515,
+          303,
+          163
+        ]
+      }
+    }
+  },
+  "Shinjuku Park Hideout": {
+    "overview": {
+      "image": "environment-board-10.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        684,
+        301,
+        166
+      ]
+    },
+    "areas": {
+      "Hideout": {
+        "image": "environment-board-10.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          310,
+          684,
+          301,
+          166
+        ]
+      },
+      "Park Walk": {
+        "image": "environment-board-10.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          617,
+          684,
+          299,
+          166
+        ]
+      },
+      "Playground": {
+        "image": "environment-board-10.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          922,
+          684,
+          302,
+          166
+        ]
+      },
+      "Bakery Route": {
+        "image": "environment-board-10.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1230,
+          684,
+          303,
+          166
+        ]
+      }
+    }
+  },
+  "Hypnos Command Center": {
+    "overview": {
+      "image": "environment-board-10.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        856,
+        300,
+        165
+      ]
+    },
+    "areas": {
+      "Operations Floor": {
+        "image": "environment-board-10.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          856,
+          302,
+          165
+        ]
+      },
+      "Data Room": {
+        "image": "environment-board-10.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          617,
+          856,
+          299,
+          165
+        ]
+      },
+      "Interview Room": {
+        "image": "environment-board-10.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          922,
+          856,
+          302,
+          165
+        ]
+      },
+      "Emergency Gate": {
+        "image": "environment-board-10.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1230,
+          856,
+          303,
+          165
+        ]
+      }
+    }
+  },
+  "D-Reaper Quarantine": {
+    "overview": {
+      "image": "environment-board-11.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        3,
+        300,
+        164
+      ]
+    },
+    "areas": {
+      "Containment Line": {
+        "image": "environment-board-11.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          3,
+          301,
+          164
+        ]
+      },
+      "Agent Corridor": {
+        "image": "environment-board-11.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          616,
+          3,
+          301,
+          164
+        ]
+      },
+      "Survivor Pocket": {
+        "image": "environment-board-11.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          923,
+          3,
+          301,
+          164
+        ]
+      },
+      "Kernel Boundary": {
+        "image": "environment-board-11.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1230,
+          3,
+          303,
+          164
+        ]
+      }
+    }
+  },
+  "Runaway Locomon Line": {
+    "overview": {
+      "image": "environment-board-11.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        173,
+        300,
+        165
+      ]
+    },
+    "areas": {
+      "Station": {
+        "image": "environment-board-11.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          173,
+          301,
+          165
+        ]
+      },
+      "Moving Car": {
+        "image": "environment-board-11.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          616,
+          173,
+          301,
+          165
+        ]
+      },
+      "Engine Walk": {
+        "image": "environment-board-11.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          923,
+          173,
+          301,
+          165
+        ]
+      },
+      "Track Junction": {
+        "image": "environment-board-11.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1230,
+          173,
+          303,
+          165
+        ]
+      }
+    }
+  },
+  "Trailmon Terminal": {
+    "overview": {
+      "image": "environment-board-11.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        344,
+        300,
+        164
+      ]
+    },
+    "areas": {
+      "Platform": {
+        "image": "environment-board-11.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          344,
+          301,
+          164
+        ]
+      },
+      "Carriage": {
+        "image": "environment-board-11.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          616,
+          344,
+          301,
+          164
+        ]
+      },
+      "Ticket Hut": {
+        "image": "environment-board-11.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          923,
+          344,
+          301,
+          164
+        ]
+      },
+      "Spirit Gate": {
+        "image": "environment-board-11.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1230,
+          344,
+          303,
+          164
+        ]
+      }
+    }
+  },
+  "Ten Spirits Sanctuary": {
+    "overview": {
+      "image": "environment-board-11.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        514,
+        300,
+        165
+      ]
+    },
+    "areas": {
+      "Human Spirit Hall": {
+        "image": "environment-board-11.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          514,
+          301,
+          165
+        ]
+      },
+      "Beast Spirit Hall": {
+        "image": "environment-board-11.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          616,
+          514,
+          301,
+          165
+        ]
+      },
+      "Balance Court": {
+        "image": "environment-board-11.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          923,
+          514,
+          301,
+          165
+        ]
+      },
+      "Ancient Record": {
+        "image": "environment-board-11.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1230,
+          514,
+          303,
+          165
+        ]
+      }
+    }
+  },
+  "Island of Lost Digimon": {
+    "overview": {
+      "image": "environment-board-11.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        685,
+        300,
+        164
+      ]
+    },
+    "areas": {
+      "Beast Village": {
+        "image": "environment-board-11.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          685,
+          301,
+          164
+        ]
+      },
+      "Humanoid Village": {
+        "image": "environment-board-11.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          616,
+          685,
+          301,
+          164
+        ]
+      },
+      "Border Ruins": {
+        "image": "environment-board-11.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          923,
+          685,
+          301,
+          164
+        ]
+      },
+      "Ornismon Seal": {
+        "image": "environment-board-11.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1230,
+          685,
+          303,
+          164
+        ]
+      }
+    }
+  },
+  "DATS Headquarters": {
+    "overview": {
+      "image": "environment-board-11.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        855,
+        300,
+        166
+      ]
+    },
+    "areas": {
+      "Briefing Room": {
+        "image": "environment-board-11.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          855,
+          301,
+          166
+        ]
+      },
+      "Medical Bay": {
+        "image": "environment-board-11.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          616,
+          855,
+          301,
+          166
+        ]
+      },
+      "Vehicle Garage": {
+        "image": "environment-board-11.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          923,
+          855,
+          301,
+          166
+        ]
+      },
+      "Gate Lab": {
+        "image": "environment-board-11.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1230,
+          855,
+          303,
+          166
+        ]
+      }
+    }
+  },
+  "Yggdrasil Access Frontier": {
+    "overview": {
+      "image": "environment-board-12.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        3,
+        300,
+        164
+      ]
+    },
+    "areas": {
+      "Royal Knight Post": {
+        "image": "environment-board-12.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          3,
+          302,
+          164
+        ]
+      },
+      "Access Bridge": {
+        "image": "environment-board-12.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          617,
+          3,
+          301,
+          164
+        ]
+      },
+      "Host Console": {
+        "image": "environment-board-12.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          924,
+          3,
+          301,
+          164
+        ]
+      },
+      "Withdrawal Gate": {
+        "image": "environment-board-12.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1231,
+          3,
+          302,
+          164
+        ]
+      }
+    }
+  },
+  "Green Zone Assembly": {
+    "overview": {
+      "image": "environment-board-12.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        173,
+        300,
+        164
+      ]
+    },
+    "areas": {
+      "Village": {
+        "image": "environment-board-12.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          173,
+          302,
+          164
+        ]
+      },
+      "DigiXros Court": {
+        "image": "environment-board-12.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          617,
+          173,
+          301,
+          164
+        ]
+      },
+      "Supply Camp": {
+        "image": "environment-board-12.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          924,
+          173,
+          301,
+          164
+        ]
+      },
+      "Zone Gate": {
+        "image": "environment-board-12.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1231,
+          173,
+          302,
+          164
+        ]
+      }
+    }
+  },
+  "Bagra Fortress Border": {
+    "overview": {
+      "image": "environment-board-12.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        343,
+        300,
+        165
+      ]
+    },
+    "areas": {
+      "Border Camp": {
+        "image": "environment-board-12.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          343,
+          302,
+          165
+        ]
+      },
+      "Prison Route": {
+        "image": "environment-board-12.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          617,
+          343,
+          301,
+          165
+        ]
+      },
+      "Command Road": {
+        "image": "environment-board-12.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          924,
+          343,
+          301,
+          165
+        ]
+      },
+      "Fortress Gate": {
+        "image": "environment-board-12.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1231,
+          343,
+          302,
+          165
+        ]
+      }
+    }
+  },
+  "DigiQuartz Crossing": {
+    "overview": {
+      "image": "environment-board-12.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        514,
+        300,
+        165
+      ]
+    },
+    "areas": {
+      "Clock Alley": {
+        "image": "environment-board-12.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          514,
+          302,
+          165
+        ]
+      },
+      "Hunter Meet": {
+        "image": "environment-board-12.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          617,
+          514,
+          301,
+          165
+        ]
+      },
+      "Distorted School": {
+        "image": "environment-board-12.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          924,
+          514,
+          301,
+          165
+        ]
+      },
+      "Quartz Gate": {
+        "image": "environment-board-12.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1231,
+          514,
+          302,
+          165
+        ]
+      }
+    }
+  },
+  "Hazakura Academy": {
+    "overview": {
+      "image": "environment-board-12.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        685,
+        300,
+        164
+      ]
+    },
+    "areas": {
+      "Dormitory": {
+        "image": "environment-board-12.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          685,
+          302,
+          164
+        ]
+      },
+      "Computer Club": {
+        "image": "environment-board-12.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          617,
+          685,
+          301,
+          164
+        ]
+      },
+      "Courtyard": {
+        "image": "environment-board-12.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          924,
+          685,
+          302,
+          164
+        ]
+      },
+      "Roof Access": {
+        "image": "environment-board-12.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1232,
+          685,
+          301,
+          164
+        ]
+      }
+    }
+  },
+  "Hologram Market": {
+    "overview": {
+      "image": "environment-board-12.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        855,
+        300,
+        166
+      ]
+    },
+    "areas": {
+      "Food Stall": {
+        "image": "environment-board-12.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          309,
+          855,
+          302,
+          166
+        ]
+      },
+      "Projection Booth": {
+        "image": "environment-board-12.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          617,
+          855,
+          300,
+          166
+        ]
+      },
+      "Quiet Table": {
+        "image": "environment-board-12.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          923,
+          855,
+          303,
+          166
+        ]
+      },
+      "Emergency Lane": {
+        "image": "environment-board-12.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1232,
+          855,
+          301,
+          166
+        ]
+      }
+    }
+  },
+  "Appmon Terminal Square": {
+    "overview": {
+      "image": "environment-board-13.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        3,
+        337,
+        248
+      ]
+    },
+    "areas": {
+      "App Booth": {
+        "image": "environment-board-13.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          346,
+          3,
+          277,
+          248
+        ]
+      },
+      "Search Office": {
+        "image": "environment-board-13.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          629,
+          3,
+          282,
+          248
+        ]
+      },
+      "App Drive Bench": {
+        "image": "environment-board-13.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          917,
+          3,
+          306,
+          248
+        ]
+      },
+      "Cross Gate": {
+        "image": "environment-board-13.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1229,
+          3,
+          304,
+          248
+        ]
+      }
+    }
+  },
+  "X-Antibody Refuge": {
+    "overview": {
+      "image": "environment-board-13.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        257,
+        337,
+        251
+      ]
+    },
+    "areas": {
+      "Refuge Camp": {
+        "image": "environment-board-13.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          346,
+          257,
+          277,
+          251
+        ]
+      },
+      "Antibody Clinic": {
+        "image": "environment-board-13.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          629,
+          257,
+          282,
+          251
+        ]
+      },
+      "Border Watch": {
+        "image": "environment-board-13.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          917,
+          257,
+          306,
+          251
+        ]
+      },
+      "Knight Approach": {
+        "image": "environment-board-13.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1229,
+          257,
+          304,
+          251
+        ]
+      }
+    }
+  },
+  "Liberator Contact Arena": {
+    "overview": {
+      "image": "environment-board-13.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        514,
+        338,
+        249
+      ]
+    },
+    "areas": {
+      "Welcome Deck": {
+        "image": "environment-board-13.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          347,
+          514,
+          276,
+          249
+        ]
+      },
+      "Practice Arena": {
+        "image": "environment-board-13.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          629,
+          514,
+          282,
+          249
+        ]
+      },
+      "Partner Lounge": {
+        "image": "environment-board-13.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          917,
+          514,
+          306,
+          249
+        ]
+      },
+      "Exit Gate": {
+        "image": "environment-board-13.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1229,
+          514,
+          304,
+          249
+        ]
+      }
+    }
+  },
+  "Seekers Archive": {
+    "overview": {
+      "image": "environment-board-13.png",
+      "width": 1536,
+      "height": 1024,
+      "viewBox": [
+        3,
+        769,
+        337,
+        252
+      ]
+    },
+    "areas": {
+      "Terminal Loft": {
+        "image": "environment-board-13.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          346,
+          769,
+          277,
+          252
+        ]
+      },
+      "Investigation Desk": {
+        "image": "environment-board-13.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          629,
+          769,
+          282,
+          252
+        ]
+      },
+      "Loogamon Trail": {
+        "image": "environment-board-13.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          917,
+          769,
+          306,
+          252
+        ]
+      },
+      "Archive Gate": {
+        "image": "environment-board-13.png",
+        "width": 1536,
+        "height": 1024,
+        "viewBox": [
+          1229,
+          769,
+          304,
+          252
+        ]
+      }
+    }
+  }
+}
