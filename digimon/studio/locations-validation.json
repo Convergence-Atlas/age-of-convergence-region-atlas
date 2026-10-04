@@ -1,0 +1,19 @@
+{
+  "locations": 154,
+  "areas": 616,
+  "originalLocationsPreserved": 82,
+  "originalAreaKeysPreserved": 328,
+  "regions": 37,
+  "imageAssignments": 770,
+  "distinctImages": 410,
+  "characters": 1110432,
+  "characterLimit": 2000000,
+  "maxBasicInfo": 1767,
+  "maxHiddenInfo": 857,
+  "maxAreaDescription": 650,
+  "fieldLimit": 4000,
+  "connectedReciprocalAreaGraphs": true,
+  "validRegionAndFactionReferences": true,
+  "originalMapAnchorsPreserved": true,
+  "newMapOverlaps": 0
+}

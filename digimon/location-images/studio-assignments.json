@@ -1,0 +1,5397 @@
+{
+  "campaign": "Digimon: Echoes of the First Light",
+  "locations": 154,
+  "areas": 616,
+  "assignments": [
+    {
+      "location": "Yagami Apartment",
+      "area": "Living Room",
+      "sourceLocation": "Yagami Apartment",
+      "sourceArea": "Living Room",
+      "imagePath": "yagami-apartment/living-room.jpg"
+    },
+    {
+      "location": "Yagami Apartment",
+      "area": "Tai and Kari's Room",
+      "sourceLocation": "Yagami Apartment",
+      "sourceArea": "Tai and Kari's Room",
+      "imagePath": "yagami-apartment/tai-and-kari-s-room.jpg"
+    },
+    {
+      "location": "Yagami Apartment",
+      "area": "Balcony",
+      "sourceLocation": "Yagami Apartment",
+      "sourceArea": "Balcony",
+      "imagePath": "yagami-apartment/balcony.jpg"
+    },
+    {
+      "location": "Yagami Apartment",
+      "area": "Building Lobby",
+      "sourceLocation": "Yagami Apartment",
+      "sourceArea": "Building Lobby",
+      "imagePath": "yagami-apartment/building-lobby.jpg"
+    },
+    {
+      "location": "Yagami Apartment",
+      "area": null,
+      "sourceLocation": "Yagami Apartment",
+      "sourceArea": null,
+      "imagePath": "yagami-apartment/overview.jpg"
+    },
+    {
+      "location": "Odaiba Elementary School",
+      "area": "Computer Room",
+      "sourceLocation": "Odaiba Elementary School",
+      "sourceArea": "Computer Room",
+      "imagePath": "odaiba-elementary-school/computer-room.jpg"
+    },
+    {
+      "location": "Odaiba Elementary School",
+      "area": "Classroom",
+      "sourceLocation": "Odaiba Elementary School",
+      "sourceArea": "Classroom",
+      "imagePath": "odaiba-elementary-school/classroom.jpg"
+    },
+    {
+      "location": "Odaiba Elementary School",
+      "area": "Rooftop",
+      "sourceLocation": "Odaiba Elementary School",
+      "sourceArea": "Rooftop",
+      "imagePath": "odaiba-elementary-school/rooftop.jpg"
+    },
+    {
+      "location": "Odaiba Elementary School",
+      "area": "Schoolyard",
+      "sourceLocation": "Odaiba Elementary School",
+      "sourceArea": "Schoolyard",
+      "imagePath": "odaiba-elementary-school/schoolyard.jpg"
+    },
+    {
+      "location": "Odaiba Elementary School",
+      "area": null,
+      "sourceLocation": "Odaiba Elementary School",
+      "sourceArea": null,
+      "imagePath": "odaiba-elementary-school/overview.jpg"
+    },
+    {
+      "location": "Odaiba Waterfront",
+      "area": "Promenade",
+      "sourceLocation": "Odaiba Waterfront",
+      "sourceArea": "Promenade",
+      "imagePath": "odaiba-waterfront/promenade.jpg"
+    },
+    {
+      "location": "Odaiba Waterfront",
+      "area": "Ferry Pier",
+      "sourceLocation": "Odaiba Waterfront",
+      "sourceArea": "Ferry Pier",
+      "imagePath": "odaiba-waterfront/ferry-pier.jpg"
+    },
+    {
+      "location": "Odaiba Waterfront",
+      "area": "Warehouse Walk",
+      "sourceLocation": "Odaiba Waterfront",
+      "sourceArea": "Warehouse Walk",
+      "imagePath": "odaiba-waterfront/warehouse-walk.jpg"
+    },
+    {
+      "location": "Odaiba Waterfront",
+      "area": "Bridge Shelter",
+      "sourceLocation": "Odaiba Waterfront",
+      "sourceArea": "Bridge Shelter",
+      "imagePath": "odaiba-waterfront/bridge-shelter.jpg"
+    },
+    {
+      "location": "Odaiba Waterfront",
+      "area": null,
+      "sourceLocation": "Odaiba Waterfront",
+      "sourceArea": null,
+      "imagePath": "odaiba-waterfront/overview.jpg"
+    },
+    {
+      "location": "Fuji TV and Bay Observatory",
+      "area": "Visitor Lobby",
+      "sourceLocation": "Fuji TV and Bay Observatory",
+      "sourceArea": "Visitor Lobby",
+      "imagePath": "fuji-tv-and-bay-observatory/visitor-lobby.jpg"
+    },
+    {
+      "location": "Fuji TV and Bay Observatory",
+      "area": "Observation Deck",
+      "sourceLocation": "Fuji TV and Bay Observatory",
+      "sourceArea": "Observation Deck",
+      "imagePath": "fuji-tv-and-bay-observatory/observation-deck.jpg"
+    },
+    {
+      "location": "Fuji TV and Bay Observatory",
+      "area": "Broadcast Access",
+      "sourceLocation": "Fuji TV and Bay Observatory",
+      "sourceArea": "Broadcast Access",
+      "imagePath": "fuji-tv-and-bay-observatory/broadcast-access.jpg"
+    },
+    {
+      "location": "Fuji TV and Bay Observatory",
+      "area": "Emergency Stairwell",
+      "sourceLocation": "Fuji TV and Bay Observatory",
+      "sourceArea": "Emergency Stairwell",
+      "imagePath": "fuji-tv-and-bay-observatory/emergency-stairwell.jpg"
+    },
+    {
+      "location": "Fuji TV and Bay Observatory",
+      "area": null,
+      "sourceLocation": "Fuji TV and Bay Observatory",
+      "sourceArea": null,
+      "imagePath": "fuji-tv-and-bay-observatory/overview.jpg"
+    },
+    {
+      "location": "Izzy's Computer Workshop",
+      "area": "Analysis Desk",
+      "sourceLocation": "Izzy's Computer Workshop",
+      "sourceArea": "Analysis Desk",
+      "imagePath": "izzy-s-computer-workshop/analysis-desk.jpg"
+    },
+    {
+      "location": "Izzy's Computer Workshop",
+      "area": "Device Bench",
+      "sourceLocation": "Izzy's Computer Workshop",
+      "sourceArea": "Device Bench",
+      "imagePath": "izzy-s-computer-workshop/device-bench.jpg"
+    },
+    {
+      "location": "Izzy's Computer Workshop",
+      "area": "Server Corner",
+      "sourceLocation": "Izzy's Computer Workshop",
+      "sourceArea": "Server Corner",
+      "imagePath": "izzy-s-computer-workshop/server-corner.jpg"
+    },
+    {
+      "location": "Izzy's Computer Workshop",
+      "area": "Guest Mat",
+      "sourceLocation": "Izzy's Computer Workshop",
+      "sourceArea": "Guest Mat",
+      "imagePath": "izzy-s-computer-workshop/guest-mat.jpg"
+    },
+    {
+      "location": "Izzy's Computer Workshop",
+      "area": null,
+      "sourceLocation": "Izzy's Computer Workshop",
+      "sourceArea": null,
+      "imagePath": "izzy-s-computer-workshop/overview.jpg"
+    },
+    {
+      "location": "First Light Community Room",
+      "area": "Kitchen",
+      "sourceLocation": "First Light Community Room",
+      "sourceArea": "Kitchen",
+      "imagePath": "first-light-community-room/kitchen.jpg"
+    },
+    {
+      "location": "First Light Community Room",
+      "area": "Noticeboard",
+      "sourceLocation": "First Light Community Room",
+      "sourceArea": "Noticeboard",
+      "imagePath": "first-light-community-room/noticeboard.jpg"
+    },
+    {
+      "location": "First Light Community Room",
+      "area": "Quiet Alcove",
+      "sourceLocation": "First Light Community Room",
+      "sourceArea": "Quiet Alcove",
+      "imagePath": "first-light-community-room/quiet-alcove.jpg"
+    },
+    {
+      "location": "First Light Community Room",
+      "area": "Training Terrace",
+      "sourceLocation": "First Light Community Room",
+      "sourceArea": "Training Terrace",
+      "imagePath": "first-light-community-room/training-terrace.jpg"
+    },
+    {
+      "location": "First Light Community Room",
+      "area": null,
+      "sourceLocation": "First Light Community Room",
+      "sourceArea": null,
+      "imagePath": "first-light-community-room/overview.jpg"
+    },
+    {
+      "location": "Hikarigaoka Apartments",
+      "area": "Courtyard",
+      "sourceLocation": "Hikarigaoka Apartments",
+      "sourceArea": "Courtyard",
+      "imagePath": "hikarigaoka-apartments/courtyard.jpg"
+    },
+    {
+      "location": "Hikarigaoka Apartments",
+      "area": "Apartment Corridor",
+      "sourceLocation": "Hikarigaoka Apartments",
+      "sourceArea": "Apartment Corridor",
+      "imagePath": "hikarigaoka-apartments/apartment-corridor.webp"
+    },
+    {
+      "location": "Hikarigaoka Apartments",
+      "area": "Playground",
+      "sourceLocation": "Hikarigaoka Apartments",
+      "sourceArea": "Playground",
+      "imagePath": "hikarigaoka-apartments/playground.webp"
+    },
+    {
+      "location": "Hikarigaoka Apartments",
+      "area": "Footbridge",
+      "sourceLocation": "Hikarigaoka Apartments",
+      "sourceArea": "Footbridge",
+      "imagePath": "hikarigaoka-apartments/footbridge.webp"
+    },
+    {
+      "location": "Hikarigaoka Apartments",
+      "area": null,
+      "sourceLocation": "Hikarigaoka Apartments",
+      "sourceArea": null,
+      "imagePath": "hikarigaoka-apartments/overview.jpg"
+    },
+    {
+      "location": "First Encounter Memorial Route",
+      "area": "Witness Bench",
+      "sourceLocation": "First Encounter Memorial Route",
+      "sourceArea": "Witness Bench",
+      "imagePath": "first-encounter-memorial-route/witness-bench.webp"
+    },
+    {
+      "location": "First Encounter Memorial Route",
+      "area": "Camera Shop",
+      "sourceLocation": "First Encounter Memorial Route",
+      "sourceArea": "Camera Shop",
+      "imagePath": "first-encounter-memorial-route/camera-shop.webp"
+    },
+    {
+      "location": "First Encounter Memorial Route",
+      "area": "Underpass",
+      "sourceLocation": "First Encounter Memorial Route",
+      "sourceArea": "Underpass",
+      "imagePath": "first-encounter-memorial-route/underpass.webp"
+    },
+    {
+      "location": "First Encounter Memorial Route",
+      "area": "Old Photograph Wall",
+      "sourceLocation": "First Encounter Memorial Route",
+      "sourceArea": "Old Photograph Wall",
+      "imagePath": "first-encounter-memorial-route/old-photograph-wall.webp"
+    },
+    {
+      "location": "First Encounter Memorial Route",
+      "area": null,
+      "sourceLocation": "First Encounter Memorial Route",
+      "sourceArea": null,
+      "imagePath": "first-encounter-memorial-route/overview.webp"
+    },
+    {
+      "location": "Summer Camp Trailhead",
+      "area": "Campfire Ring",
+      "sourceLocation": "Summer Camp Trailhead",
+      "sourceArea": "Campfire Ring",
+      "imagePath": "summer-camp-trailhead/campfire-ring.webp"
+    },
+    {
+      "location": "Summer Camp Trailhead",
+      "area": "Cabin",
+      "sourceLocation": "Summer Camp Trailhead",
+      "sourceArea": "Cabin",
+      "imagePath": "summer-camp-trailhead/cabin.webp"
+    },
+    {
+      "location": "Summer Camp Trailhead",
+      "area": "Storm Shelter",
+      "sourceLocation": "Summer Camp Trailhead",
+      "sourceArea": "Storm Shelter",
+      "imagePath": "summer-camp-trailhead/storm-shelter.webp"
+    },
+    {
+      "location": "Summer Camp Trailhead",
+      "area": "Riverside",
+      "sourceLocation": "Summer Camp Trailhead",
+      "sourceArea": "Riverside",
+      "imagePath": "summer-camp-trailhead/riverside.webp"
+    },
+    {
+      "location": "Summer Camp Trailhead",
+      "area": null,
+      "sourceLocation": "Summer Camp Trailhead",
+      "sourceArea": null,
+      "imagePath": "summer-camp-trailhead/overview.webp"
+    },
+    {
+      "location": "Ichijouji Home",
+      "area": "Entryway",
+      "sourceLocation": "Ichijouji Home",
+      "sourceArea": "Entryway",
+      "imagePath": "ichijouji-home/entryway.webp"
+    },
+    {
+      "location": "Ichijouji Home",
+      "area": "Ken's Room",
+      "sourceLocation": "Ichijouji Home",
+      "sourceArea": "Ken's Room",
+      "imagePath": "ichijouji-home/ken-s-room.webp"
+    },
+    {
+      "location": "Ichijouji Home",
+      "area": "Family Table",
+      "sourceLocation": "Ichijouji Home",
+      "sourceArea": "Family Table",
+      "imagePath": "ichijouji-home/family-table.webp"
+    },
+    {
+      "location": "Ichijouji Home",
+      "area": "Balcony",
+      "sourceLocation": "Ichijouji Home",
+      "sourceArea": "Balcony",
+      "imagePath": "ichijouji-home/balcony.webp"
+    },
+    {
+      "location": "Ichijouji Home",
+      "area": null,
+      "sourceLocation": "Ichijouji Home",
+      "sourceArea": null,
+      "imagePath": "ichijouji-home/overview.webp"
+    },
+    {
+      "location": "Tamachi Station",
+      "area": "Ticket Hall",
+      "sourceLocation": "Tamachi Station",
+      "sourceArea": "Ticket Hall",
+      "imagePath": "tamachi-station/ticket-hall.webp"
+    },
+    {
+      "location": "Tamachi Station",
+      "area": "Platform",
+      "sourceLocation": "Tamachi Station",
+      "sourceArea": "Platform",
+      "imagePath": "tamachi-station/platform.webp"
+    },
+    {
+      "location": "Tamachi Station",
+      "area": "Lockers",
+      "sourceLocation": "Tamachi Station",
+      "sourceArea": "Lockers",
+      "imagePath": "tamachi-station/lockers.webp"
+    },
+    {
+      "location": "Tamachi Station",
+      "area": "Service Passage",
+      "sourceLocation": "Tamachi Station",
+      "sourceArea": "Service Passage",
+      "imagePath": "tamachi-station/service-passage.webp"
+    },
+    {
+      "location": "Tamachi Station",
+      "area": null,
+      "sourceLocation": "Tamachi Station",
+      "sourceArea": null,
+      "imagePath": "tamachi-station/overview.jpg"
+    },
+    {
+      "location": "Tokyo General Hospital",
+      "area": "Waiting Area",
+      "sourceLocation": "Tokyo General Hospital",
+      "sourceArea": "Waiting Area",
+      "imagePath": "tokyo-general-hospital/waiting-area.webp"
+    },
+    {
+      "location": "Tokyo General Hospital",
+      "area": "Family Room",
+      "sourceLocation": "Tokyo General Hospital",
+      "sourceArea": "Family Room",
+      "imagePath": "tokyo-general-hospital/family-room.webp"
+    },
+    {
+      "location": "Tokyo General Hospital",
+      "area": "Triage Desk",
+      "sourceLocation": "Tokyo General Hospital",
+      "sourceArea": "Triage Desk",
+      "imagePath": "tokyo-general-hospital/triage-desk.webp"
+    },
+    {
+      "location": "Tokyo General Hospital",
+      "area": "Computer Office",
+      "sourceLocation": "Tokyo General Hospital",
+      "sourceArea": "Computer Office",
+      "imagePath": "tokyo-general-hospital/computer-office.webp"
+    },
+    {
+      "location": "Tokyo General Hospital",
+      "area": null,
+      "sourceLocation": "Tokyo General Hospital",
+      "sourceArea": null,
+      "imagePath": "tokyo-general-hospital/overview.webp"
+    },
+    {
+      "location": "DigiDestined Terminal Cafe",
+      "area": "Counter",
+      "sourceLocation": "DigiDestined Terminal Cafe",
+      "sourceArea": "Counter",
+      "imagePath": "digidestined-terminal-cafe/counter.webp"
+    },
+    {
+      "location": "DigiDestined Terminal Cafe",
+      "area": "Computer Booth",
+      "sourceLocation": "DigiDestined Terminal Cafe",
+      "sourceArea": "Computer Booth",
+      "imagePath": "digidestined-terminal-cafe/computer-booth.webp"
+    },
+    {
+      "location": "DigiDestined Terminal Cafe",
+      "area": "Back Room",
+      "sourceLocation": "DigiDestined Terminal Cafe",
+      "sourceArea": "Back Room",
+      "imagePath": "digidestined-terminal-cafe/back-room.webp"
+    },
+    {
+      "location": "DigiDestined Terminal Cafe",
+      "area": "Street Tables",
+      "sourceLocation": "DigiDestined Terminal Cafe",
+      "sourceArea": "Street Tables",
+      "imagePath": "digidestined-terminal-cafe/street-tables.webp"
+    },
+    {
+      "location": "DigiDestined Terminal Cafe",
+      "area": null,
+      "sourceLocation": "DigiDestined Terminal Cafe",
+      "sourceArea": null,
+      "imagePath": "digidestined-terminal-cafe/overview.webp"
+    },
+    {
+      "location": "New York Chosen Contact",
+      "area": "Community Hall",
+      "sourceLocation": "New York Chosen Contact",
+      "sourceArea": "Community Hall",
+      "imagePath": "new-york-chosen-contact/community-hall.webp"
+    },
+    {
+      "location": "New York Chosen Contact",
+      "area": "Rooftop Garden",
+      "sourceLocation": "New York Chosen Contact",
+      "sourceArea": "Rooftop Garden",
+      "imagePath": "new-york-chosen-contact/rooftop-garden.webp"
+    },
+    {
+      "location": "New York Chosen Contact",
+      "area": "Transit Stop",
+      "sourceLocation": "New York Chosen Contact",
+      "sourceArea": "Transit Stop",
+      "imagePath": "new-york-chosen-contact/transit-stop.webp"
+    },
+    {
+      "location": "New York Chosen Contact",
+      "area": "Terminal Booth",
+      "sourceLocation": "New York Chosen Contact",
+      "sourceArea": "Terminal Booth",
+      "imagePath": "new-york-chosen-contact/terminal-booth.webp"
+    },
+    {
+      "location": "New York Chosen Contact",
+      "area": null,
+      "sourceLocation": "New York Chosen Contact",
+      "sourceArea": null,
+      "imagePath": "new-york-chosen-contact/overview.webp"
+    },
+    {
+      "location": "Colorado Summer Memory",
+      "area": "Farm Road",
+      "sourceLocation": "Colorado Summer Memory",
+      "sourceArea": "Farm Road",
+      "imagePath": "colorado-summer-memory/farm-road.webp"
+    },
+    {
+      "location": "Colorado Summer Memory",
+      "area": "Summer Field",
+      "sourceLocation": "Colorado Summer Memory",
+      "sourceArea": "Summer Field",
+      "imagePath": "colorado-summer-memory/summer-field.webp"
+    },
+    {
+      "location": "Colorado Summer Memory",
+      "area": "Abandoned Barn",
+      "sourceLocation": "Colorado Summer Memory",
+      "sourceArea": "Abandoned Barn",
+      "imagePath": "colorado-summer-memory/abandoned-barn.webp"
+    },
+    {
+      "location": "Colorado Summer Memory",
+      "area": "Memory Gate",
+      "sourceLocation": "Colorado Summer Memory",
+      "sourceArea": "Memory Gate",
+      "imagePath": "colorado-summer-memory/memory-gate.webp"
+    },
+    {
+      "location": "Colorado Summer Memory",
+      "area": null,
+      "sourceLocation": "Colorado Summer Memory",
+      "sourceArea": null,
+      "imagePath": "colorado-summer-memory/overview.webp"
+    },
+    {
+      "location": "Hong Kong Harbor Gate",
+      "area": "Market Pier",
+      "sourceLocation": "Hong Kong Harbor Gate",
+      "sourceArea": "Market Pier",
+      "imagePath": "hong-kong-harbor-gate/market-pier.webp"
+    },
+    {
+      "location": "Hong Kong Harbor Gate",
+      "area": "Container Lane",
+      "sourceLocation": "Hong Kong Harbor Gate",
+      "sourceArea": "Container Lane",
+      "imagePath": "hong-kong-harbor-gate/container-lane.webp"
+    },
+    {
+      "location": "Hong Kong Harbor Gate",
+      "area": "Rooftop Terminal",
+      "sourceLocation": "Hong Kong Harbor Gate",
+      "sourceArea": "Rooftop Terminal",
+      "imagePath": "hong-kong-harbor-gate/rooftop-terminal.webp"
+    },
+    {
+      "location": "Hong Kong Harbor Gate",
+      "area": "Ferry Ramp",
+      "sourceLocation": "Hong Kong Harbor Gate",
+      "sourceArea": "Ferry Ramp",
+      "imagePath": "hong-kong-harbor-gate/ferry-ramp.webp"
+    },
+    {
+      "location": "Hong Kong Harbor Gate",
+      "area": null,
+      "sourceLocation": "Hong Kong Harbor Gate",
+      "sourceArea": null,
+      "imagePath": "hong-kong-harbor-gate/overview.jpg"
+    },
+    {
+      "location": "Paris River Contact",
+      "area": "Riverbank",
+      "sourceLocation": "Paris River Contact",
+      "sourceArea": "Riverbank",
+      "imagePath": "paris-river-contact/riverbank.webp"
+    },
+    {
+      "location": "Paris River Contact",
+      "area": "Cafe",
+      "sourceLocation": "Paris River Contact",
+      "sourceArea": "Cafe",
+      "imagePath": "paris-river-contact/cafe.webp"
+    },
+    {
+      "location": "Paris River Contact",
+      "area": "Museum Steps",
+      "sourceLocation": "Paris River Contact",
+      "sourceArea": "Museum Steps",
+      "imagePath": "paris-river-contact/museum-steps.webp"
+    },
+    {
+      "location": "Paris River Contact",
+      "area": "Contact Flat",
+      "sourceLocation": "Paris River Contact",
+      "sourceArea": "Contact Flat",
+      "imagePath": "paris-river-contact/contact-flat.webp"
+    },
+    {
+      "location": "Paris River Contact",
+      "area": null,
+      "sourceLocation": "Paris River Contact",
+      "sourceArea": null,
+      "imagePath": "paris-river-contact/overview.webp"
+    },
+    {
+      "location": "Sydney Coastal Contact",
+      "area": "Surf Beach",
+      "sourceLocation": "Sydney Coastal Contact",
+      "sourceArea": "Surf Beach",
+      "imagePath": "sydney-coastal-contact/surf-beach.webp"
+    },
+    {
+      "location": "Sydney Coastal Contact",
+      "area": "Rescue Station",
+      "sourceLocation": "Sydney Coastal Contact",
+      "sourceArea": "Rescue Station",
+      "imagePath": "sydney-coastal-contact/rescue-station.webp"
+    },
+    {
+      "location": "Sydney Coastal Contact",
+      "area": "Terminal Hut",
+      "sourceLocation": "Sydney Coastal Contact",
+      "sourceArea": "Terminal Hut",
+      "imagePath": "sydney-coastal-contact/terminal-hut.webp"
+    },
+    {
+      "location": "Sydney Coastal Contact",
+      "area": "Harbor",
+      "sourceLocation": "Sydney Coastal Contact",
+      "sourceArea": "Harbor",
+      "imagePath": "sydney-coastal-contact/harbor.webp"
+    },
+    {
+      "location": "Sydney Coastal Contact",
+      "area": null,
+      "sourceLocation": "Sydney Coastal Contact",
+      "sourceArea": null,
+      "imagePath": "sydney-coastal-contact/overview.webp"
+    },
+    {
+      "location": "Primary Village",
+      "area": "Egg Meadow",
+      "sourceLocation": "Primary Village",
+      "sourceArea": "Egg Meadow",
+      "imagePath": "primary-village/egg-meadow.webp"
+    },
+    {
+      "location": "Primary Village",
+      "area": "Incubation Hut",
+      "sourceLocation": "Primary Village",
+      "sourceArea": "Incubation Hut",
+      "imagePath": "primary-village/incubation-hut.webp"
+    },
+    {
+      "location": "Primary Village",
+      "area": "Elecmon's Watch",
+      "sourceLocation": "Primary Village",
+      "sourceArea": "Elecmon's Watch",
+      "imagePath": "primary-village/elecmon-s-watch.webp"
+    },
+    {
+      "location": "Primary Village",
+      "area": "Hatching Glade",
+      "sourceLocation": "Primary Village",
+      "sourceArea": "Hatching Glade",
+      "imagePath": "primary-village/hatching-glade.webp"
+    },
+    {
+      "location": "Primary Village",
+      "area": null,
+      "sourceLocation": "Primary Village",
+      "sourceArea": null,
+      "imagePath": "primary-village/overview.jpg"
+    },
+    {
+      "location": "Gear Savannah",
+      "area": "Broken Gear Field",
+      "sourceLocation": "Gear Savannah",
+      "sourceArea": "Broken Gear Field",
+      "imagePath": "gear-savannah/broken-gear-field.webp"
+    },
+    {
+      "location": "Gear Savannah",
+      "area": "Water Pump",
+      "sourceLocation": "Gear Savannah",
+      "sourceArea": "Water Pump",
+      "imagePath": "gear-savannah/water-pump.webp"
+    },
+    {
+      "location": "Gear Savannah",
+      "area": "Caravan Camp",
+      "sourceLocation": "Gear Savannah",
+      "sourceArea": "Caravan Camp",
+      "imagePath": "gear-savannah/caravan-camp.webp"
+    },
+    {
+      "location": "Gear Savannah",
+      "area": "Buried Workshop",
+      "sourceLocation": "Gear Savannah",
+      "sourceArea": "Buried Workshop",
+      "imagePath": "gear-savannah/buried-workshop.webp"
+    },
+    {
+      "location": "Gear Savannah",
+      "area": null,
+      "sourceLocation": "Gear Savannah",
+      "sourceArea": null,
+      "imagePath": "gear-savannah/overview.webp"
+    },
+    {
+      "location": "Native Forest",
+      "area": "Root Trail",
+      "sourceLocation": "Native Forest",
+      "sourceArea": "Root Trail",
+      "imagePath": "native-forest/root-trail.webp"
+    },
+    {
+      "location": "Native Forest",
+      "area": "Forest Pool",
+      "sourceLocation": "Native Forest",
+      "sourceArea": "Forest Pool",
+      "imagePath": "native-forest/forest-pool.webp"
+    },
+    {
+      "location": "Native Forest",
+      "area": "Bird Nest",
+      "sourceLocation": "Native Forest",
+      "sourceArea": "Bird Nest",
+      "imagePath": "native-forest/bird-nest.webp"
+    },
+    {
+      "location": "Native Forest",
+      "area": "Meat Orchard",
+      "sourceLocation": "Native Forest",
+      "sourceArea": "Meat Orchard",
+      "imagePath": "native-forest/meat-orchard.jpg"
+    },
+    {
+      "location": "Native Forest",
+      "area": null,
+      "sourceLocation": "Native Forest",
+      "sourceArea": null,
+      "imagePath": "native-forest/overview.jpg"
+    },
+    {
+      "location": "Mount Infinity",
+      "area": "Lower Climb",
+      "sourceLocation": "Mount Infinity",
+      "sourceArea": "Lower Climb",
+      "imagePath": "mount-infinity/lower-climb.webp"
+    },
+    {
+      "location": "Mount Infinity",
+      "area": "Rock Bridge",
+      "sourceLocation": "Mount Infinity",
+      "sourceArea": "Rock Bridge",
+      "imagePath": "mount-infinity/rock-bridge.webp"
+    },
+    {
+      "location": "Mount Infinity",
+      "area": "Black Gear Shrine",
+      "sourceLocation": "Mount Infinity",
+      "sourceArea": "Black Gear Shrine",
+      "imagePath": "mount-infinity/black-gear-shrine.webp"
+    },
+    {
+      "location": "Mount Infinity",
+      "area": "Summit",
+      "sourceLocation": "Mount Infinity",
+      "sourceArea": "Summit",
+      "imagePath": "mount-infinity/summit.webp"
+    },
+    {
+      "location": "Mount Infinity",
+      "area": null,
+      "sourceLocation": "Mount Infinity",
+      "sourceArea": null,
+      "imagePath": "mount-infinity/overview.webp"
+    },
+    {
+      "location": "Toy Town",
+      "area": "Toy Square",
+      "sourceLocation": "Toy Town",
+      "sourceArea": "Toy Square",
+      "imagePath": "toy-town/toy-square.jpg"
+    },
+    {
+      "location": "Toy Town",
+      "area": "Repair Shop",
+      "sourceLocation": "Toy Town",
+      "sourceArea": "Repair Shop",
+      "imagePath": "toy-town/repair-shop.webp"
+    },
+    {
+      "location": "Toy Town",
+      "area": "Clock Tower",
+      "sourceLocation": "Toy Town",
+      "sourceArea": "Clock Tower",
+      "imagePath": "toy-town/clock-tower.webp"
+    },
+    {
+      "location": "Toy Town",
+      "area": "Toy House",
+      "sourceLocation": "Toy Town",
+      "sourceArea": "Toy House",
+      "imagePath": "toy-town/toy-house.webp"
+    },
+    {
+      "location": "Toy Town",
+      "area": null,
+      "sourceLocation": "Toy Town",
+      "sourceArea": null,
+      "imagePath": "toy-town/overview.webp"
+    },
+    {
+      "location": "Factorial Town",
+      "area": "Factory Gate",
+      "sourceLocation": "Factorial Town",
+      "sourceArea": "Factory Gate",
+      "imagePath": "factorial-town/factory-gate.jpg"
+    },
+    {
+      "location": "Factorial Town",
+      "area": "Cooling Hall",
+      "sourceLocation": "Factorial Town",
+      "sourceArea": "Cooling Hall",
+      "imagePath": "factorial-town/cooling-hall.webp"
+    },
+    {
+      "location": "Factorial Town",
+      "area": "Control Room",
+      "sourceLocation": "Factorial Town",
+      "sourceArea": "Control Room",
+      "imagePath": "factorial-town/control-room.webp"
+    },
+    {
+      "location": "Factorial Town",
+      "area": "Pipe Tunnels",
+      "sourceLocation": "Factorial Town",
+      "sourceArea": "Pipe Tunnels",
+      "imagePath": "factorial-town/pipe-tunnels.webp"
+    },
+    {
+      "location": "Factorial Town",
+      "area": null,
+      "sourceLocation": "Factorial Town",
+      "sourceArea": null,
+      "imagePath": "factorial-town/overview.jpg"
+    },
+    {
+      "location": "Freezeland",
+      "area": "Snow Trail",
+      "sourceLocation": "Freezeland",
+      "sourceArea": "Snow Trail",
+      "imagePath": "freezeland/snow-trail.webp"
+    },
+    {
+      "location": "Freezeland",
+      "area": "Ice Cave",
+      "sourceLocation": "Freezeland",
+      "sourceArea": "Ice Cave",
+      "imagePath": "freezeland/ice-cave.webp"
+    },
+    {
+      "location": "Freezeland",
+      "area": "Warm Lodge",
+      "sourceLocation": "Freezeland",
+      "sourceArea": "Warm Lodge",
+      "imagePath": "freezeland/warm-lodge.webp"
+    },
+    {
+      "location": "Freezeland",
+      "area": "Frozen Lake",
+      "sourceLocation": "Freezeland",
+      "sourceArea": "Frozen Lake",
+      "imagePath": "freezeland/frozen-lake.webp"
+    },
+    {
+      "location": "Freezeland",
+      "area": null,
+      "sourceLocation": "Freezeland",
+      "sourceArea": null,
+      "imagePath": "freezeland/overview.webp"
+    },
+    {
+      "location": "Dragon Eye Lake",
+      "area": "Fishing Bank",
+      "sourceLocation": "Dragon Eye Lake",
+      "sourceArea": "Fishing Bank",
+      "imagePath": "dragon-eye-lake/fishing-bank.webp"
+    },
+    {
+      "location": "Dragon Eye Lake",
+      "area": "Reed Bed",
+      "sourceLocation": "Dragon Eye Lake",
+      "sourceArea": "Reed Bed",
+      "imagePath": "dragon-eye-lake/reed-bed.webp"
+    },
+    {
+      "location": "Dragon Eye Lake",
+      "area": "Lake Island",
+      "sourceLocation": "Dragon Eye Lake",
+      "sourceArea": "Lake Island",
+      "imagePath": "dragon-eye-lake/lake-island.webp"
+    },
+    {
+      "location": "Dragon Eye Lake",
+      "area": "Sunken Marker",
+      "sourceLocation": "Dragon Eye Lake",
+      "sourceArea": "Sunken Marker",
+      "imagePath": "dragon-eye-lake/sunken-marker.webp"
+    },
+    {
+      "location": "Dragon Eye Lake",
+      "area": null,
+      "sourceLocation": "Dragon Eye Lake",
+      "sourceArea": null,
+      "imagePath": "dragon-eye-lake/overview.jpg"
+    },
+    {
+      "location": "Gennai's Hidden House",
+      "area": "Submerged Approach",
+      "sourceLocation": "Gennai's Hidden House",
+      "sourceArea": "Submerged Approach",
+      "imagePath": "gennai-s-hidden-house/submerged-approach.webp"
+    },
+    {
+      "location": "Gennai's Hidden House",
+      "area": "Guest Chamber",
+      "sourceLocation": "Gennai's Hidden House",
+      "sourceArea": "Guest Chamber",
+      "imagePath": "gennai-s-hidden-house/guest-chamber.webp"
+    },
+    {
+      "location": "Gennai's Hidden House",
+      "area": "Archive Room",
+      "sourceLocation": "Gennai's Hidden House",
+      "sourceArea": "Archive Room",
+      "imagePath": "gennai-s-hidden-house/archive-room.webp"
+    },
+    {
+      "location": "Gennai's Hidden House",
+      "area": "Gate Workshop",
+      "sourceLocation": "Gennai's Hidden House",
+      "sourceArea": "Gate Workshop",
+      "imagePath": "gennai-s-hidden-house/gate-workshop.webp"
+    },
+    {
+      "location": "Gennai's Hidden House",
+      "area": null,
+      "sourceLocation": "Gennai's Hidden House",
+      "sourceArea": null,
+      "imagePath": "gennai-s-hidden-house/overview.webp"
+    },
+    {
+      "location": "Etemon Desert Network",
+      "area": "Relay Ridge",
+      "sourceLocation": "Etemon Desert Network",
+      "sourceArea": "Relay Ridge",
+      "imagePath": "etemon-desert-network/relay-ridge.webp"
+    },
+    {
+      "location": "Etemon Desert Network",
+      "area": "Sand Camp",
+      "sourceLocation": "Etemon Desert Network",
+      "sourceArea": "Sand Camp",
+      "imagePath": "etemon-desert-network/sand-camp.webp"
+    },
+    {
+      "location": "Etemon Desert Network",
+      "area": "Stage Ruins",
+      "sourceLocation": "Etemon Desert Network",
+      "sourceArea": "Stage Ruins",
+      "imagePath": "etemon-desert-network/stage-ruins.webp"
+    },
+    {
+      "location": "Etemon Desert Network",
+      "area": "Cable Trench",
+      "sourceLocation": "Etemon Desert Network",
+      "sourceArea": "Cable Trench",
+      "imagePath": "etemon-desert-network/cable-trench.webp"
+    },
+    {
+      "location": "Etemon Desert Network",
+      "area": null,
+      "sourceLocation": "Etemon Desert Network",
+      "sourceArea": null,
+      "imagePath": "etemon-desert-network/overview.jpg"
+    },
+    {
+      "location": "Nanomon Pyramid",
+      "area": "Entrance Maze",
+      "sourceLocation": "Nanomon Pyramid",
+      "sourceArea": "Entrance Maze",
+      "imagePath": "nanomon-pyramid/entrance-maze.webp"
+    },
+    {
+      "location": "Nanomon Pyramid",
+      "area": "Laboratory",
+      "sourceLocation": "Nanomon Pyramid",
+      "sourceArea": "Laboratory",
+      "imagePath": "nanomon-pyramid/laboratory.webp"
+    },
+    {
+      "location": "Nanomon Pyramid",
+      "area": "Captive Chamber",
+      "sourceLocation": "Nanomon Pyramid",
+      "sourceArea": "Captive Chamber",
+      "imagePath": "nanomon-pyramid/captive-chamber.webp"
+    },
+    {
+      "location": "Nanomon Pyramid",
+      "area": "Network Core",
+      "sourceLocation": "Nanomon Pyramid",
+      "sourceArea": "Network Core",
+      "imagePath": "nanomon-pyramid/network-core.webp"
+    },
+    {
+      "location": "Nanomon Pyramid",
+      "area": null,
+      "sourceLocation": "Nanomon Pyramid",
+      "sourceArea": null,
+      "imagePath": "nanomon-pyramid/overview.webp"
+    },
+    {
+      "location": "Koromon Village",
+      "area": "Village Square",
+      "sourceLocation": "Koromon Village",
+      "sourceArea": "Village Square",
+      "imagePath": "koromon-village/village-square.webp"
+    },
+    {
+      "location": "Koromon Village",
+      "area": "Kitchen",
+      "sourceLocation": "Koromon Village",
+      "sourceArea": "Kitchen",
+      "imagePath": "koromon-village/kitchen.webp"
+    },
+    {
+      "location": "Koromon Village",
+      "area": "Orchard",
+      "sourceLocation": "Koromon Village",
+      "sourceArea": "Orchard",
+      "imagePath": "koromon-village/orchard.webp"
+    },
+    {
+      "location": "Koromon Village",
+      "area": "Watch Hill",
+      "sourceLocation": "Koromon Village",
+      "sourceArea": "Watch Hill",
+      "imagePath": "koromon-village/watch-hill.webp"
+    },
+    {
+      "location": "Koromon Village",
+      "area": null,
+      "sourceLocation": "Koromon Village",
+      "sourceArea": null,
+      "imagePath": "koromon-village/overview.jpg"
+    },
+    {
+      "location": "Crest Ruins",
+      "area": "Tag Hall",
+      "sourceLocation": "Crest Ruins",
+      "sourceArea": "Tag Hall",
+      "imagePath": "crest-ruins/tag-hall.webp"
+    },
+    {
+      "location": "Crest Ruins",
+      "area": "Trial Courtyard",
+      "sourceLocation": "Crest Ruins",
+      "sourceArea": "Trial Courtyard",
+      "imagePath": "crest-ruins/trial-courtyard.webp"
+    },
+    {
+      "location": "Crest Ruins",
+      "area": "Buried Stair",
+      "sourceLocation": "Crest Ruins",
+      "sourceArea": "Buried Stair",
+      "imagePath": "crest-ruins/buried-stair.webp"
+    },
+    {
+      "location": "Crest Ruins",
+      "area": "Resonance Chamber",
+      "sourceLocation": "Crest Ruins",
+      "sourceArea": "Resonance Chamber",
+      "imagePath": "crest-ruins/resonance-chamber.webp"
+    },
+    {
+      "location": "Crest Ruins",
+      "area": null,
+      "sourceLocation": "Crest Ruins",
+      "sourceArea": null,
+      "imagePath": "crest-ruins/overview.webp"
+    },
+    {
+      "location": "Datamon Relay Hospital",
+      "area": "Reception",
+      "sourceLocation": "Datamon Relay Hospital",
+      "sourceArea": "Reception",
+      "imagePath": "datamon-relay-hospital/reception.webp"
+    },
+    {
+      "location": "Datamon Relay Hospital",
+      "area": "Diagnostic Bay",
+      "sourceLocation": "Datamon Relay Hospital",
+      "sourceArea": "Diagnostic Bay",
+      "imagePath": "datamon-relay-hospital/diagnostic-bay.webp"
+    },
+    {
+      "location": "Datamon Relay Hospital",
+      "area": "Recovery Garden",
+      "sourceLocation": "Datamon Relay Hospital",
+      "sourceArea": "Recovery Garden",
+      "imagePath": "datamon-relay-hospital/recovery-garden.webp"
+    },
+    {
+      "location": "Datamon Relay Hospital",
+      "area": "Quarantine Room",
+      "sourceLocation": "Datamon Relay Hospital",
+      "sourceArea": "Quarantine Room",
+      "imagePath": "datamon-relay-hospital/quarantine-room.webp"
+    },
+    {
+      "location": "Datamon Relay Hospital",
+      "area": null,
+      "sourceLocation": "Datamon Relay Hospital",
+      "sourceArea": null,
+      "imagePath": "datamon-relay-hospital/overview.webp"
+    },
+    {
+      "location": "MetalSeadramon Ocean",
+      "area": "Reef Passage",
+      "sourceLocation": "MetalSeadramon Ocean",
+      "sourceArea": "Reef Passage",
+      "imagePath": "metalseadramon-ocean/reef-passage.webp"
+    },
+    {
+      "location": "MetalSeadramon Ocean",
+      "area": "Wreck Field",
+      "sourceLocation": "MetalSeadramon Ocean",
+      "sourceArea": "Wreck Field",
+      "imagePath": "metalseadramon-ocean/wreck-field.webp"
+    },
+    {
+      "location": "MetalSeadramon Ocean",
+      "area": "Harbor Refuge",
+      "sourceLocation": "MetalSeadramon Ocean",
+      "sourceArea": "Harbor Refuge",
+      "imagePath": "metalseadramon-ocean/harbor-refuge.webp"
+    },
+    {
+      "location": "MetalSeadramon Ocean",
+      "area": "Deep Trench",
+      "sourceLocation": "MetalSeadramon Ocean",
+      "sourceArea": "Deep Trench",
+      "imagePath": "metalseadramon-ocean/deep-trench.webp"
+    },
+    {
+      "location": "MetalSeadramon Ocean",
+      "area": null,
+      "sourceLocation": "MetalSeadramon Ocean",
+      "sourceArea": null,
+      "imagePath": "metalseadramon-ocean/overview.webp"
+    },
+    {
+      "location": "Puppetmon Forest",
+      "area": "Living Trees",
+      "sourceLocation": "Puppetmon Forest",
+      "sourceArea": "Living Trees",
+      "imagePath": "puppetmon-forest/living-trees.webp"
+    },
+    {
+      "location": "Puppetmon Forest",
+      "area": "Puppet House",
+      "sourceLocation": "Puppetmon Forest",
+      "sourceArea": "Puppet House",
+      "imagePath": "puppetmon-forest/puppet-house.webp"
+    },
+    {
+      "location": "Puppetmon Forest",
+      "area": "Escape Trail",
+      "sourceLocation": "Puppetmon Forest",
+      "sourceArea": "Escape Trail",
+      "imagePath": "puppetmon-forest/escape-trail.webp"
+    },
+    {
+      "location": "Puppetmon Forest",
+      "area": "Abandoned Gameyard",
+      "sourceLocation": "Puppetmon Forest",
+      "sourceArea": "Abandoned Gameyard",
+      "imagePath": "puppetmon-forest/abandoned-gameyard.webp"
+    },
+    {
+      "location": "Puppetmon Forest",
+      "area": null,
+      "sourceLocation": "Puppetmon Forest",
+      "sourceArea": null,
+      "imagePath": "puppetmon-forest/overview.webp"
+    },
+    {
+      "location": "Machinedramon City",
+      "area": "Transit Ruins",
+      "sourceLocation": "Machinedramon City",
+      "sourceArea": "Transit Ruins",
+      "imagePath": "machinedramon-city/transit-ruins.webp"
+    },
+    {
+      "location": "Machinedramon City",
+      "area": "Power Plant",
+      "sourceLocation": "Machinedramon City",
+      "sourceArea": "Power Plant",
+      "imagePath": "machinedramon-city/power-plant.webp"
+    },
+    {
+      "location": "Machinedramon City",
+      "area": "Subway Shelter",
+      "sourceLocation": "Machinedramon City",
+      "sourceArea": "Subway Shelter",
+      "imagePath": "machinedramon-city/subway-shelter.webp"
+    },
+    {
+      "location": "Machinedramon City",
+      "area": "Factory Square",
+      "sourceLocation": "Machinedramon City",
+      "sourceArea": "Factory Square",
+      "imagePath": "machinedramon-city/factory-square.webp"
+    },
+    {
+      "location": "Machinedramon City",
+      "area": null,
+      "sourceLocation": "Machinedramon City",
+      "sourceArea": null,
+      "imagePath": "machinedramon-city/overview.jpg"
+    },
+    {
+      "location": "Piedmon's Nightmare Keep",
+      "area": "Gates",
+      "sourceLocation": "Piedmon's Nightmare Keep",
+      "sourceArea": "Gates",
+      "imagePath": "piedmon-s-nightmare-keep/gates.webp"
+    },
+    {
+      "location": "Piedmon's Nightmare Keep",
+      "area": "Mirror Gallery",
+      "sourceLocation": "Piedmon's Nightmare Keep",
+      "sourceArea": "Mirror Gallery",
+      "imagePath": "piedmon-s-nightmare-keep/mirror-gallery.webp"
+    },
+    {
+      "location": "Piedmon's Nightmare Keep",
+      "area": "Prison Hall",
+      "sourceLocation": "Piedmon's Nightmare Keep",
+      "sourceArea": "Prison Hall",
+      "imagePath": "piedmon-s-nightmare-keep/prison-hall.webp"
+    },
+    {
+      "location": "Piedmon's Nightmare Keep",
+      "area": "Final Terrace",
+      "sourceLocation": "Piedmon's Nightmare Keep",
+      "sourceArea": "Final Terrace",
+      "imagePath": "piedmon-s-nightmare-keep/final-terrace.webp"
+    },
+    {
+      "location": "Piedmon's Nightmare Keep",
+      "area": null,
+      "sourceLocation": "Piedmon's Nightmare Keep",
+      "sourceArea": null,
+      "imagePath": "piedmon-s-nightmare-keep/overview.webp"
+    },
+    {
+      "location": "Spiral Mountain Echo",
+      "area": "Lower Spiral",
+      "sourceLocation": "Spiral Mountain Echo",
+      "sourceArea": "Lower Spiral",
+      "imagePath": "spiral-mountain-echo/lower-spiral.webp"
+    },
+    {
+      "location": "Spiral Mountain Echo",
+      "area": "Broken Causeway",
+      "sourceLocation": "Spiral Mountain Echo",
+      "sourceArea": "Broken Causeway",
+      "imagePath": "spiral-mountain-echo/broken-causeway.webp"
+    },
+    {
+      "location": "Spiral Mountain Echo",
+      "area": "Domain Junction",
+      "sourceLocation": "Spiral Mountain Echo",
+      "sourceArea": "Domain Junction",
+      "imagePath": "spiral-mountain-echo/domain-junction.webp"
+    },
+    {
+      "location": "Spiral Mountain Echo",
+      "area": "Apex Gate",
+      "sourceLocation": "Spiral Mountain Echo",
+      "sourceArea": "Apex Gate",
+      "imagePath": "spiral-mountain-echo/apex-gate.webp"
+    },
+    {
+      "location": "Spiral Mountain Echo",
+      "area": null,
+      "sourceLocation": "Spiral Mountain Echo",
+      "sourceArea": null,
+      "imagePath": "spiral-mountain-echo/overview.jpg"
+    },
+    {
+      "location": "Digi-Egg Shrine of Courage",
+      "area": "Sealed Door",
+      "sourceLocation": "Digi-Egg Shrine of Courage",
+      "sourceArea": "Sealed Door",
+      "imagePath": "digi-egg-shrine-of-courage/sealed-door.webp"
+    },
+    {
+      "location": "Digi-Egg Shrine of Courage",
+      "area": "Flame Relief",
+      "sourceLocation": "Digi-Egg Shrine of Courage",
+      "sourceArea": "Flame Relief",
+      "imagePath": "digi-egg-shrine-of-courage/flame-relief.webp"
+    },
+    {
+      "location": "Digi-Egg Shrine of Courage",
+      "area": "Egg Dais",
+      "sourceLocation": "Digi-Egg Shrine of Courage",
+      "sourceArea": "Egg Dais",
+      "imagePath": "digi-egg-shrine-of-courage/egg-dais.webp"
+    },
+    {
+      "location": "Digi-Egg Shrine of Courage",
+      "area": "Exit Tunnel",
+      "sourceLocation": "Digi-Egg Shrine of Courage",
+      "sourceArea": "Exit Tunnel",
+      "imagePath": "digi-egg-shrine-of-courage/exit-tunnel.webp"
+    },
+    {
+      "location": "Digi-Egg Shrine of Courage",
+      "area": null,
+      "sourceLocation": "Digi-Egg Shrine of Courage",
+      "sourceArea": null,
+      "imagePath": "digi-egg-shrine-of-courage/overview.webp"
+    },
+    {
+      "location": "Digi-Egg Shrine of Love",
+      "area": "Wind Stair",
+      "sourceLocation": "Digi-Egg Shrine of Love",
+      "sourceArea": "Wind Stair",
+      "imagePath": "digi-egg-shrine-of-love/wind-stair.webp"
+    },
+    {
+      "location": "Digi-Egg Shrine of Love",
+      "area": "Feather Court",
+      "sourceLocation": "Digi-Egg Shrine of Love",
+      "sourceArea": "Feather Court",
+      "imagePath": "digi-egg-shrine-of-love/feather-court.webp"
+    },
+    {
+      "location": "Digi-Egg Shrine of Love",
+      "area": "Egg Dais",
+      "sourceLocation": "Digi-Egg Shrine of Love",
+      "sourceArea": "Egg Dais",
+      "imagePath": "digi-egg-shrine-of-love/egg-dais.webp"
+    },
+    {
+      "location": "Digi-Egg Shrine of Love",
+      "area": "Sky Bridge",
+      "sourceLocation": "Digi-Egg Shrine of Love",
+      "sourceArea": "Sky Bridge",
+      "imagePath": "digi-egg-shrine-of-love/sky-bridge.webp"
+    },
+    {
+      "location": "Digi-Egg Shrine of Love",
+      "area": null,
+      "sourceLocation": "Digi-Egg Shrine of Love",
+      "sourceArea": null,
+      "imagePath": "digi-egg-shrine-of-love/overview.webp"
+    },
+    {
+      "location": "Digi-Egg Shrine of Knowledge",
+      "area": "Stone Puzzle",
+      "sourceLocation": "Digi-Egg Shrine of Knowledge",
+      "sourceArea": "Stone Puzzle",
+      "imagePath": "digi-egg-shrine-of-knowledge/stone-puzzle.webp"
+    },
+    {
+      "location": "Digi-Egg Shrine of Knowledge",
+      "area": "Map Room",
+      "sourceLocation": "Digi-Egg Shrine of Knowledge",
+      "sourceArea": "Map Room",
+      "imagePath": "digi-egg-shrine-of-knowledge/map-room.webp"
+    },
+    {
+      "location": "Digi-Egg Shrine of Knowledge",
+      "area": "Egg Dais",
+      "sourceLocation": "Digi-Egg Shrine of Knowledge",
+      "sourceArea": "Egg Dais",
+      "imagePath": "digi-egg-shrine-of-knowledge/egg-dais.webp"
+    },
+    {
+      "location": "Digi-Egg Shrine of Knowledge",
+      "area": "Digging Shaft",
+      "sourceLocation": "Digi-Egg Shrine of Knowledge",
+      "sourceArea": "Digging Shaft",
+      "imagePath": "digi-egg-shrine-of-knowledge/digging-shaft.webp"
+    },
+    {
+      "location": "Digi-Egg Shrine of Knowledge",
+      "area": null,
+      "sourceLocation": "Digi-Egg Shrine of Knowledge",
+      "sourceArea": null,
+      "imagePath": "digi-egg-shrine-of-knowledge/overview.webp"
+    },
+    {
+      "location": "Digi-Egg Shrine of Hope and Light",
+      "area": "Hope Court",
+      "sourceLocation": "Digi-Egg Shrine of Hope and Light",
+      "sourceArea": "Hope Court",
+      "imagePath": "digi-egg-shrine-of-hope-and-light/hope-court.webp"
+    },
+    {
+      "location": "Digi-Egg Shrine of Hope and Light",
+      "area": "Light Court",
+      "sourceLocation": "Digi-Egg Shrine of Hope and Light",
+      "sourceArea": "Light Court",
+      "imagePath": "digi-egg-shrine-of-hope-and-light/light-court.webp"
+    },
+    {
+      "location": "Digi-Egg Shrine of Hope and Light",
+      "area": "Shared Bridge",
+      "sourceLocation": "Digi-Egg Shrine of Hope and Light",
+      "sourceArea": "Shared Bridge",
+      "imagePath": "digi-egg-shrine-of-hope-and-light/shared-bridge.webp"
+    },
+    {
+      "location": "Digi-Egg Shrine of Hope and Light",
+      "area": "Sanctuary",
+      "sourceLocation": "Digi-Egg Shrine of Hope and Light",
+      "sourceArea": "Sanctuary",
+      "imagePath": "digi-egg-shrine-of-hope-and-light/sanctuary.jpg"
+    },
+    {
+      "location": "Digi-Egg Shrine of Hope and Light",
+      "area": null,
+      "sourceLocation": "Digi-Egg Shrine of Hope and Light",
+      "sourceArea": null,
+      "imagePath": "digi-egg-shrine-of-hope-and-light/overview.webp"
+    },
+    {
+      "location": "Digimon Emperor Fortress",
+      "area": "Hangar",
+      "sourceLocation": "Digimon Emperor Fortress",
+      "sourceArea": "Hangar",
+      "imagePath": "digimon-emperor-fortress/hangar.webp"
+    },
+    {
+      "location": "Digimon Emperor Fortress",
+      "area": "Control Room",
+      "sourceLocation": "Digimon Emperor Fortress",
+      "sourceArea": "Control Room",
+      "imagePath": "digimon-emperor-fortress/control-room.webp"
+    },
+    {
+      "location": "Digimon Emperor Fortress",
+      "area": "Prison",
+      "sourceLocation": "Digimon Emperor Fortress",
+      "sourceArea": "Prison",
+      "imagePath": "digimon-emperor-fortress/prison.webp"
+    },
+    {
+      "location": "Digimon Emperor Fortress",
+      "area": "Kimeramon Lab",
+      "sourceLocation": "Digimon Emperor Fortress",
+      "sourceArea": "Kimeramon Lab",
+      "imagePath": "digimon-emperor-fortress/kimeramon-lab.webp"
+    },
+    {
+      "location": "Digimon Emperor Fortress",
+      "area": null,
+      "sourceLocation": "Digimon Emperor Fortress",
+      "sourceArea": null,
+      "imagePath": "digimon-emperor-fortress/overview.webp"
+    },
+    {
+      "location": "Dark Spire Prairie",
+      "area": "Spire Base",
+      "sourceLocation": "Dark Spire Prairie",
+      "sourceArea": "Spire Base",
+      "imagePath": "dark-spire-prairie/spire-base.webp"
+    },
+    {
+      "location": "Dark Spire Prairie",
+      "area": "Settlement",
+      "sourceLocation": "Dark Spire Prairie",
+      "sourceArea": "Settlement",
+      "imagePath": "dark-spire-prairie/settlement.webp"
+    },
+    {
+      "location": "Dark Spire Prairie",
+      "area": "Observation Ridge",
+      "sourceLocation": "Dark Spire Prairie",
+      "sourceArea": "Observation Ridge",
+      "imagePath": "dark-spire-prairie/observation-ridge.webp"
+    },
+    {
+      "location": "Dark Spire Prairie",
+      "area": "Hidden Conduit",
+      "sourceLocation": "Dark Spire Prairie",
+      "sourceArea": "Hidden Conduit",
+      "imagePath": "dark-spire-prairie/hidden-conduit.webp"
+    },
+    {
+      "location": "Dark Spire Prairie",
+      "area": null,
+      "sourceLocation": "Dark Spire Prairie",
+      "sourceArea": null,
+      "imagePath": "dark-spire-prairie/overview.webp"
+    },
+    {
+      "location": "Holy Stone Valley",
+      "area": "Stone Circle",
+      "sourceLocation": "Holy Stone Valley",
+      "sourceArea": "Stone Circle",
+      "imagePath": "holy-stone-valley/stone-circle.webp"
+    },
+    {
+      "location": "Holy Stone Valley",
+      "area": "Mountain Path",
+      "sourceLocation": "Holy Stone Valley",
+      "sourceArea": "Mountain Path",
+      "imagePath": "holy-stone-valley/mountain-path.webp"
+    },
+    {
+      "location": "Holy Stone Valley",
+      "area": "Guardian Pool",
+      "sourceLocation": "Holy Stone Valley",
+      "sourceArea": "Guardian Pool",
+      "imagePath": "holy-stone-valley/guardian-pool.webp"
+    },
+    {
+      "location": "Holy Stone Valley",
+      "area": "Refuge Camp",
+      "sourceLocation": "Holy Stone Valley",
+      "sourceArea": "Refuge Camp",
+      "imagePath": "holy-stone-valley/refuge-camp.webp"
+    },
+    {
+      "location": "Holy Stone Valley",
+      "area": null,
+      "sourceLocation": "Holy Stone Valley",
+      "sourceArea": null,
+      "imagePath": "holy-stone-valley/overview.jpg"
+    },
+    {
+      "location": "Azulongmon's Eastern Sanctuary",
+      "area": "Cloud Gate",
+      "sourceLocation": "Azulongmon's Eastern Sanctuary",
+      "sourceArea": "Cloud Gate",
+      "imagePath": "azulongmon-s-eastern-sanctuary/cloud-gate.webp"
+    },
+    {
+      "location": "Azulongmon's Eastern Sanctuary",
+      "area": "Dragon Court",
+      "sourceLocation": "Azulongmon's Eastern Sanctuary",
+      "sourceArea": "Dragon Court",
+      "imagePath": "azulongmon-s-eastern-sanctuary/dragon-court.webp"
+    },
+    {
+      "location": "Azulongmon's Eastern Sanctuary",
+      "area": "Restoration Pool",
+      "sourceLocation": "Azulongmon's Eastern Sanctuary",
+      "sourceArea": "Restoration Pool",
+      "imagePath": "azulongmon-s-eastern-sanctuary/restoration-pool.webp"
+    },
+    {
+      "location": "Azulongmon's Eastern Sanctuary",
+      "area": "Archive Ledge",
+      "sourceLocation": "Azulongmon's Eastern Sanctuary",
+      "sourceArea": "Archive Ledge",
+      "imagePath": "azulongmon-s-eastern-sanctuary/archive-ledge.webp"
+    },
+    {
+      "location": "Azulongmon's Eastern Sanctuary",
+      "area": null,
+      "sourceLocation": "Azulongmon's Eastern Sanctuary",
+      "sourceArea": null,
+      "imagePath": "azulongmon-s-eastern-sanctuary/overview.jpg"
+    },
+    {
+      "location": "Zhuqiaomon's Southern Crater",
+      "area": "Lava Bridge",
+      "sourceLocation": "Zhuqiaomon's Southern Crater",
+      "sourceArea": "Lava Bridge",
+      "imagePath": "zhuqiaomon-s-southern-crater/lava-bridge.webp"
+    },
+    {
+      "location": "Zhuqiaomon's Southern Crater",
+      "area": "Ember Shrine",
+      "sourceLocation": "Zhuqiaomon's Southern Crater",
+      "sourceArea": "Ember Shrine",
+      "imagePath": "zhuqiaomon-s-southern-crater/ember-shrine.webp"
+    },
+    {
+      "location": "Zhuqiaomon's Southern Crater",
+      "area": "Audience Rock",
+      "sourceLocation": "Zhuqiaomon's Southern Crater",
+      "sourceArea": "Audience Rock",
+      "imagePath": "zhuqiaomon-s-southern-crater/audience-rock.webp"
+    },
+    {
+      "location": "Zhuqiaomon's Southern Crater",
+      "area": "Cooling Cave",
+      "sourceLocation": "Zhuqiaomon's Southern Crater",
+      "sourceArea": "Cooling Cave",
+      "imagePath": "zhuqiaomon-s-southern-crater/cooling-cave.webp"
+    },
+    {
+      "location": "Zhuqiaomon's Southern Crater",
+      "area": null,
+      "sourceLocation": "Zhuqiaomon's Southern Crater",
+      "sourceArea": null,
+      "imagePath": "zhuqiaomon-s-southern-crater/overview.webp"
+    },
+    {
+      "location": "Baihumon's Western Bastion",
+      "area": "Stone Gate",
+      "sourceLocation": "Baihumon's Western Bastion",
+      "sourceArea": "Stone Gate",
+      "imagePath": "baihumon-s-western-bastion/stone-gate.webp"
+    },
+    {
+      "location": "Baihumon's Western Bastion",
+      "area": "Training Court",
+      "sourceLocation": "Baihumon's Western Bastion",
+      "sourceArea": "Training Court",
+      "imagePath": "baihumon-s-western-bastion/training-court.webp"
+    },
+    {
+      "location": "Baihumon's Western Bastion",
+      "area": "Watch Summit",
+      "sourceLocation": "Baihumon's Western Bastion",
+      "sourceArea": "Watch Summit",
+      "imagePath": "baihumon-s-western-bastion/watch-summit.webp"
+    },
+    {
+      "location": "Baihumon's Western Bastion",
+      "area": "Supply Vault",
+      "sourceLocation": "Baihumon's Western Bastion",
+      "sourceArea": "Supply Vault",
+      "imagePath": "baihumon-s-western-bastion/supply-vault.webp"
+    },
+    {
+      "location": "Baihumon's Western Bastion",
+      "area": null,
+      "sourceLocation": "Baihumon's Western Bastion",
+      "sourceArea": null,
+      "imagePath": "baihumon-s-western-bastion/overview.webp"
+    },
+    {
+      "location": "Ebonwumon's Northern Forest",
+      "area": "Root Gate",
+      "sourceLocation": "Ebonwumon's Northern Forest",
+      "sourceArea": "Root Gate",
+      "imagePath": "ebonwumon-s-northern-forest/root-gate.webp"
+    },
+    {
+      "location": "Ebonwumon's Northern Forest",
+      "area": "Twin Canopy",
+      "sourceLocation": "Ebonwumon's Northern Forest",
+      "sourceArea": "Twin Canopy",
+      "imagePath": "ebonwumon-s-northern-forest/twin-canopy.webp"
+    },
+    {
+      "location": "Ebonwumon's Northern Forest",
+      "area": "Memory Pond",
+      "sourceLocation": "Ebonwumon's Northern Forest",
+      "sourceArea": "Memory Pond",
+      "imagePath": "ebonwumon-s-northern-forest/memory-pond.webp"
+    },
+    {
+      "location": "Ebonwumon's Northern Forest",
+      "area": "Seed Nursery",
+      "sourceLocation": "Ebonwumon's Northern Forest",
+      "sourceArea": "Seed Nursery",
+      "imagePath": "ebonwumon-s-northern-forest/seed-nursery.webp"
+    },
+    {
+      "location": "Ebonwumon's Northern Forest",
+      "area": null,
+      "sourceLocation": "Ebonwumon's Northern Forest",
+      "sourceArea": null,
+      "imagePath": "ebonwumon-s-northern-forest/overview.webp"
+    },
+    {
+      "location": "Fanglongmon's Central Seal",
+      "area": "Four Roads",
+      "sourceLocation": "Fanglongmon's Central Seal",
+      "sourceArea": "Four Roads",
+      "imagePath": "fanglongmon-s-central-seal/four-roads.webp"
+    },
+    {
+      "location": "Fanglongmon's Central Seal",
+      "area": "Seal Court",
+      "sourceLocation": "Fanglongmon's Central Seal",
+      "sourceArea": "Seal Court",
+      "imagePath": "fanglongmon-s-central-seal/seal-court.webp"
+    },
+    {
+      "location": "Fanglongmon's Central Seal",
+      "area": "Deep Chamber",
+      "sourceLocation": "Fanglongmon's Central Seal",
+      "sourceArea": "Deep Chamber",
+      "imagePath": "fanglongmon-s-central-seal/deep-chamber.jpg"
+    },
+    {
+      "location": "Fanglongmon's Central Seal",
+      "area": "Concordance Ring",
+      "sourceLocation": "Fanglongmon's Central Seal",
+      "sourceArea": "Concordance Ring",
+      "imagePath": "fanglongmon-s-central-seal/concordance-ring.webp"
+    },
+    {
+      "location": "Fanglongmon's Central Seal",
+      "area": null,
+      "sourceLocation": "Fanglongmon's Central Seal",
+      "sourceArea": null,
+      "imagePath": "fanglongmon-s-central-seal/overview.jpg"
+    },
+    {
+      "location": "Lantern Harbor",
+      "area": "Arrival Pier",
+      "sourceLocation": "Lantern Harbor",
+      "sourceArea": "Arrival Pier",
+      "imagePath": "lantern-harbor/arrival-pier.webp"
+    },
+    {
+      "location": "Lantern Harbor",
+      "area": "Soup Kitchen",
+      "sourceLocation": "Lantern Harbor",
+      "sourceArea": "Soup Kitchen",
+      "imagePath": "lantern-harbor/soup-kitchen.webp"
+    },
+    {
+      "location": "Lantern Harbor",
+      "area": "Lantern Office",
+      "sourceLocation": "Lantern Harbor",
+      "sourceArea": "Lantern Office",
+      "imagePath": "lantern-harbor/lantern-office.webp"
+    },
+    {
+      "location": "Lantern Harbor",
+      "area": "Repair Dock",
+      "sourceLocation": "Lantern Harbor",
+      "sourceArea": "Repair Dock",
+      "imagePath": "lantern-harbor/repair-dock.webp"
+    },
+    {
+      "location": "Lantern Harbor",
+      "area": null,
+      "sourceLocation": "Lantern Harbor",
+      "sourceArea": null,
+      "imagePath": "lantern-harbor/overview.jpg"
+    },
+    {
+      "location": "Hollow Nursery",
+      "area": "Blank Meadow",
+      "sourceLocation": "Hollow Nursery",
+      "sourceArea": "Blank Meadow",
+      "imagePath": "hollow-nursery/blank-meadow.webp"
+    },
+    {
+      "location": "Hollow Nursery",
+      "area": "Incubation Room",
+      "sourceLocation": "Hollow Nursery",
+      "sourceArea": "Incubation Room",
+      "imagePath": "hollow-nursery/incubation-room.webp"
+    },
+    {
+      "location": "Hollow Nursery",
+      "area": "Witness Wall",
+      "sourceLocation": "Hollow Nursery",
+      "sourceArea": "Witness Wall",
+      "imagePath": "hollow-nursery/witness-wall.webp"
+    },
+    {
+      "location": "Hollow Nursery",
+      "area": "Sealed Cradle",
+      "sourceLocation": "Hollow Nursery",
+      "sourceArea": "Sealed Cradle",
+      "imagePath": "hollow-nursery/sealed-cradle.webp"
+    },
+    {
+      "location": "Hollow Nursery",
+      "area": null,
+      "sourceLocation": "Hollow Nursery",
+      "sourceArea": null,
+      "imagePath": "hollow-nursery/overview.webp"
+    },
+    {
+      "location": "Index Forest",
+      "area": "Memory Trail",
+      "sourceLocation": "Index Forest",
+      "sourceArea": "Memory Trail",
+      "imagePath": "index-forest/memory-trail.webp"
+    },
+    {
+      "location": "Index Forest",
+      "area": "Witness Clearing",
+      "sourceLocation": "Index Forest",
+      "sourceArea": "Witness Clearing",
+      "imagePath": "index-forest/witness-clearing.webp"
+    },
+    {
+      "location": "Index Forest",
+      "area": "Root Archive",
+      "sourceLocation": "Index Forest",
+      "sourceArea": "Root Archive",
+      "imagePath": "index-forest/root-archive.jpg"
+    },
+    {
+      "location": "Index Forest",
+      "area": "Signal Canopy",
+      "sourceLocation": "Index Forest",
+      "sourceArea": "Signal Canopy",
+      "imagePath": "index-forest/signal-canopy.webp"
+    },
+    {
+      "location": "Index Forest",
+      "area": null,
+      "sourceLocation": "Index Forest",
+      "sourceArea": null,
+      "imagePath": "index-forest/overview.webp"
+    },
+    {
+      "location": "Unsent Letter Beach",
+      "area": "Letter Shore",
+      "sourceLocation": "Unsent Letter Beach",
+      "sourceArea": "Letter Shore",
+      "imagePath": "unsent-letter-beach/letter-shore.webp"
+    },
+    {
+      "location": "Unsent Letter Beach",
+      "area": "Tide Cave",
+      "sourceLocation": "Unsent Letter Beach",
+      "sourceArea": "Tide Cave",
+      "imagePath": "unsent-letter-beach/tide-cave.webp"
+    },
+    {
+      "location": "Unsent Letter Beach",
+      "area": "Courier Hut",
+      "sourceLocation": "Unsent Letter Beach",
+      "sourceArea": "Courier Hut",
+      "imagePath": "unsent-letter-beach/courier-hut.webp"
+    },
+    {
+      "location": "Unsent Letter Beach",
+      "area": "Broken Beacon",
+      "sourceLocation": "Unsent Letter Beach",
+      "sourceArea": "Broken Beacon",
+      "imagePath": "unsent-letter-beach/broken-beacon.webp"
+    },
+    {
+      "location": "Unsent Letter Beach",
+      "area": null,
+      "sourceLocation": "Unsent Letter Beach",
+      "sourceArea": null,
+      "imagePath": "unsent-letter-beach/overview.webp"
+    },
+    {
+      "location": "Choir's White Citadel",
+      "area": "Mercy Hall",
+      "sourceLocation": "Choir's White Citadel",
+      "sourceArea": "Mercy Hall",
+      "imagePath": "choir-s-white-citadel/mercy-hall.webp"
+    },
+    {
+      "location": "Choir's White Citadel",
+      "area": "Silence Barracks",
+      "sourceLocation": "Choir's White Citadel",
+      "sourceArea": "Silence Barracks",
+      "imagePath": "choir-s-white-citadel/silence-barracks.webp"
+    },
+    {
+      "location": "Choir's White Citadel",
+      "area": "Witness Vault",
+      "sourceLocation": "Choir's White Citadel",
+      "sourceArea": "Witness Vault",
+      "imagePath": "choir-s-white-citadel/witness-vault.webp"
+    },
+    {
+      "location": "Choir's White Citadel",
+      "area": "Erasure Engine",
+      "sourceLocation": "Choir's White Citadel",
+      "sourceArea": "Erasure Engine",
+      "imagePath": "choir-s-white-citadel/erasure-engine.webp"
+    },
+    {
+      "location": "Choir's White Citadel",
+      "area": null,
+      "sourceLocation": "Choir's White Citadel",
+      "sourceArea": null,
+      "imagePath": "choir-s-white-citadel/overview.webp"
+    },
+    {
+      "location": "First Light Observatory",
+      "area": "Sky Lens",
+      "sourceLocation": "First Light Observatory",
+      "sourceArea": "Sky Lens",
+      "imagePath": "first-light-observatory/sky-lens.webp"
+    },
+    {
+      "location": "First Light Observatory",
+      "area": "Consent Chamber",
+      "sourceLocation": "First Light Observatory",
+      "sourceArea": "Consent Chamber",
+      "imagePath": "first-light-observatory/consent-chamber.webp"
+    },
+    {
+      "location": "First Light Observatory",
+      "area": "Restoration Console",
+      "sourceLocation": "First Light Observatory",
+      "sourceArea": "Restoration Console",
+      "imagePath": "first-light-observatory/restoration-console.webp"
+    },
+    {
+      "location": "First Light Observatory",
+      "area": "First Bond Core",
+      "sourceLocation": "First Light Observatory",
+      "sourceArea": "First Bond Core",
+      "imagePath": "first-light-observatory/first-bond-core.webp"
+    },
+    {
+      "location": "First Light Observatory",
+      "area": null,
+      "sourceLocation": "First Light Observatory",
+      "sourceArea": null,
+      "imagePath": "first-light-observatory/overview.webp"
+    },
+    {
+      "location": "Our War Game Network",
+      "area": "Mail Hub",
+      "sourceLocation": "Our War Game Network",
+      "sourceArea": "Mail Hub",
+      "imagePath": "our-war-game-network/mail-hub.jpg"
+    },
+    {
+      "location": "Our War Game Network",
+      "area": "Countdown Node",
+      "sourceLocation": "Our War Game Network",
+      "sourceArea": "Countdown Node",
+      "imagePath": "our-war-game-network/countdown-node.webp"
+    },
+    {
+      "location": "Our War Game Network",
+      "area": "Copy Swarm",
+      "sourceLocation": "Our War Game Network",
+      "sourceArea": "Copy Swarm",
+      "imagePath": "our-war-game-network/copy-swarm.webp"
+    },
+    {
+      "location": "Our War Game Network",
+      "area": "Fusion Coordinate",
+      "sourceLocation": "Our War Game Network",
+      "sourceArea": "Fusion Coordinate",
+      "imagePath": "our-war-game-network/fusion-coordinate.webp"
+    },
+    {
+      "location": "Our War Game Network",
+      "area": null,
+      "sourceLocation": "Our War Game Network",
+      "sourceArea": null,
+      "imagePath": "our-war-game-network/overview.webp"
+    },
+    {
+      "location": "Diaboromon Copy Basin",
+      "area": "Packet River",
+      "sourceLocation": "Diaboromon Copy Basin",
+      "sourceArea": "Packet River",
+      "imagePath": "diaboromon-copy-basin/packet-river.webp"
+    },
+    {
+      "location": "Diaboromon Copy Basin",
+      "area": "Quarantine Ring",
+      "sourceLocation": "Diaboromon Copy Basin",
+      "sourceArea": "Quarantine Ring",
+      "imagePath": "diaboromon-copy-basin/quarantine-ring.webp"
+    },
+    {
+      "location": "Diaboromon Copy Basin",
+      "area": "Copy Nursery",
+      "sourceLocation": "Diaboromon Copy Basin",
+      "sourceArea": "Copy Nursery",
+      "imagePath": "diaboromon-copy-basin/copy-nursery.webp"
+    },
+    {
+      "location": "Diaboromon Copy Basin",
+      "area": "Exit Firewall",
+      "sourceLocation": "Diaboromon Copy Basin",
+      "sourceArea": "Exit Firewall",
+      "imagePath": "diaboromon-copy-basin/exit-firewall.webp"
+    },
+    {
+      "location": "Diaboromon Copy Basin",
+      "area": null,
+      "sourceLocation": "Diaboromon Copy Basin",
+      "sourceArea": null,
+      "imagePath": "diaboromon-copy-basin/overview.webp"
+    },
+    {
+      "location": "Gate Junction Station",
+      "area": "Departure Board",
+      "sourceLocation": "Gate Junction Station",
+      "sourceArea": "Departure Board",
+      "imagePath": "gate-junction-station/departure-board.webp"
+    },
+    {
+      "location": "Gate Junction Station",
+      "area": "Customs Desk",
+      "sourceLocation": "Gate Junction Station",
+      "sourceArea": "Customs Desk",
+      "imagePath": "gate-junction-station/customs-desk.webp"
+    },
+    {
+      "location": "Gate Junction Station",
+      "area": "Repair Booth",
+      "sourceLocation": "Gate Junction Station",
+      "sourceArea": "Repair Booth",
+      "imagePath": "gate-junction-station/repair-booth.webp"
+    },
+    {
+      "location": "Gate Junction Station",
+      "area": "Rest Platform",
+      "sourceLocation": "Gate Junction Station",
+      "sourceArea": "Rest Platform",
+      "imagePath": "gate-junction-station/rest-platform.webp"
+    },
+    {
+      "location": "Gate Junction Station",
+      "area": null,
+      "sourceLocation": "Gate Junction Station",
+      "sourceArea": null,
+      "imagePath": "gate-junction-station/overview.jpg"
+    },
+    {
+      "location": "Lost Packet Sea",
+      "area": "Buoy Chain",
+      "sourceLocation": "Lost Packet Sea",
+      "sourceArea": "Buoy Chain",
+      "imagePath": "lost-packet-sea/buoy-chain.webp"
+    },
+    {
+      "location": "Lost Packet Sea",
+      "area": "Data Reef",
+      "sourceLocation": "Lost Packet Sea",
+      "sourceArea": "Data Reef",
+      "imagePath": "lost-packet-sea/data-reef.webp"
+    },
+    {
+      "location": "Lost Packet Sea",
+      "area": "Rescue Skiff",
+      "sourceLocation": "Lost Packet Sea",
+      "sourceArea": "Rescue Skiff",
+      "imagePath": "lost-packet-sea/rescue-skiff.webp"
+    },
+    {
+      "location": "Lost Packet Sea",
+      "area": "Signal Storm",
+      "sourceLocation": "Lost Packet Sea",
+      "sourceArea": "Signal Storm",
+      "imagePath": "lost-packet-sea/signal-storm.jpg"
+    },
+    {
+      "location": "Lost Packet Sea",
+      "area": null,
+      "sourceLocation": "Lost Packet Sea",
+      "sourceArea": null,
+      "imagePath": "lost-packet-sea/overview.webp"
+    },
+    {
+      "location": "Dark Ocean Shore",
+      "area": "Beach",
+      "sourceLocation": "Dark Ocean Shore",
+      "sourceArea": "Beach",
+      "imagePath": "dark-ocean-shore/beach.webp"
+    },
+    {
+      "location": "Dark Ocean Shore",
+      "area": "Signal House",
+      "sourceLocation": "Dark Ocean Shore",
+      "sourceArea": "Signal House",
+      "imagePath": "dark-ocean-shore/signal-house.webp"
+    },
+    {
+      "location": "Dark Ocean Shore",
+      "area": "Fog Road",
+      "sourceLocation": "Dark Ocean Shore",
+      "sourceArea": "Fog Road",
+      "imagePath": "dark-ocean-shore/fog-road.webp"
+    },
+    {
+      "location": "Dark Ocean Shore",
+      "area": "Return Gate",
+      "sourceLocation": "Dark Ocean Shore",
+      "sourceArea": "Return Gate",
+      "imagePath": "dark-ocean-shore/return-gate.webp"
+    },
+    {
+      "location": "Dark Ocean Shore",
+      "area": null,
+      "sourceLocation": "Dark Ocean Shore",
+      "sourceArea": null,
+      "imagePath": "dark-ocean-shore/overview.jpg"
+    },
+    {
+      "location": "Deep One Settlement",
+      "area": "Abandoned Street",
+      "sourceLocation": "Deep One Settlement",
+      "sourceArea": "Abandoned Street",
+      "imagePath": "deep-one-settlement/abandoned-street.webp"
+    },
+    {
+      "location": "Deep One Settlement",
+      "area": "Meeting Hall",
+      "sourceLocation": "Deep One Settlement",
+      "sourceArea": "Meeting Hall",
+      "imagePath": "deep-one-settlement/meeting-hall.webp"
+    },
+    {
+      "location": "Deep One Settlement",
+      "area": "Tide Shrine",
+      "sourceLocation": "Deep One Settlement",
+      "sourceArea": "Tide Shrine",
+      "imagePath": "deep-one-settlement/tide-shrine.webp"
+    },
+    {
+      "location": "Deep One Settlement",
+      "area": "Cliff Route",
+      "sourceLocation": "Deep One Settlement",
+      "sourceArea": "Cliff Route",
+      "imagePath": "deep-one-settlement/cliff-route.webp"
+    },
+    {
+      "location": "Deep One Settlement",
+      "area": null,
+      "sourceLocation": "Deep One Settlement",
+      "sourceArea": null,
+      "imagePath": "deep-one-settlement/overview.webp"
+    },
+    {
+      "location": "tri. Odaiba Archive",
+      "area": "School Gate",
+      "sourceLocation": "tri. Odaiba Archive",
+      "sourceArea": "School Gate",
+      "imagePath": "tri-odaiba-archive/school-gate.webp"
+    },
+    {
+      "location": "tri. Odaiba Archive",
+      "area": "Research Room",
+      "sourceLocation": "tri. Odaiba Archive",
+      "sourceArea": "Research Room",
+      "imagePath": "tri-odaiba-archive/research-room.webp"
+    },
+    {
+      "location": "tri. Odaiba Archive",
+      "area": "Quarantine Site",
+      "sourceLocation": "tri. Odaiba Archive",
+      "sourceArea": "Quarantine Site",
+      "imagePath": "tri-odaiba-archive/quarantine-site.webp"
+    },
+    {
+      "location": "tri. Odaiba Archive",
+      "area": "Reboot Gate",
+      "sourceLocation": "tri. Odaiba Archive",
+      "sourceArea": "Reboot Gate",
+      "imagePath": "tri-odaiba-archive/reboot-gate.webp"
+    },
+    {
+      "location": "tri. Odaiba Archive",
+      "area": null,
+      "sourceLocation": "tri. Odaiba Archive",
+      "sourceArea": null,
+      "imagePath": "tri-odaiba-archive/overview.jpg"
+    },
+    {
+      "location": "Kizuna Memory Sphere",
+      "area": "False Playground",
+      "sourceLocation": "Kizuna Memory Sphere",
+      "sourceArea": "False Playground",
+      "imagePath": "kizuna-memory-sphere/false-playground.webp"
+    },
+    {
+      "location": "Kizuna Memory Sphere",
+      "area": "Memory Corridor",
+      "sourceLocation": "Kizuna Memory Sphere",
+      "sourceArea": "Memory Corridor",
+      "imagePath": "kizuna-memory-sphere/memory-corridor.webp"
+    },
+    {
+      "location": "Kizuna Memory Sphere",
+      "area": "Partner Chamber",
+      "sourceLocation": "Kizuna Memory Sphere",
+      "sourceArea": "Partner Chamber",
+      "imagePath": "kizuna-memory-sphere/partner-chamber.webp"
+    },
+    {
+      "location": "Kizuna Memory Sphere",
+      "area": "Release Core",
+      "sourceLocation": "Kizuna Memory Sphere",
+      "sourceArea": "Release Core",
+      "imagePath": "kizuna-memory-sphere/release-core.webp"
+    },
+    {
+      "location": "Kizuna Memory Sphere",
+      "area": null,
+      "sourceLocation": "Kizuna Memory Sphere",
+      "sourceArea": null,
+      "imagePath": "kizuna-memory-sphere/overview.webp"
+    },
+    {
+      "location": "The Beginning Egg Canopy",
+      "area": "City Square",
+      "sourceLocation": "The Beginning Egg Canopy",
+      "sourceArea": "City Square",
+      "imagePath": "the-beginning-egg-canopy/city-square.webp"
+    },
+    {
+      "location": "The Beginning Egg Canopy",
+      "area": "Egg Canopy",
+      "sourceLocation": "The Beginning Egg Canopy",
+      "sourceArea": "Egg Canopy",
+      "imagePath": "the-beginning-egg-canopy/egg-canopy.webp"
+    },
+    {
+      "location": "The Beginning Egg Canopy",
+      "area": "Rui's Refuge",
+      "sourceLocation": "The Beginning Egg Canopy",
+      "sourceArea": "Rui's Refuge",
+      "imagePath": "the-beginning-egg-canopy/rui-s-refuge.webp"
+    },
+    {
+      "location": "The Beginning Egg Canopy",
+      "area": "Ukkomon Core",
+      "sourceLocation": "The Beginning Egg Canopy",
+      "sourceArea": "Ukkomon Core",
+      "imagePath": "the-beginning-egg-canopy/ukkomon-core.webp"
+    },
+    {
+      "location": "The Beginning Egg Canopy",
+      "area": null,
+      "sourceLocation": "The Beginning Egg Canopy",
+      "sourceArea": null,
+      "imagePath": "the-beginning-egg-canopy/overview.webp"
+    },
+    {
+      "location": "Shinjuku Park Hideout",
+      "area": "Hideout",
+      "sourceLocation": "Shinjuku Park Hideout",
+      "sourceArea": "Hideout",
+      "imagePath": "shinjuku-park-hideout/hideout.webp"
+    },
+    {
+      "location": "Shinjuku Park Hideout",
+      "area": "Park Walk",
+      "sourceLocation": "Shinjuku Park Hideout",
+      "sourceArea": "Park Walk",
+      "imagePath": "shinjuku-park-hideout/park-walk.webp"
+    },
+    {
+      "location": "Shinjuku Park Hideout",
+      "area": "Playground",
+      "sourceLocation": "Shinjuku Park Hideout",
+      "sourceArea": "Playground",
+      "imagePath": "shinjuku-park-hideout/playground.webp"
+    },
+    {
+      "location": "Shinjuku Park Hideout",
+      "area": "Bakery Route",
+      "sourceLocation": "Shinjuku Park Hideout",
+      "sourceArea": "Bakery Route",
+      "imagePath": "shinjuku-park-hideout/bakery-route.webp"
+    },
+    {
+      "location": "Shinjuku Park Hideout",
+      "area": null,
+      "sourceLocation": "Shinjuku Park Hideout",
+      "sourceArea": null,
+      "imagePath": "shinjuku-park-hideout/overview.jpg"
+    },
+    {
+      "location": "Hypnos Command Center",
+      "area": "Operations Floor",
+      "sourceLocation": "Hypnos Command Center",
+      "sourceArea": "Operations Floor",
+      "imagePath": "hypnos-command-center/operations-floor.webp"
+    },
+    {
+      "location": "Hypnos Command Center",
+      "area": "Data Room",
+      "sourceLocation": "Hypnos Command Center",
+      "sourceArea": "Data Room",
+      "imagePath": "hypnos-command-center/data-room.webp"
+    },
+    {
+      "location": "Hypnos Command Center",
+      "area": "Interview Room",
+      "sourceLocation": "Hypnos Command Center",
+      "sourceArea": "Interview Room",
+      "imagePath": "hypnos-command-center/interview-room.webp"
+    },
+    {
+      "location": "Hypnos Command Center",
+      "area": "Emergency Gate",
+      "sourceLocation": "Hypnos Command Center",
+      "sourceArea": "Emergency Gate",
+      "imagePath": "hypnos-command-center/emergency-gate.webp"
+    },
+    {
+      "location": "Hypnos Command Center",
+      "area": null,
+      "sourceLocation": "Hypnos Command Center",
+      "sourceArea": null,
+      "imagePath": "hypnos-command-center/overview.webp"
+    },
+    {
+      "location": "D-Reaper Quarantine",
+      "area": "Containment Line",
+      "sourceLocation": "D-Reaper Quarantine",
+      "sourceArea": "Containment Line",
+      "imagePath": "d-reaper-quarantine/containment-line.webp"
+    },
+    {
+      "location": "D-Reaper Quarantine",
+      "area": "Agent Corridor",
+      "sourceLocation": "D-Reaper Quarantine",
+      "sourceArea": "Agent Corridor",
+      "imagePath": "d-reaper-quarantine/agent-corridor.webp"
+    },
+    {
+      "location": "D-Reaper Quarantine",
+      "area": "Survivor Pocket",
+      "sourceLocation": "D-Reaper Quarantine",
+      "sourceArea": "Survivor Pocket",
+      "imagePath": "d-reaper-quarantine/survivor-pocket.webp"
+    },
+    {
+      "location": "D-Reaper Quarantine",
+      "area": "Kernel Boundary",
+      "sourceLocation": "D-Reaper Quarantine",
+      "sourceArea": "Kernel Boundary",
+      "imagePath": "d-reaper-quarantine/kernel-boundary.webp"
+    },
+    {
+      "location": "D-Reaper Quarantine",
+      "area": null,
+      "sourceLocation": "D-Reaper Quarantine",
+      "sourceArea": null,
+      "imagePath": "d-reaper-quarantine/overview.webp"
+    },
+    {
+      "location": "Runaway Locomon Line",
+      "area": "Station",
+      "sourceLocation": "Runaway Locomon Line",
+      "sourceArea": "Station",
+      "imagePath": "runaway-locomon-line/station.webp"
+    },
+    {
+      "location": "Runaway Locomon Line",
+      "area": "Moving Car",
+      "sourceLocation": "Runaway Locomon Line",
+      "sourceArea": "Moving Car",
+      "imagePath": "runaway-locomon-line/moving-car.webp"
+    },
+    {
+      "location": "Runaway Locomon Line",
+      "area": "Engine Walk",
+      "sourceLocation": "Runaway Locomon Line",
+      "sourceArea": "Engine Walk",
+      "imagePath": "runaway-locomon-line/engine-walk.webp"
+    },
+    {
+      "location": "Runaway Locomon Line",
+      "area": "Track Junction",
+      "sourceLocation": "Runaway Locomon Line",
+      "sourceArea": "Track Junction",
+      "imagePath": "runaway-locomon-line/track-junction.webp"
+    },
+    {
+      "location": "Runaway Locomon Line",
+      "area": null,
+      "sourceLocation": "Runaway Locomon Line",
+      "sourceArea": null,
+      "imagePath": "runaway-locomon-line/overview.webp"
+    },
+    {
+      "location": "Trailmon Terminal",
+      "area": "Platform",
+      "sourceLocation": "Trailmon Terminal",
+      "sourceArea": "Platform",
+      "imagePath": "trailmon-terminal/platform.webp"
+    },
+    {
+      "location": "Trailmon Terminal",
+      "area": "Carriage",
+      "sourceLocation": "Trailmon Terminal",
+      "sourceArea": "Carriage",
+      "imagePath": "trailmon-terminal/carriage.webp"
+    },
+    {
+      "location": "Trailmon Terminal",
+      "area": "Ticket Hut",
+      "sourceLocation": "Trailmon Terminal",
+      "sourceArea": "Ticket Hut",
+      "imagePath": "trailmon-terminal/ticket-hut.webp"
+    },
+    {
+      "location": "Trailmon Terminal",
+      "area": "Spirit Gate",
+      "sourceLocation": "Trailmon Terminal",
+      "sourceArea": "Spirit Gate",
+      "imagePath": "trailmon-terminal/spirit-gate.webp"
+    },
+    {
+      "location": "Trailmon Terminal",
+      "area": null,
+      "sourceLocation": "Trailmon Terminal",
+      "sourceArea": null,
+      "imagePath": "trailmon-terminal/overview.jpg"
+    },
+    {
+      "location": "Ten Spirits Sanctuary",
+      "area": "Human Spirit Hall",
+      "sourceLocation": "Ten Spirits Sanctuary",
+      "sourceArea": "Human Spirit Hall",
+      "imagePath": "ten-spirits-sanctuary/human-spirit-hall.webp"
+    },
+    {
+      "location": "Ten Spirits Sanctuary",
+      "area": "Beast Spirit Hall",
+      "sourceLocation": "Ten Spirits Sanctuary",
+      "sourceArea": "Beast Spirit Hall",
+      "imagePath": "ten-spirits-sanctuary/beast-spirit-hall.webp"
+    },
+    {
+      "location": "Ten Spirits Sanctuary",
+      "area": "Balance Court",
+      "sourceLocation": "Ten Spirits Sanctuary",
+      "sourceArea": "Balance Court",
+      "imagePath": "ten-spirits-sanctuary/balance-court.webp"
+    },
+    {
+      "location": "Ten Spirits Sanctuary",
+      "area": "Ancient Record",
+      "sourceLocation": "Ten Spirits Sanctuary",
+      "sourceArea": "Ancient Record",
+      "imagePath": "ten-spirits-sanctuary/ancient-record.webp"
+    },
+    {
+      "location": "Ten Spirits Sanctuary",
+      "area": null,
+      "sourceLocation": "Ten Spirits Sanctuary",
+      "sourceArea": null,
+      "imagePath": "ten-spirits-sanctuary/overview.webp"
+    },
+    {
+      "location": "Island of Lost Digimon",
+      "area": "Beast Village",
+      "sourceLocation": "Island of Lost Digimon",
+      "sourceArea": "Beast Village",
+      "imagePath": "island-of-lost-digimon/beast-village.webp"
+    },
+    {
+      "location": "Island of Lost Digimon",
+      "area": "Humanoid Village",
+      "sourceLocation": "Island of Lost Digimon",
+      "sourceArea": "Humanoid Village",
+      "imagePath": "island-of-lost-digimon/humanoid-village.webp"
+    },
+    {
+      "location": "Island of Lost Digimon",
+      "area": "Border Ruins",
+      "sourceLocation": "Island of Lost Digimon",
+      "sourceArea": "Border Ruins",
+      "imagePath": "island-of-lost-digimon/border-ruins.webp"
+    },
+    {
+      "location": "Island of Lost Digimon",
+      "area": "Ornismon Seal",
+      "sourceLocation": "Island of Lost Digimon",
+      "sourceArea": "Ornismon Seal",
+      "imagePath": "island-of-lost-digimon/ornismon-seal.webp"
+    },
+    {
+      "location": "Island of Lost Digimon",
+      "area": null,
+      "sourceLocation": "Island of Lost Digimon",
+      "sourceArea": null,
+      "imagePath": "island-of-lost-digimon/overview.webp"
+    },
+    {
+      "location": "DATS Headquarters",
+      "area": "Briefing Room",
+      "sourceLocation": "DATS Headquarters",
+      "sourceArea": "Briefing Room",
+      "imagePath": "dats-headquarters/briefing-room.webp"
+    },
+    {
+      "location": "DATS Headquarters",
+      "area": "Medical Bay",
+      "sourceLocation": "DATS Headquarters",
+      "sourceArea": "Medical Bay",
+      "imagePath": "dats-headquarters/medical-bay.webp"
+    },
+    {
+      "location": "DATS Headquarters",
+      "area": "Vehicle Garage",
+      "sourceLocation": "DATS Headquarters",
+      "sourceArea": "Vehicle Garage",
+      "imagePath": "dats-headquarters/vehicle-garage.webp"
+    },
+    {
+      "location": "DATS Headquarters",
+      "area": "Gate Lab",
+      "sourceLocation": "DATS Headquarters",
+      "sourceArea": "Gate Lab",
+      "imagePath": "dats-headquarters/gate-lab.webp"
+    },
+    {
+      "location": "DATS Headquarters",
+      "area": null,
+      "sourceLocation": "DATS Headquarters",
+      "sourceArea": null,
+      "imagePath": "dats-headquarters/overview.jpg"
+    },
+    {
+      "location": "Yggdrasil Access Frontier",
+      "area": "Royal Knight Post",
+      "sourceLocation": "Yggdrasil Access Frontier",
+      "sourceArea": "Royal Knight Post",
+      "imagePath": "yggdrasil-access-frontier/royal-knight-post.webp"
+    },
+    {
+      "location": "Yggdrasil Access Frontier",
+      "area": "Access Bridge",
+      "sourceLocation": "Yggdrasil Access Frontier",
+      "sourceArea": "Access Bridge",
+      "imagePath": "yggdrasil-access-frontier/access-bridge.webp"
+    },
+    {
+      "location": "Yggdrasil Access Frontier",
+      "area": "Host Console",
+      "sourceLocation": "Yggdrasil Access Frontier",
+      "sourceArea": "Host Console",
+      "imagePath": "yggdrasil-access-frontier/host-console.webp"
+    },
+    {
+      "location": "Yggdrasil Access Frontier",
+      "area": "Withdrawal Gate",
+      "sourceLocation": "Yggdrasil Access Frontier",
+      "sourceArea": "Withdrawal Gate",
+      "imagePath": "yggdrasil-access-frontier/withdrawal-gate.webp"
+    },
+    {
+      "location": "Yggdrasil Access Frontier",
+      "area": null,
+      "sourceLocation": "Yggdrasil Access Frontier",
+      "sourceArea": null,
+      "imagePath": "yggdrasil-access-frontier/overview.webp"
+    },
+    {
+      "location": "Green Zone Assembly",
+      "area": "Village",
+      "sourceLocation": "Green Zone Assembly",
+      "sourceArea": "Village",
+      "imagePath": "green-zone-assembly/village.webp"
+    },
+    {
+      "location": "Green Zone Assembly",
+      "area": "DigiXros Court",
+      "sourceLocation": "Green Zone Assembly",
+      "sourceArea": "DigiXros Court",
+      "imagePath": "green-zone-assembly/digixros-court.webp"
+    },
+    {
+      "location": "Green Zone Assembly",
+      "area": "Supply Camp",
+      "sourceLocation": "Green Zone Assembly",
+      "sourceArea": "Supply Camp",
+      "imagePath": "green-zone-assembly/supply-camp.webp"
+    },
+    {
+      "location": "Green Zone Assembly",
+      "area": "Zone Gate",
+      "sourceLocation": "Green Zone Assembly",
+      "sourceArea": "Zone Gate",
+      "imagePath": "green-zone-assembly/zone-gate.webp"
+    },
+    {
+      "location": "Green Zone Assembly",
+      "area": null,
+      "sourceLocation": "Green Zone Assembly",
+      "sourceArea": null,
+      "imagePath": "green-zone-assembly/overview.jpg"
+    },
+    {
+      "location": "Bagra Fortress Border",
+      "area": "Border Camp",
+      "sourceLocation": "Bagra Fortress Border",
+      "sourceArea": "Border Camp",
+      "imagePath": "bagra-fortress-border/border-camp.webp"
+    },
+    {
+      "location": "Bagra Fortress Border",
+      "area": "Prison Route",
+      "sourceLocation": "Bagra Fortress Border",
+      "sourceArea": "Prison Route",
+      "imagePath": "bagra-fortress-border/prison-route.webp"
+    },
+    {
+      "location": "Bagra Fortress Border",
+      "area": "Command Road",
+      "sourceLocation": "Bagra Fortress Border",
+      "sourceArea": "Command Road",
+      "imagePath": "bagra-fortress-border/command-road.webp"
+    },
+    {
+      "location": "Bagra Fortress Border",
+      "area": "Fortress Gate",
+      "sourceLocation": "Bagra Fortress Border",
+      "sourceArea": "Fortress Gate",
+      "imagePath": "bagra-fortress-border/fortress-gate.webp"
+    },
+    {
+      "location": "Bagra Fortress Border",
+      "area": null,
+      "sourceLocation": "Bagra Fortress Border",
+      "sourceArea": null,
+      "imagePath": "bagra-fortress-border/overview.webp"
+    },
+    {
+      "location": "DigiQuartz Crossing",
+      "area": "Clock Alley",
+      "sourceLocation": "DigiQuartz Crossing",
+      "sourceArea": "Clock Alley",
+      "imagePath": "digiquartz-crossing/clock-alley.webp"
+    },
+    {
+      "location": "DigiQuartz Crossing",
+      "area": "Hunter Meet",
+      "sourceLocation": "DigiQuartz Crossing",
+      "sourceArea": "Hunter Meet",
+      "imagePath": "digiquartz-crossing/hunter-meet.webp"
+    },
+    {
+      "location": "DigiQuartz Crossing",
+      "area": "Distorted School",
+      "sourceLocation": "DigiQuartz Crossing",
+      "sourceArea": "Distorted School",
+      "imagePath": "digiquartz-crossing/distorted-school.webp"
+    },
+    {
+      "location": "DigiQuartz Crossing",
+      "area": "Quartz Gate",
+      "sourceLocation": "DigiQuartz Crossing",
+      "sourceArea": "Quartz Gate",
+      "imagePath": "digiquartz-crossing/quartz-gate.webp"
+    },
+    {
+      "location": "DigiQuartz Crossing",
+      "area": null,
+      "sourceLocation": "DigiQuartz Crossing",
+      "sourceArea": null,
+      "imagePath": "digiquartz-crossing/overview.webp"
+    },
+    {
+      "location": "Hazakura Academy",
+      "area": "Dormitory",
+      "sourceLocation": "Hazakura Academy",
+      "sourceArea": "Dormitory",
+      "imagePath": "hazakura-academy/dormitory.webp"
+    },
+    {
+      "location": "Hazakura Academy",
+      "area": "Computer Club",
+      "sourceLocation": "Hazakura Academy",
+      "sourceArea": "Computer Club",
+      "imagePath": "hazakura-academy/computer-club.webp"
+    },
+    {
+      "location": "Hazakura Academy",
+      "area": "Courtyard",
+      "sourceLocation": "Hazakura Academy",
+      "sourceArea": "Courtyard",
+      "imagePath": "hazakura-academy/courtyard.webp"
+    },
+    {
+      "location": "Hazakura Academy",
+      "area": "Roof Access",
+      "sourceLocation": "Hazakura Academy",
+      "sourceArea": "Roof Access",
+      "imagePath": "hazakura-academy/roof-access.webp"
+    },
+    {
+      "location": "Hazakura Academy",
+      "area": null,
+      "sourceLocation": "Hazakura Academy",
+      "sourceArea": null,
+      "imagePath": "hazakura-academy/overview.webp"
+    },
+    {
+      "location": "Hologram Market",
+      "area": "Food Stall",
+      "sourceLocation": "Hologram Market",
+      "sourceArea": "Food Stall",
+      "imagePath": "hologram-market/food-stall.webp"
+    },
+    {
+      "location": "Hologram Market",
+      "area": "Projection Booth",
+      "sourceLocation": "Hologram Market",
+      "sourceArea": "Projection Booth",
+      "imagePath": "hologram-market/projection-booth.webp"
+    },
+    {
+      "location": "Hologram Market",
+      "area": "Quiet Table",
+      "sourceLocation": "Hologram Market",
+      "sourceArea": "Quiet Table",
+      "imagePath": "hologram-market/quiet-table.webp"
+    },
+    {
+      "location": "Hologram Market",
+      "area": "Emergency Lane",
+      "sourceLocation": "Hologram Market",
+      "sourceArea": "Emergency Lane",
+      "imagePath": "hologram-market/emergency-lane.webp"
+    },
+    {
+      "location": "Hologram Market",
+      "area": null,
+      "sourceLocation": "Hologram Market",
+      "sourceArea": null,
+      "imagePath": "hologram-market/overview.jpg"
+    },
+    {
+      "location": "Appmon Terminal Square",
+      "area": "App Booth",
+      "sourceLocation": "Appmon Terminal Square",
+      "sourceArea": "App Booth",
+      "imagePath": "appmon-terminal-square/app-booth.webp"
+    },
+    {
+      "location": "Appmon Terminal Square",
+      "area": "Search Office",
+      "sourceLocation": "Appmon Terminal Square",
+      "sourceArea": "Search Office",
+      "imagePath": "appmon-terminal-square/search-office.webp"
+    },
+    {
+      "location": "Appmon Terminal Square",
+      "area": "App Drive Bench",
+      "sourceLocation": "Appmon Terminal Square",
+      "sourceArea": "App Drive Bench",
+      "imagePath": "appmon-terminal-square/app-drive-bench.webp"
+    },
+    {
+      "location": "Appmon Terminal Square",
+      "area": "Cross Gate",
+      "sourceLocation": "Appmon Terminal Square",
+      "sourceArea": "Cross Gate",
+      "imagePath": "appmon-terminal-square/cross-gate.webp"
+    },
+    {
+      "location": "Appmon Terminal Square",
+      "area": null,
+      "sourceLocation": "Appmon Terminal Square",
+      "sourceArea": null,
+      "imagePath": "appmon-terminal-square/overview.jpg"
+    },
+    {
+      "location": "X-Antibody Refuge",
+      "area": "Refuge Camp",
+      "sourceLocation": "X-Antibody Refuge",
+      "sourceArea": "Refuge Camp",
+      "imagePath": "x-antibody-refuge/refuge-camp.webp"
+    },
+    {
+      "location": "X-Antibody Refuge",
+      "area": "Antibody Clinic",
+      "sourceLocation": "X-Antibody Refuge",
+      "sourceArea": "Antibody Clinic",
+      "imagePath": "x-antibody-refuge/antibody-clinic.webp"
+    },
+    {
+      "location": "X-Antibody Refuge",
+      "area": "Border Watch",
+      "sourceLocation": "X-Antibody Refuge",
+      "sourceArea": "Border Watch",
+      "imagePath": "x-antibody-refuge/border-watch.webp"
+    },
+    {
+      "location": "X-Antibody Refuge",
+      "area": "Knight Approach",
+      "sourceLocation": "X-Antibody Refuge",
+      "sourceArea": "Knight Approach",
+      "imagePath": "x-antibody-refuge/knight-approach.webp"
+    },
+    {
+      "location": "X-Antibody Refuge",
+      "area": null,
+      "sourceLocation": "X-Antibody Refuge",
+      "sourceArea": null,
+      "imagePath": "x-antibody-refuge/overview.jpg"
+    },
+    {
+      "location": "Liberator Contact Arena",
+      "area": "Welcome Deck",
+      "sourceLocation": "Liberator Contact Arena",
+      "sourceArea": "Welcome Deck",
+      "imagePath": "liberator-contact-arena/welcome-deck.webp"
+    },
+    {
+      "location": "Liberator Contact Arena",
+      "area": "Practice Arena",
+      "sourceLocation": "Liberator Contact Arena",
+      "sourceArea": "Practice Arena",
+      "imagePath": "liberator-contact-arena/practice-arena.webp"
+    },
+    {
+      "location": "Liberator Contact Arena",
+      "area": "Partner Lounge",
+      "sourceLocation": "Liberator Contact Arena",
+      "sourceArea": "Partner Lounge",
+      "imagePath": "liberator-contact-arena/partner-lounge.webp"
+    },
+    {
+      "location": "Liberator Contact Arena",
+      "area": "Exit Gate",
+      "sourceLocation": "Liberator Contact Arena",
+      "sourceArea": "Exit Gate",
+      "imagePath": "liberator-contact-arena/exit-gate.webp"
+    },
+    {
+      "location": "Liberator Contact Arena",
+      "area": null,
+      "sourceLocation": "Liberator Contact Arena",
+      "sourceArea": null,
+      "imagePath": "liberator-contact-arena/overview.jpg"
+    },
+    {
+      "location": "Seekers Archive",
+      "area": "Terminal Loft",
+      "sourceLocation": "Seekers Archive",
+      "sourceArea": "Terminal Loft",
+      "imagePath": "seekers-archive/terminal-loft.webp"
+    },
+    {
+      "location": "Seekers Archive",
+      "area": "Investigation Desk",
+      "sourceLocation": "Seekers Archive",
+      "sourceArea": "Investigation Desk",
+      "imagePath": "seekers-archive/investigation-desk.webp"
+    },
+    {
+      "location": "Seekers Archive",
+      "area": "Loogamon Trail",
+      "sourceLocation": "Seekers Archive",
+      "sourceArea": "Loogamon Trail",
+      "imagePath": "seekers-archive/loogamon-trail.webp"
+    },
+    {
+      "location": "Seekers Archive",
+      "area": "Archive Gate",
+      "sourceLocation": "Seekers Archive",
+      "sourceArea": "Archive Gate",
+      "imagePath": "seekers-archive/archive-gate.webp"
+    },
+    {
+      "location": "Seekers Archive",
+      "area": null,
+      "sourceLocation": "Seekers Archive",
+      "sourceArea": null,
+      "imagePath": "seekers-archive/overview.jpg"
+    },
+    {
+      "location": "File City Central Square",
+      "area": "Recruitment Notice Tree",
+      "sourceLocation": "Koromon Village",
+      "sourceArea": "Village Square",
+      "imagePath": "koromon-village/village-square.webp"
+    },
+    {
+      "location": "File City Central Square",
+      "area": "Service Counter Row",
+      "sourceLocation": "Koromon Village",
+      "sourceArea": "Kitchen",
+      "imagePath": "koromon-village/kitchen.webp"
+    },
+    {
+      "location": "File City Central Square",
+      "area": "Shared Meal Shelter",
+      "sourceLocation": "Koromon Village",
+      "sourceArea": "Orchard",
+      "imagePath": "koromon-village/orchard.webp"
+    },
+    {
+      "location": "File City Central Square",
+      "area": "City Route Board",
+      "sourceLocation": "Koromon Village",
+      "sourceArea": "Watch Hill",
+      "imagePath": "koromon-village/watch-hill.webp"
+    },
+    {
+      "location": "File City Central Square",
+      "area": null,
+      "sourceLocation": "Koromon Village",
+      "sourceArea": null,
+      "imagePath": "koromon-village/overview.jpg"
+    },
+    {
+      "location": "File City Clinic and Training Yard",
+      "area": "Care Intake",
+      "sourceLocation": "Datamon Relay Hospital",
+      "sourceArea": "Reception",
+      "imagePath": "datamon-relay-hospital/reception.webp"
+    },
+    {
+      "location": "File City Clinic and Training Yard",
+      "area": "Partner Examination Bay",
+      "sourceLocation": "Datamon Relay Hospital",
+      "sourceArea": "Diagnostic Bay",
+      "imagePath": "datamon-relay-hospital/diagnostic-bay.webp"
+    },
+    {
+      "location": "File City Clinic and Training Yard",
+      "area": "Recovery Rest Plot",
+      "sourceLocation": "Datamon Relay Hospital",
+      "sourceArea": "Recovery Garden",
+      "imagePath": "datamon-relay-hospital/recovery-garden.webp"
+    },
+    {
+      "location": "File City Clinic and Training Yard",
+      "area": "Practice Yard Desk",
+      "sourceLocation": "Datamon Relay Hospital",
+      "sourceArea": "Quarantine Room",
+      "imagePath": "datamon-relay-hospital/quarantine-room.webp"
+    },
+    {
+      "location": "File City Clinic and Training Yard",
+      "area": null,
+      "sourceLocation": "Datamon Relay Hospital",
+      "sourceArea": null,
+      "imagePath": "datamon-relay-hospital/overview.webp"
+    },
+    {
+      "location": "Jijimon's Recruitment Lodge",
+      "area": "Visitor Petition Room",
+      "sourceLocation": "Gennai's Hidden House",
+      "sourceArea": "Submerged Approach",
+      "imagePath": "gennai-s-hidden-house/submerged-approach.webp"
+    },
+    {
+      "location": "Jijimon's Recruitment Lodge",
+      "area": "Recruitment Ledger Desk",
+      "sourceLocation": "Gennai's Hidden House",
+      "sourceArea": "Guest Chamber",
+      "imagePath": "gennai-s-hidden-house/guest-chamber.webp"
+    },
+    {
+      "location": "Jijimon's Recruitment Lodge",
+      "area": "Survey Report Shelf",
+      "sourceLocation": "Gennai's Hidden House",
+      "sourceArea": "Archive Room",
+      "imagePath": "gennai-s-hidden-house/archive-room.webp"
+    },
+    {
+      "location": "Jijimon's Recruitment Lodge",
+      "area": "Supply Planning Bench",
+      "sourceLocation": "Gennai's Hidden House",
+      "sourceArea": "Gate Workshop",
+      "imagePath": "gennai-s-hidden-house/gate-workshop.webp"
+    },
+    {
+      "location": "Jijimon's Recruitment Lodge",
+      "area": null,
+      "sourceLocation": "Gennai's Hidden House",
+      "sourceArea": null,
+      "imagePath": "gennai-s-hidden-house/overview.webp"
+    },
+    {
+      "location": "Floatia Service Plaza",
+      "area": "Reconstruction Notice Court",
+      "sourceLocation": "Toy Town",
+      "sourceArea": "Toy Square",
+      "imagePath": "toy-town/toy-square.jpg"
+    },
+    {
+      "location": "Floatia Service Plaza",
+      "area": "Active Shop Counter",
+      "sourceLocation": "Toy Town",
+      "sourceArea": "Repair Shop",
+      "imagePath": "toy-town/repair-shop.webp"
+    },
+    {
+      "location": "Floatia Service Plaza",
+      "area": "Dispatch Clock Stand",
+      "sourceLocation": "Toy Town",
+      "sourceArea": "Clock Tower",
+      "imagePath": "toy-town/clock-tower.webp"
+    },
+    {
+      "location": "Floatia Service Plaza",
+      "area": "Resident Welcome House",
+      "sourceLocation": "Toy Town",
+      "sourceArea": "Toy House",
+      "imagePath": "toy-town/toy-house.webp"
+    },
+    {
+      "location": "Floatia Service Plaza",
+      "area": null,
+      "sourceLocation": "Toy Town",
+      "sourceArea": null,
+      "imagePath": "toy-town/overview.webp"
+    },
+    {
+      "location": "Floatia Partner Care Farm",
+      "area": "Food Growth Plot",
+      "sourceLocation": "Primary Village",
+      "sourceArea": "Egg Meadow",
+      "imagePath": "primary-village/egg-meadow.webp"
+    },
+    {
+      "location": "Floatia Partner Care Farm",
+      "area": "Rebirth Care Hut",
+      "sourceLocation": "Primary Village",
+      "sourceArea": "Incubation Hut",
+      "imagePath": "primary-village/incubation-hut.webp"
+    },
+    {
+      "location": "Floatia Partner Care Farm",
+      "area": "Paired Care Schedule",
+      "sourceLocation": "Primary Village",
+      "sourceArea": "Elecmon's Watch",
+      "imagePath": "primary-village/elecmon-s-watch.webp"
+    },
+    {
+      "location": "Floatia Partner Care Farm",
+      "area": "Quiet Hatching Garden",
+      "sourceLocation": "Primary Village",
+      "sourceArea": "Hatching Glade",
+      "imagePath": "primary-village/hatching-glade.webp"
+    },
+    {
+      "location": "Floatia Partner Care Farm",
+      "area": null,
+      "sourceLocation": "Primary Village",
+      "sourceArea": null,
+      "imagePath": "primary-village/overview.jpg"
+    },
+    {
+      "location": "Floatia Reconstruction Office",
+      "area": "Material Receipt Gate",
+      "sourceLocation": "Factorial Town",
+      "sourceArea": "Factory Gate",
+      "imagePath": "factorial-town/factory-gate.jpg"
+    },
+    {
+      "location": "Floatia Reconstruction Office",
+      "area": "Infrastructure Survey Desk",
+      "sourceLocation": "Factorial Town",
+      "sourceArea": "Cooling Hall",
+      "imagePath": "factorial-town/cooling-hall.webp"
+    },
+    {
+      "location": "Floatia Reconstruction Office",
+      "area": "Work Allocation Console",
+      "sourceLocation": "Factorial Town",
+      "sourceArea": "Control Room",
+      "imagePath": "factorial-town/control-room.webp"
+    },
+    {
+      "location": "Floatia Reconstruction Office",
+      "area": "Field Repair Passage",
+      "sourceLocation": "Factorial Town",
+      "sourceArea": "Pipe Tunnels",
+      "imagePath": "factorial-town/pipe-tunnels.webp"
+    },
+    {
+      "location": "Floatia Reconstruction Office",
+      "area": null,
+      "sourceLocation": "Factorial Town",
+      "sourceArea": null,
+      "imagePath": "factorial-town/overview.jpg"
+    },
+    {
+      "location": "Digital City Guard Headquarters",
+      "area": "Mission Briefing Hall",
+      "sourceLocation": "DATS Headquarters",
+      "sourceArea": "Briefing Room",
+      "imagePath": "dats-headquarters/briefing-room.webp"
+    },
+    {
+      "location": "Digital City Guard Headquarters",
+      "area": "Field Health Check",
+      "sourceLocation": "DATS Headquarters",
+      "sourceArea": "Medical Bay",
+      "imagePath": "dats-headquarters/medical-bay.webp"
+    },
+    {
+      "location": "Digital City Guard Headquarters",
+      "area": "Deployment Vehicle Desk",
+      "sourceLocation": "DATS Headquarters",
+      "sourceArea": "Vehicle Garage",
+      "imagePath": "dats-headquarters/vehicle-garage.webp"
+    },
+    {
+      "location": "Digital City Guard Headquarters",
+      "area": "Sector Routing Room",
+      "sourceLocation": "DATS Headquarters",
+      "sourceArea": "Gate Lab",
+      "imagePath": "dats-headquarters/gate-lab.webp"
+    },
+    {
+      "location": "Digital City Guard Headquarters",
+      "area": null,
+      "sourceLocation": "DATS Headquarters",
+      "sourceArea": null,
+      "imagePath": "dats-headquarters/overview.jpg"
+    },
+    {
+      "location": "Digi-Beetle Maintenance Hangar",
+      "area": "Vehicle Intake Gate",
+      "sourceLocation": "Factorial Town",
+      "sourceArea": "Factory Gate",
+      "imagePath": "factorial-town/factory-gate.jpg"
+    },
+    {
+      "location": "Digi-Beetle Maintenance Hangar",
+      "area": "Hull and Cooling Rack",
+      "sourceLocation": "Factorial Town",
+      "sourceArea": "Cooling Hall",
+      "imagePath": "factorial-town/cooling-hall.webp"
+    },
+    {
+      "location": "Digi-Beetle Maintenance Hangar",
+      "area": "Equipment Configuration Console",
+      "sourceLocation": "Factorial Town",
+      "sourceArea": "Control Room",
+      "imagePath": "factorial-town/control-room.webp"
+    },
+    {
+      "location": "Digi-Beetle Maintenance Hangar",
+      "area": "Return Reserve Store",
+      "sourceLocation": "Factorial Town",
+      "sourceArea": "Pipe Tunnels",
+      "imagePath": "factorial-town/pipe-tunnels.webp"
+    },
+    {
+      "location": "Digi-Beetle Maintenance Hangar",
+      "area": null,
+      "sourceLocation": "Factorial Town",
+      "sourceArea": null,
+      "imagePath": "factorial-town/overview.jpg"
+    },
+    {
+      "location": "Server Sector Expedition Camp",
+      "area": "Sector Approach Marker",
+      "sourceLocation": "Gear Savannah",
+      "sourceArea": "Broken Gear Field",
+      "imagePath": "gear-savannah/broken-gear-field.webp"
+    },
+    {
+      "location": "Server Sector Expedition Camp",
+      "area": "Supply and Fuel Point",
+      "sourceLocation": "Gear Savannah",
+      "sourceArea": "Water Pump",
+      "imagePath": "gear-savannah/water-pump.webp"
+    },
+    {
+      "location": "Server Sector Expedition Camp",
+      "area": "Returning Crew Shelter",
+      "sourceLocation": "Gear Savannah",
+      "sourceArea": "Caravan Camp",
+      "imagePath": "gear-savannah/caravan-camp.webp"
+    },
+    {
+      "location": "Server Sector Expedition Camp",
+      "area": "Beacon Inspection Hollow",
+      "sourceLocation": "Gear Savannah",
+      "sourceArea": "Buried Workshop",
+      "imagePath": "gear-savannah/buried-workshop.webp"
+    },
+    {
+      "location": "Server Sector Expedition Camp",
+      "area": null,
+      "sourceLocation": "Gear Savannah",
+      "sourceArea": null,
+      "imagePath": "gear-savannah/overview.webp"
+    },
+    {
+      "location": "Asuka Server Plaza",
+      "area": "Server Arrival Booth",
+      "sourceLocation": "Appmon Terminal Square",
+      "sourceArea": "App Booth",
+      "imagePath": "appmon-terminal-square/app-booth.webp"
+    },
+    {
+      "location": "Asuka Server Plaza",
+      "area": "Local Quest Counter",
+      "sourceLocation": "Appmon Terminal Square",
+      "sourceArea": "Search Office",
+      "imagePath": "appmon-terminal-square/search-office.webp"
+    },
+    {
+      "location": "Asuka Server Plaza",
+      "area": "Partner Configuration Desk",
+      "sourceLocation": "Appmon Terminal Square",
+      "sourceArea": "App Drive Bench",
+      "imagePath": "appmon-terminal-square/app-drive-bench.webp"
+    },
+    {
+      "location": "Asuka Server Plaza",
+      "area": "Server Transfer Checkpoint",
+      "sourceLocation": "Appmon Terminal Square",
+      "sourceArea": "Cross Gate",
+      "imagePath": "appmon-terminal-square/cross-gate.webp"
+    },
+    {
+      "location": "Asuka Server Plaza",
+      "area": null,
+      "sourceLocation": "Appmon Terminal Square",
+      "sourceArea": null,
+      "imagePath": "appmon-terminal-square/overview.jpg"
+    },
+    {
+      "location": "Amaterasu Resistance Safehouse",
+      "area": "Discreet Meeting Counter",
+      "sourceLocation": "DigiDestined Terminal Cafe",
+      "sourceArea": "Counter",
+      "imagePath": "digidestined-terminal-cafe/counter.webp"
+    },
+    {
+      "location": "Amaterasu Resistance Safehouse",
+      "area": "Authenticated Contact Booth",
+      "sourceLocation": "DigiDestined Terminal Cafe",
+      "sourceArea": "Computer Booth",
+      "imagePath": "digidestined-terminal-cafe/computer-booth.webp"
+    },
+    {
+      "location": "Amaterasu Resistance Safehouse",
+      "area": "Evacuation Planning Room",
+      "sourceLocation": "DigiDestined Terminal Cafe",
+      "sourceArea": "Back Room",
+      "imagePath": "digidestined-terminal-cafe/back-room.webp"
+    },
+    {
+      "location": "Amaterasu Resistance Safehouse",
+      "area": "Street Departure Table",
+      "sourceLocation": "DigiDestined Terminal Cafe",
+      "sourceArea": "Street Tables",
+      "imagePath": "digidestined-terminal-cafe/street-tables.webp"
+    },
+    {
+      "location": "Amaterasu Resistance Safehouse",
+      "area": null,
+      "sourceLocation": "DigiDestined Terminal Cafe",
+      "sourceArea": null,
+      "imagePath": "digidestined-terminal-cafe/overview.webp"
+    },
+    {
+      "location": "MAGAMI Access Terminal",
+      "area": "Authorized Service Floor",
+      "sourceLocation": "Hypnos Command Center",
+      "sourceArea": "Operations Floor",
+      "imagePath": "hypnos-command-center/operations-floor.webp"
+    },
+    {
+      "location": "MAGAMI Access Terminal",
+      "area": "Account Evidence Room",
+      "sourceLocation": "Hypnos Command Center",
+      "sourceArea": "Data Room",
+      "imagePath": "hypnos-command-center/data-room.webp"
+    },
+    {
+      "location": "MAGAMI Access Terminal",
+      "area": "User Verification Room",
+      "sourceLocation": "Hypnos Command Center",
+      "sourceArea": "Interview Room",
+      "imagePath": "hypnos-command-center/interview-room.webp"
+    },
+    {
+      "location": "MAGAMI Access Terminal",
+      "area": "Emergency Logout Station",
+      "sourceLocation": "Hypnos Command Center",
+      "sourceArea": "Emergency Gate",
+      "imagePath": "hypnos-command-center/emergency-gate.webp"
+    },
+    {
+      "location": "MAGAMI Access Terminal",
+      "area": null,
+      "sourceLocation": "Hypnos Command Center",
+      "sourceArea": null,
+      "imagePath": "hypnos-command-center/overview.webp"
+    },
+    {
+      "location": "Beginner Card Arena",
+      "area": "Rule and Entry Desk",
+      "sourceLocation": "Liberator Contact Arena",
+      "sourceArea": "Welcome Deck",
+      "imagePath": "liberator-contact-arena/welcome-deck.webp"
+    },
+    {
+      "location": "Beginner Card Arena",
+      "area": "Guided Practice Table",
+      "sourceLocation": "Liberator Contact Arena",
+      "sourceArea": "Practice Arena",
+      "imagePath": "liberator-contact-arena/practice-arena.webp"
+    },
+    {
+      "location": "Beginner Card Arena",
+      "area": "Between-Match Rest Booth",
+      "sourceLocation": "Liberator Contact Arena",
+      "sourceArea": "Partner Lounge",
+      "imagePath": "liberator-contact-arena/partner-lounge.webp"
+    },
+    {
+      "location": "Beginner Card Arena",
+      "area": "Result and Departure Stand",
+      "sourceLocation": "Liberator Contact Arena",
+      "sourceArea": "Exit Gate",
+      "imagePath": "liberator-contact-arena/exit-gate.webp"
+    },
+    {
+      "location": "Beginner Card Arena",
+      "area": null,
+      "sourceLocation": "Liberator Contact Arena",
+      "sourceArea": null,
+      "imagePath": "liberator-contact-arena/overview.jpg"
+    },
+    {
+      "location": "Card Trader's Arcade",
+      "area": "Public Trade Noticeboard",
+      "sourceLocation": "Toy Town",
+      "sourceArea": "Toy Square",
+      "imagePath": "toy-town/toy-square.jpg"
+    },
+    {
+      "location": "Card Trader's Arcade",
+      "area": "Card Inspection Counter",
+      "sourceLocation": "Toy Town",
+      "sourceArea": "Repair Shop",
+      "imagePath": "toy-town/repair-shop.webp"
+    },
+    {
+      "location": "Card Trader's Arcade",
+      "area": "Scheduled Exchange Stand",
+      "sourceLocation": "Toy Town",
+      "sourceArea": "Clock Tower",
+      "imagePath": "toy-town/clock-tower.webp"
+    },
+    {
+      "location": "Card Trader's Arcade",
+      "area": "Deck Advice Nook",
+      "sourceLocation": "Toy Town",
+      "sourceArea": "Toy House",
+      "imagePath": "toy-town/toy-house.webp"
+    },
+    {
+      "location": "Card Trader's Arcade",
+      "area": null,
+      "sourceLocation": "Toy Town",
+      "sourceArea": null,
+      "imagePath": "toy-town/overview.webp"
+    },
+    {
+      "location": "Championship Registration Hall",
+      "area": "Competitor Refreshment Table",
+      "sourceLocation": "First Light Community Room",
+      "sourceArea": "Kitchen",
+      "imagePath": "first-light-community-room/kitchen.jpg"
+    },
+    {
+      "location": "Championship Registration Hall",
+      "area": "Registration Notice Wall",
+      "sourceLocation": "First Light Community Room",
+      "sourceArea": "Noticeboard",
+      "imagePath": "first-light-community-room/noticeboard.jpg"
+    },
+    {
+      "location": "Championship Registration Hall",
+      "area": "Judge Consultation Alcove",
+      "sourceLocation": "First Light Community Room",
+      "sourceArea": "Quiet Alcove",
+      "imagePath": "first-light-community-room/quiet-alcove.jpg"
+    },
+    {
+      "location": "Championship Registration Hall",
+      "area": "Scheduled Match Terrace",
+      "sourceLocation": "First Light Community Room",
+      "sourceArea": "Training Terrace",
+      "imagePath": "first-light-community-room/training-terrace.jpg"
+    },
+    {
+      "location": "Championship Registration Hall",
+      "area": null,
+      "sourceLocation": "First Light Community Room",
+      "sourceArea": null,
+      "imagePath": "first-light-community-room/overview.jpg"
+    },
+    {
+      "location": "Union Mission Hall",
+      "area": "Verified Request Room",
+      "sourceLocation": "DATS Headquarters",
+      "sourceArea": "Briefing Room",
+      "imagePath": "dats-headquarters/briefing-room.webp"
+    },
+    {
+      "location": "Union Mission Hall",
+      "area": "Field Recovery Desk",
+      "sourceLocation": "DATS Headquarters",
+      "sourceArea": "Medical Bay",
+      "imagePath": "dats-headquarters/medical-bay.webp"
+    },
+    {
+      "location": "Union Mission Hall",
+      "area": "Expedition Allocation Desk",
+      "sourceLocation": "DATS Headquarters",
+      "sourceArea": "Vehicle Garage",
+      "imagePath": "dats-headquarters/vehicle-garage.webp"
+    },
+    {
+      "location": "Union Mission Hall",
+      "area": "Source Route Archive",
+      "sourceLocation": "DATS Headquarters",
+      "sourceArea": "Gate Lab",
+      "imagePath": "dats-headquarters/gate-lab.webp"
+    },
+    {
+      "location": "Union Mission Hall",
+      "area": null,
+      "sourceLocation": "DATS Headquarters",
+      "sourceArea": null,
+      "imagePath": "dats-headquarters/overview.jpg"
+    },
+    {
+      "location": "DigiFarm Habitat Campus",
+      "area": "Habitat Orientation Trail",
+      "sourceLocation": "Native Forest",
+      "sourceArea": "Root Trail",
+      "imagePath": "native-forest/root-trail.webp"
+    },
+    {
+      "location": "DigiFarm Habitat Campus",
+      "area": "Water and Rest Habitat",
+      "sourceLocation": "Native Forest",
+      "sourceArea": "Forest Pool",
+      "imagePath": "native-forest/forest-pool.webp"
+    },
+    {
+      "location": "DigiFarm Habitat Campus",
+      "area": "Resident Observation Shelter",
+      "sourceLocation": "Native Forest",
+      "sourceArea": "Bird Nest",
+      "imagePath": "native-forest/bird-nest.webp"
+    },
+    {
+      "location": "DigiFarm Habitat Campus",
+      "area": "Food and Material Plot",
+      "sourceLocation": "Native Forest",
+      "sourceArea": "Meat Orchard",
+      "imagePath": "native-forest/meat-orchard.jpg"
+    },
+    {
+      "location": "DigiFarm Habitat Campus",
+      "area": null,
+      "sourceLocation": "Native Forest",
+      "sourceArea": null,
+      "imagePath": "native-forest/overview.jpg"
+    },
+    {
+      "location": "Light Fang and Night Crow Contact Ground",
+      "area": "Joint Petition Square",
+      "sourceLocation": "Koromon Village",
+      "sourceArea": "Village Square",
+      "imagePath": "koromon-village/village-square.webp"
+    },
+    {
+      "location": "Light Fang and Night Crow Contact Ground",
+      "area": "Shared Relief Kitchen",
+      "sourceLocation": "Koromon Village",
+      "sourceArea": "Kitchen",
+      "imagePath": "koromon-village/kitchen.webp"
+    },
+    {
+      "location": "Light Fang and Night Crow Contact Ground",
+      "area": "Agreed Supply Plot",
+      "sourceLocation": "Koromon Village",
+      "sourceArea": "Orchard",
+      "imagePath": "koromon-village/orchard.webp"
+    },
+    {
+      "location": "Light Fang and Night Crow Contact Ground",
+      "area": "Route Witness Hill",
+      "sourceLocation": "Koromon Village",
+      "sourceArea": "Watch Hill",
+      "imagePath": "koromon-village/watch-hill.webp"
+    },
+    {
+      "location": "Light Fang and Night Crow Contact Ground",
+      "area": null,
+      "sourceLocation": "Koromon Village",
+      "sourceArea": null,
+      "imagePath": "koromon-village/overview.jpg"
+    },
+    {
+      "location": "Evolution Tree Restoration Camp",
+      "area": "Tree Record Intake",
+      "sourceLocation": "Crest Ruins",
+      "sourceArea": "Tag Hall",
+      "imagePath": "crest-ruins/tag-hall.webp"
+    },
+    {
+      "location": "Evolution Tree Restoration Camp",
+      "area": "Restorer Consultation Court",
+      "sourceLocation": "Crest Ruins",
+      "sourceArea": "Trial Courtyard",
+      "imagePath": "crest-ruins/trial-courtyard.webp"
+    },
+    {
+      "location": "Evolution Tree Restoration Camp",
+      "area": "Protected Plate Register",
+      "sourceLocation": "Crest Ruins",
+      "sourceArea": "Buried Stair",
+      "imagePath": "crest-ruins/buried-stair.webp"
+    },
+    {
+      "location": "Evolution Tree Restoration Camp",
+      "area": "Field Recovery Descent",
+      "sourceLocation": "Crest Ruins",
+      "sourceArea": "Resonance Chamber",
+      "imagePath": "crest-ruins/resonance-chamber.webp"
+    },
+    {
+      "location": "Evolution Tree Restoration Camp",
+      "area": null,
+      "sourceLocation": "Crest Ruins",
+      "sourceArea": null,
+      "imagePath": "crest-ruins/overview.webp"
+    },
+    {
+      "location": "Evolution Plate Workshop",
+      "area": "Plate Comparison Desk",
+      "sourceLocation": "Izzy's Computer Workshop",
+      "sourceArea": "Analysis Desk",
+      "imagePath": "izzy-s-computer-workshop/analysis-desk.jpg"
+    },
+    {
+      "location": "Evolution Plate Workshop",
+      "area": "Compatible Repair Bench",
+      "sourceLocation": "Izzy's Computer Workshop",
+      "sourceArea": "Device Bench",
+      "imagePath": "izzy-s-computer-workshop/device-bench.jpg"
+    },
+    {
+      "location": "Evolution Plate Workshop",
+      "area": "Restoration Test Terminal",
+      "sourceLocation": "Izzy's Computer Workshop",
+      "sourceArea": "Server Corner",
+      "imagePath": "izzy-s-computer-workshop/server-corner.jpg"
+    },
+    {
+      "location": "Evolution Plate Workshop",
+      "area": "Courier Rest Space",
+      "sourceLocation": "Izzy's Computer Workshop",
+      "sourceArea": "Guest Mat",
+      "imagePath": "izzy-s-computer-workshop/guest-mat.jpg"
+    },
+    {
+      "location": "Evolution Plate Workshop",
+      "area": null,
+      "sourceLocation": "Izzy's Computer Workshop",
+      "sourceArea": null,
+      "imagePath": "izzy-s-computer-workshop/overview.jpg"
+    },
+    {
+      "location": "Broken Route Excavation",
+      "area": "Fractured Route Field",
+      "sourceLocation": "Gear Savannah",
+      "sourceArea": "Broken Gear Field",
+      "imagePath": "gear-savannah/broken-gear-field.webp"
+    },
+    {
+      "location": "Broken Route Excavation",
+      "area": "Excavation Water Point",
+      "sourceLocation": "Gear Savannah",
+      "sourceArea": "Water Pump",
+      "imagePath": "gear-savannah/water-pump.webp"
+    },
+    {
+      "location": "Broken Route Excavation",
+      "area": "Survey Crew Shelter",
+      "sourceLocation": "Gear Savannah",
+      "sourceArea": "Caravan Camp",
+      "imagePath": "gear-savannah/caravan-camp.webp"
+    },
+    {
+      "location": "Broken Route Excavation",
+      "area": "Buried Plate Chamber",
+      "sourceLocation": "Gear Savannah",
+      "sourceArea": "Buried Workshop",
+      "imagePath": "gear-savannah/buried-workshop.webp"
+    },
+    {
+      "location": "Broken Route Excavation",
+      "area": null,
+      "sourceLocation": "Gear Savannah",
+      "sourceArea": null,
+      "imagePath": "gear-savannah/overview.webp"
+    },
+    {
+      "location": "Kuremi Case Office",
+      "area": "Client Evidence Desk",
+      "sourceLocation": "Izzy's Computer Workshop",
+      "sourceArea": "Analysis Desk",
+      "imagePath": "izzy-s-computer-workshop/analysis-desk.jpg"
+    },
+    {
+      "location": "Kuremi Case Office",
+      "area": "Physical Exhibit Bench",
+      "sourceLocation": "Izzy's Computer Workshop",
+      "sourceArea": "Device Bench",
+      "imagePath": "izzy-s-computer-workshop/device-bench.jpg"
+    },
+    {
+      "location": "Kuremi Case Office",
+      "area": "EDEN Session Terminal",
+      "sourceLocation": "Izzy's Computer Workshop",
+      "sourceArea": "Server Corner",
+      "imagePath": "izzy-s-computer-workshop/server-corner.jpg"
+    },
+    {
+      "location": "Kuremi Case Office",
+      "area": "Client Quiet Corner",
+      "sourceLocation": "Izzy's Computer Workshop",
+      "sourceArea": "Guest Mat",
+      "imagePath": "izzy-s-computer-workshop/guest-mat.jpg"
+    },
+    {
+      "location": "Kuremi Case Office",
+      "area": null,
+      "sourceLocation": "Izzy's Computer Workshop",
+      "sourceArea": null,
+      "imagePath": "izzy-s-computer-workshop/overview.jpg"
+    },
+    {
+      "location": "Hudie Handyman Base",
+      "area": "Handyman Request Counter",
+      "sourceLocation": "DigiDestined Terminal Cafe",
+      "sourceArea": "Counter",
+      "imagePath": "digidestined-terminal-cafe/counter.webp"
+    },
+    {
+      "location": "Hudie Handyman Base",
+      "area": "Authorized Work Booth",
+      "sourceLocation": "DigiDestined Terminal Cafe",
+      "sourceArea": "Computer Booth",
+      "imagePath": "digidestined-terminal-cafe/computer-booth.webp"
+    },
+    {
+      "location": "Hudie Handyman Base",
+      "area": "Crew Evidence Room",
+      "sourceLocation": "DigiDestined Terminal Cafe",
+      "sourceArea": "Back Room",
+      "imagePath": "digidestined-terminal-cafe/back-room.webp"
+    },
+    {
+      "location": "Hudie Handyman Base",
+      "area": "Client Meeting Tables",
+      "sourceLocation": "DigiDestined Terminal Cafe",
+      "sourceArea": "Street Tables",
+      "imagePath": "digidestined-terminal-cafe/street-tables.webp"
+    },
+    {
+      "location": "Hudie Handyman Base",
+      "area": null,
+      "sourceLocation": "DigiDestined Terminal Cafe",
+      "sourceArea": null,
+      "imagePath": "digidestined-terminal-cafe/overview.webp"
+    },
+    {
+      "location": "EDEN Restricted Service Layer",
+      "area": "Authenticated Routing Stream",
+      "sourceLocation": "Diaboromon Copy Basin",
+      "sourceArea": "Packet River",
+      "imagePath": "diaboromon-copy-basin/packet-river.webp"
+    },
+    {
+      "location": "EDEN Restricted Service Layer",
+      "area": "Security Isolation Ring",
+      "sourceLocation": "Diaboromon Copy Basin",
+      "sourceArea": "Quarantine Ring",
+      "imagePath": "diaboromon-copy-basin/quarantine-ring.webp"
+    },
+    {
+      "location": "EDEN Restricted Service Layer",
+      "area": "Diagnostic Sample Vault",
+      "sourceLocation": "Diaboromon Copy Basin",
+      "sourceArea": "Copy Nursery",
+      "imagePath": "diaboromon-copy-basin/copy-nursery.webp"
+    },
+    {
+      "location": "EDEN Restricted Service Layer",
+      "area": "Verified Logout Firewall",
+      "sourceLocation": "Diaboromon Copy Basin",
+      "sourceArea": "Exit Firewall",
+      "imagePath": "diaboromon-copy-basin/exit-firewall.webp"
+    },
+    {
+      "location": "EDEN Restricted Service Layer",
+      "area": null,
+      "sourceLocation": "Diaboromon Copy Basin",
+      "sourceArea": null,
+      "imagePath": "diaboromon-copy-basin/overview.webp"
+    },
+    {
+      "location": "Abandoned School Shelter",
+      "area": "Sleeping Room and Headcount",
+      "sourceLocation": "Hazakura Academy",
+      "sourceArea": "Dormitory",
+      "imagePath": "hazakura-academy/dormitory.webp"
+    },
+    {
+      "location": "Abandoned School Shelter",
+      "area": "Evidence and Map Classroom",
+      "sourceLocation": "Hazakura Academy",
+      "sourceArea": "Computer Club",
+      "imagePath": "hazakura-academy/computer-club.webp"
+    },
+    {
+      "location": "Abandoned School Shelter",
+      "area": "Shared Supply Courtyard",
+      "sourceLocation": "Hazakura Academy",
+      "sourceArea": "Courtyard",
+      "imagePath": "hazakura-academy/courtyard.webp"
+    },
+    {
+      "location": "Abandoned School Shelter",
+      "area": "Shelter Watch Roof",
+      "sourceLocation": "Hazakura Academy",
+      "sourceArea": "Roof Access",
+      "imagePath": "hazakura-academy/roof-access.webp"
+    },
+    {
+      "location": "Abandoned School Shelter",
+      "area": null,
+      "sourceLocation": "Hazakura Academy",
+      "sourceArea": null,
+      "imagePath": "hazakura-academy/overview.webp"
+    },
+    {
+      "location": "Mist Boundary Trail",
+      "area": "Marked Shelter Approach",
+      "sourceLocation": "Native Forest",
+      "sourceArea": "Root Trail",
+      "imagePath": "native-forest/root-trail.webp"
+    },
+    {
+      "location": "Mist Boundary Trail",
+      "area": "Quiet Water Clearing",
+      "sourceLocation": "Native Forest",
+      "sourceArea": "Forest Pool",
+      "imagePath": "native-forest/forest-pool.webp"
+    },
+    {
+      "location": "Mist Boundary Trail",
+      "area": "Witness Listening Shelter",
+      "sourceLocation": "Native Forest",
+      "sourceArea": "Bird Nest",
+      "imagePath": "native-forest/bird-nest.webp"
+    },
+    {
+      "location": "Mist Boundary Trail",
+      "area": "Surveyed Return Marker",
+      "sourceLocation": "Native Forest",
+      "sourceArea": "Meat Orchard",
+      "imagePath": "native-forest/meat-orchard.jpg"
+    },
+    {
+      "location": "Mist Boundary Trail",
+      "area": null,
+      "sourceLocation": "Native Forest",
+      "sourceArea": null,
+      "imagePath": "native-forest/overview.jpg"
+    },
+    {
+      "location": "Kemonogami Witness Shrine",
+      "area": "Local Account Hall",
+      "sourceLocation": "Crest Ruins",
+      "sourceArea": "Tag Hall",
+      "imagePath": "crest-ruins/tag-hall.webp"
+    },
+    {
+      "location": "Kemonogami Witness Shrine",
+      "area": "Voluntary Witness Court",
+      "sourceLocation": "Crest Ruins",
+      "sourceArea": "Trial Courtyard",
+      "imagePath": "crest-ruins/trial-courtyard.webp"
+    },
+    {
+      "location": "Kemonogami Witness Shrine",
+      "area": "Protected Offering Dais",
+      "sourceLocation": "Crest Ruins",
+      "sourceArea": "Buried Stair",
+      "imagePath": "crest-ruins/buried-stair.webp"
+    },
+    {
+      "location": "Kemonogami Witness Shrine",
+      "area": "Safe Pilgrim Descent",
+      "sourceLocation": "Crest Ruins",
+      "sourceArea": "Resonance Chamber",
+      "imagePath": "crest-ruins/resonance-chamber.webp"
+    },
+    {
+      "location": "Kemonogami Witness Shrine",
+      "area": null,
+      "sourceLocation": "Crest Ruins",
+      "sourceArea": null,
+      "imagePath": "crest-ruins/overview.webp"
+    },
+    {
+      "location": "ReDigitize File City Hub",
+      "area": "Edition and Arrival Board",
+      "sourceLocation": "Koromon Village",
+      "sourceArea": "Village Square",
+      "imagePath": "koromon-village/village-square.webp"
+    },
+    {
+      "location": "ReDigitize File City Hub",
+      "area": "Available Meal Counter",
+      "sourceLocation": "Koromon Village",
+      "sourceArea": "Kitchen",
+      "imagePath": "koromon-village/kitchen.webp"
+    },
+    {
+      "location": "ReDigitize File City Hub",
+      "area": "Resident Care Plot",
+      "sourceLocation": "Koromon Village",
+      "sourceArea": "Orchard",
+      "imagePath": "koromon-village/orchard.webp"
+    },
+    {
+      "location": "ReDigitize File City Hub",
+      "area": "Field Report Lookout",
+      "sourceLocation": "Koromon Village",
+      "sourceArea": "Watch Hill",
+      "imagePath": "koromon-village/watch-hill.webp"
+    },
+    {
+      "location": "ReDigitize File City Hub",
+      "area": null,
+      "sourceLocation": "Koromon Village",
+      "sourceArea": null,
+      "imagePath": "koromon-village/overview.jpg"
+    },
+    {
+      "location": "Decode Research Workshop",
+      "area": "Edition Comparison Desk",
+      "sourceLocation": "Izzy's Computer Workshop",
+      "sourceArea": "Analysis Desk",
+      "imagePath": "izzy-s-computer-workshop/analysis-desk.jpg"
+    },
+    {
+      "location": "Decode Research Workshop",
+      "area": "Compatible Component Bench",
+      "sourceLocation": "Izzy's Computer Workshop",
+      "sourceArea": "Device Bench",
+      "imagePath": "izzy-s-computer-workshop/device-bench.jpg"
+    },
+    {
+      "location": "Decode Research Workshop",
+      "area": "Controlled Route Test",
+      "sourceLocation": "Izzy's Computer Workshop",
+      "sourceArea": "Server Corner",
+      "imagePath": "izzy-s-computer-workshop/server-corner.jpg"
+    },
+    {
+      "location": "Decode Research Workshop",
+      "area": "Field Witness Rest Mat",
+      "sourceLocation": "Izzy's Computer Workshop",
+      "sourceArea": "Guest Mat",
+      "imagePath": "izzy-s-computer-workshop/guest-mat.jpg"
+    },
+    {
+      "location": "Decode Research Workshop",
+      "area": null,
+      "sourceLocation": "Izzy's Computer Workshop",
+      "sourceArea": null,
+      "imagePath": "izzy-s-computer-workshop/overview.jpg"
+    },
+    {
+      "location": "ReDigitize Field Recovery Camp",
+      "area": "Surveyed Approach Field",
+      "sourceLocation": "Gear Savannah",
+      "sourceArea": "Broken Gear Field",
+      "imagePath": "gear-savannah/broken-gear-field.webp"
+    },
+    {
+      "location": "ReDigitize Field Recovery Camp",
+      "area": "Safe Refill Point",
+      "sourceLocation": "Gear Savannah",
+      "sourceArea": "Water Pump",
+      "imagePath": "gear-savannah/water-pump.webp"
+    },
+    {
+      "location": "ReDigitize Field Recovery Camp",
+      "area": "Returning Partner Shelter",
+      "sourceLocation": "Gear Savannah",
+      "sourceArea": "Caravan Camp",
+      "imagePath": "gear-savannah/caravan-camp.webp"
+    },
+    {
+      "location": "ReDigitize Field Recovery Camp",
+      "area": "Recovered Relay Workshop",
+      "sourceLocation": "Gear Savannah",
+      "sourceArea": "Buried Workshop",
+      "imagePath": "gear-savannah/buried-workshop.webp"
+    },
+    {
+      "location": "ReDigitize Field Recovery Camp",
+      "area": null,
+      "sourceLocation": "Gear Savannah",
+      "sourceArea": null,
+      "imagePath": "gear-savannah/overview.webp"
+    },
+    {
+      "location": "Reboot Frontier Landing",
+      "area": "Authenticated Landing Marker",
+      "sourceLocation": "Gear Savannah",
+      "sourceArea": "Broken Gear Field",
+      "imagePath": "gear-savannah/broken-gear-field.webp"
+    },
+    {
+      "location": "Reboot Frontier Landing",
+      "area": "Landing Water and Supply Point",
+      "sourceLocation": "Gear Savannah",
+      "sourceArea": "Water Pump",
+      "imagePath": "gear-savannah/water-pump.webp"
+    },
+    {
+      "location": "Reboot Frontier Landing",
+      "area": "Local Contact Camp",
+      "sourceLocation": "Gear Savannah",
+      "sourceArea": "Caravan Camp",
+      "imagePath": "gear-savannah/caravan-camp.webp"
+    },
+    {
+      "location": "Reboot Frontier Landing",
+      "area": "Stabilizer Repair Hollow",
+      "sourceLocation": "Gear Savannah",
+      "sourceArea": "Buried Workshop",
+      "imagePath": "gear-savannah/buried-workshop.webp"
+    },
+    {
+      "location": "Reboot Frontier Landing",
+      "area": null,
+      "sourceLocation": "Gear Savannah",
+      "sourceArea": null,
+      "imagePath": "gear-savannah/overview.webp"
+    },
+    {
+      "location": "Ancient War Relief Camp",
+      "area": "Relief Petition Square",
+      "sourceLocation": "Koromon Village",
+      "sourceArea": "Village Square",
+      "imagePath": "koromon-village/village-square.webp"
+    },
+    {
+      "location": "Ancient War Relief Camp",
+      "area": "Counted Relief Kitchen",
+      "sourceLocation": "Koromon Village",
+      "sourceArea": "Kitchen",
+      "imagePath": "koromon-village/kitchen.webp"
+    },
+    {
+      "location": "Ancient War Relief Camp",
+      "area": "Shelter Material Plot",
+      "sourceLocation": "Koromon Village",
+      "sourceArea": "Orchard",
+      "imagePath": "koromon-village/orchard.webp"
+    },
+    {
+      "location": "Ancient War Relief Camp",
+      "area": "Survey and Witness Hill",
+      "sourceLocation": "Koromon Village",
+      "sourceArea": "Watch Hill",
+      "imagePath": "koromon-village/watch-hill.webp"
+    },
+    {
+      "location": "Ancient War Relief Camp",
+      "area": null,
+      "sourceLocation": "Koromon Village",
+      "sourceArea": null,
+      "imagePath": "koromon-village/overview.jpg"
+    },
+    {
+      "location": "Network Collapse Watchpoint",
+      "area": "Impact Monitoring Floor",
+      "sourceLocation": "Hypnos Command Center",
+      "sourceArea": "Operations Floor",
+      "imagePath": "hypnos-command-center/operations-floor.webp"
+    },
+    {
+      "location": "Network Collapse Watchpoint",
+      "area": "Protected Evidence Room",
+      "sourceLocation": "Hypnos Command Center",
+      "sourceArea": "Data Room",
+      "imagePath": "hypnos-command-center/data-room.webp"
+    },
+    {
+      "location": "Network Collapse Watchpoint",
+      "area": "Community Liaison Room",
+      "sourceLocation": "Hypnos Command Center",
+      "sourceArea": "Interview Room",
+      "imagePath": "hypnos-command-center/interview-room.webp"
+    },
+    {
+      "location": "Network Collapse Watchpoint",
+      "area": "Emergency Return Junction",
+      "sourceLocation": "Hypnos Command Center",
+      "sourceArea": "Emergency Gate",
+      "imagePath": "hypnos-command-center/emergency-gate.webp"
+    },
+    {
+      "location": "Network Collapse Watchpoint",
+      "area": null,
+      "sourceLocation": "Hypnos Command Center",
+      "sourceArea": null,
+      "imagePath": "hypnos-command-center/overview.webp"
+    },
+    {
+      "location": "Fang's Contract Rendezvous",
+      "area": "Contract Counter",
+      "sourceLocation": "DigiDestined Terminal Cafe",
+      "sourceArea": "Counter",
+      "imagePath": "digidestined-terminal-cafe/counter.webp"
+    },
+    {
+      "location": "Fang's Contract Rendezvous",
+      "area": "Authenticated Broker Booth",
+      "sourceLocation": "DigiDestined Terminal Cafe",
+      "sourceArea": "Computer Booth",
+      "imagePath": "digidestined-terminal-cafe/computer-booth.webp"
+    },
+    {
+      "location": "Fang's Contract Rendezvous",
+      "area": "Mission Scope Room",
+      "sourceLocation": "DigiDestined Terminal Cafe",
+      "sourceArea": "Back Room",
+      "imagePath": "digidestined-terminal-cafe/back-room.webp"
+    },
+    {
+      "location": "Fang's Contract Rendezvous",
+      "area": "Courier Meeting Tables",
+      "sourceLocation": "DigiDestined Terminal Cafe",
+      "sourceArea": "Street Tables",
+      "imagePath": "digidestined-terminal-cafe/street-tables.webp"
+    },
+    {
+      "location": "Fang's Contract Rendezvous",
+      "area": null,
+      "sourceLocation": "DigiDestined Terminal Cafe",
+      "sourceArea": null,
+      "imagePath": "digidestined-terminal-cafe/overview.webp"
+    },
+    {
+      "location": "Mindlink Safety Loft",
+      "area": "Identity and Device Check",
+      "sourceLocation": "Seekers Archive",
+      "sourceArea": "Terminal Loft",
+      "imagePath": "seekers-archive/terminal-loft.webp"
+    },
+    {
+      "location": "Mindlink Safety Loft",
+      "area": "Monitored Link Desk",
+      "sourceLocation": "Seekers Archive",
+      "sourceArea": "Investigation Desk",
+      "imagePath": "seekers-archive/investigation-desk.webp"
+    },
+    {
+      "location": "Mindlink Safety Loft",
+      "area": "Partner Grounding Corner",
+      "sourceLocation": "Seekers Archive",
+      "sourceArea": "Loogamon Trail",
+      "imagePath": "seekers-archive/loogamon-trail.webp"
+    },
+    {
+      "location": "Mindlink Safety Loft",
+      "area": "Verified Release Terminal",
+      "sourceLocation": "Seekers Archive",
+      "sourceArea": "Archive Gate",
+      "imagePath": "seekers-archive/archive-gate.webp"
+    },
+    {
+      "location": "Mindlink Safety Loft",
+      "area": null,
+      "sourceLocation": "Seekers Archive",
+      "sourceArea": null,
+      "imagePath": "seekers-archive/overview.jpg"
+    },
+    {
+      "location": "Digital Security Checkpoint",
+      "area": "Clearance Briefing Room",
+      "sourceLocation": "DATS Headquarters",
+      "sourceArea": "Briefing Room",
+      "imagePath": "dats-headquarters/briefing-room.webp"
+    },
+    {
+      "location": "Digital Security Checkpoint",
+      "area": "Returnee Assessment Bay",
+      "sourceLocation": "DATS Headquarters",
+      "sourceArea": "Medical Bay",
+      "imagePath": "dats-headquarters/medical-bay.webp"
+    },
+    {
+      "location": "Digital Security Checkpoint",
+      "area": "Assigned Patrol Dispatch",
+      "sourceLocation": "DATS Headquarters",
+      "sourceArea": "Vehicle Garage",
+      "imagePath": "dats-headquarters/vehicle-garage.webp"
+    },
+    {
+      "location": "Digital Security Checkpoint",
+      "area": "Restricted Signal Lab",
+      "sourceLocation": "DATS Headquarters",
+      "sourceArea": "Gate Lab",
+      "imagePath": "dats-headquarters/gate-lab.webp"
+    },
+    {
+      "location": "Digital Security Checkpoint",
+      "area": null,
+      "sourceLocation": "DATS Headquarters",
+      "sourceArea": null,
+      "imagePath": "dats-headquarters/overview.jpg"
+    },
+    {
+      "location": "Iliad Central Town",
+      "area": "Visitor Arrival Quay",
+      "sourceLocation": "Lantern Harbor",
+      "sourceArea": "Arrival Pier",
+      "imagePath": "lantern-harbor/arrival-pier.webp"
+    },
+    {
+      "location": "Iliad Central Town",
+      "area": "Local Meal Court",
+      "sourceLocation": "Lantern Harbor",
+      "sourceArea": "Soup Kitchen",
+      "imagePath": "lantern-harbor/soup-kitchen.webp"
+    },
+    {
+      "location": "Iliad Central Town",
+      "area": "Community Petition Office",
+      "sourceLocation": "Lantern Harbor",
+      "sourceArea": "Lantern Office",
+      "imagePath": "lantern-harbor/lantern-office.webp"
+    },
+    {
+      "location": "Iliad Central Town",
+      "area": "Survey Boat Repair Dock",
+      "sourceLocation": "Lantern Harbor",
+      "sourceArea": "Repair Dock",
+      "imagePath": "lantern-harbor/repair-dock.webp"
+    },
+    {
+      "location": "Iliad Central Town",
+      "area": null,
+      "sourceLocation": "Lantern Harbor",
+      "sourceArea": null,
+      "imagePath": "lantern-harbor/overview.jpg"
+    },
+    {
+      "location": "ADAMAS Temporal Briefing Site",
+      "area": "Era Verification Briefing",
+      "sourceLocation": "DATS Headquarters",
+      "sourceArea": "Briefing Room",
+      "imagePath": "dats-headquarters/briefing-room.webp"
+    },
+    {
+      "location": "ADAMAS Temporal Briefing Site",
+      "area": "Temporal Return Assessment",
+      "sourceLocation": "DATS Headquarters",
+      "sourceArea": "Medical Bay",
+      "imagePath": "dats-headquarters/medical-bay.webp"
+    },
+    {
+      "location": "ADAMAS Temporal Briefing Site",
+      "area": "Forward Equipment Dispatch",
+      "sourceLocation": "DATS Headquarters",
+      "sourceArea": "Vehicle Garage",
+      "imagePath": "dats-headquarters/vehicle-garage.webp"
+    },
+    {
+      "location": "ADAMAS Temporal Briefing Site",
+      "area": "Verified Time-Route Lab",
+      "sourceLocation": "DATS Headquarters",
+      "sourceArea": "Gate Lab",
+      "imagePath": "dats-headquarters/gate-lab.webp"
+    },
+    {
+      "location": "ADAMAS Temporal Briefing Site",
+      "area": null,
+      "sourceLocation": "DATS Headquarters",
+      "sourceArea": null,
+      "imagePath": "dats-headquarters/overview.jpg"
+    },
+    {
+      "location": "Olympos Audience Road",
+      "area": "Delegation Approach Roads",
+      "sourceLocation": "Fanglongmon's Central Seal",
+      "sourceArea": "Four Roads",
+      "imagePath": "fanglongmon-s-central-seal/four-roads.webp"
+    },
+    {
+      "location": "Olympos Audience Road",
+      "area": "Audience Petition Court",
+      "sourceLocation": "Fanglongmon's Central Seal",
+      "sourceArea": "Seal Court",
+      "imagePath": "fanglongmon-s-central-seal/seal-court.webp"
+    },
+    {
+      "location": "Olympos Audience Road",
+      "area": "Protected Inner Approach",
+      "sourceLocation": "Fanglongmon's Central Seal",
+      "sourceArea": "Deep Chamber",
+      "imagePath": "fanglongmon-s-central-seal/deep-chamber.jpg"
+    },
+    {
+      "location": "Olympos Audience Road",
+      "area": "Witness Concordance Ring",
+      "sourceLocation": "Fanglongmon's Central Seal",
+      "sourceArea": "Concordance Ring",
+      "imagePath": "fanglongmon-s-central-seal/concordance-ring.webp"
+    },
+    {
+      "location": "Olympos Audience Road",
+      "area": null,
+      "sourceLocation": "Fanglongmon's Central Seal",
+      "sourceArea": null,
+      "imagePath": "fanglongmon-s-central-seal/overview.jpg"
+    },
+    {
+      "location": "Miracles Rescue Sanctuary",
+      "area": "Rescue Petition Threshold",
+      "sourceLocation": "Digi-Egg Shrine of Courage",
+      "sourceArea": "Sealed Door",
+      "imagePath": "digi-egg-shrine-of-courage/sealed-door.webp"
+    },
+    {
+      "location": "Miracles Rescue Sanctuary",
+      "area": "Last-Chance Aid Court",
+      "sourceLocation": "Digi-Egg Shrine of Courage",
+      "sourceArea": "Flame Relief",
+      "imagePath": "digi-egg-shrine-of-courage/flame-relief.webp"
+    },
+    {
+      "location": "Miracles Rescue Sanctuary",
+      "area": "Miracles Relic Chamber",
+      "sourceLocation": "Digi-Egg Shrine of Courage",
+      "sourceArea": "Egg Dais",
+      "imagePath": "digi-egg-shrine-of-courage/egg-dais.webp"
+    },
+    {
+      "location": "Miracles Rescue Sanctuary",
+      "area": "Survivor Return Passage",
+      "sourceLocation": "Digi-Egg Shrine of Courage",
+      "sourceArea": "Exit Tunnel",
+      "imagePath": "digi-egg-shrine-of-courage/exit-tunnel.webp"
+    },
+    {
+      "location": "Miracles Rescue Sanctuary",
+      "area": null,
+      "sourceLocation": "Digi-Egg Shrine of Courage",
+      "sourceArea": null,
+      "imagePath": "digi-egg-shrine-of-courage/overview.webp"
+    },
+    {
+      "location": "Destiny Crossroads",
+      "area": "Promise Witness Court",
+      "sourceLocation": "Digi-Egg Shrine of Hope and Light",
+      "sourceArea": "Hope Court",
+      "imagePath": "digi-egg-shrine-of-hope-and-light/hope-court.webp"
+    },
+    {
+      "location": "Destiny Crossroads",
+      "area": "Destiny Relic Court",
+      "sourceLocation": "Digi-Egg Shrine of Hope and Light",
+      "sourceArea": "Light Court",
+      "imagePath": "digi-egg-shrine-of-hope-and-light/light-court.webp"
+    },
+    {
+      "location": "Destiny Crossroads",
+      "area": "Unchosen Road Bridge",
+      "sourceLocation": "Digi-Egg Shrine of Hope and Light",
+      "sourceArea": "Shared Bridge",
+      "imagePath": "digi-egg-shrine-of-hope-and-light/shared-bridge.webp"
+    },
+    {
+      "location": "Destiny Crossroads",
+      "area": "Quiet Oath Sanctuary",
+      "sourceLocation": "Digi-Egg Shrine of Hope and Light",
+      "sourceArea": "Sanctuary",
+      "imagePath": "digi-egg-shrine-of-hope-and-light/sanctuary.jpg"
+    },
+    {
+      "location": "Destiny Crossroads",
+      "area": null,
+      "sourceLocation": "Digi-Egg Shrine of Hope and Light",
+      "sourceArea": null,
+      "imagePath": "digi-egg-shrine-of-hope-and-light/overview.webp"
+    },
+    {
+      "location": "Golden Keeper Pilgrim House",
+      "area": "Pilgrim Meal Kitchen",
+      "sourceLocation": "First Light Community Room",
+      "sourceArea": "Kitchen",
+      "imagePath": "first-light-community-room/kitchen.jpg"
+    },
+    {
+      "location": "Golden Keeper Pilgrim House",
+      "area": "Custody and Route Board",
+      "sourceLocation": "First Light Community Room",
+      "sourceArea": "Noticeboard",
+      "imagePath": "first-light-community-room/noticeboard.jpg"
+    },
+    {
+      "location": "Golden Keeper Pilgrim House",
+      "area": "Guest Reflection Alcove",
+      "sourceLocation": "First Light Community Room",
+      "sourceArea": "Quiet Alcove",
+      "imagePath": "first-light-community-room/quiet-alcove.jpg"
+    },
+    {
+      "location": "Golden Keeper Pilgrim House",
+      "area": "Gentle Practice Terrace",
+      "sourceLocation": "First Light Community Room",
+      "sourceArea": "Training Terrace",
+      "imagePath": "first-light-community-room/training-terrace.jpg"
+    },
+    {
+      "location": "Golden Keeper Pilgrim House",
+      "area": null,
+      "sourceLocation": "First Light Community Room",
+      "sourceArea": null,
+      "imagePath": "first-light-community-room/overview.jpg"
+    },
+    {
+      "location": "Reclamation Beacon Camp",
+      "area": "Marked Fault Perimeter",
+      "sourceLocation": "Gear Savannah",
+      "sourceArea": "Broken Gear Field",
+      "imagePath": "gear-savannah/broken-gear-field.webp"
+    },
+    {
+      "location": "Reclamation Beacon Camp",
+      "area": "Community Refill Point",
+      "sourceLocation": "Gear Savannah",
+      "sourceArea": "Water Pump",
+      "imagePath": "gear-savannah/water-pump.webp"
+    },
+    {
+      "location": "Reclamation Beacon Camp",
+      "area": "Witness and Worker Camp",
+      "sourceLocation": "Gear Savannah",
+      "sourceArea": "Caravan Camp",
+      "imagePath": "gear-savannah/caravan-camp.webp"
+    },
+    {
+      "location": "Reclamation Beacon Camp",
+      "area": "Beacon Isolation Workshop",
+      "sourceLocation": "Gear Savannah",
+      "sourceArea": "Buried Workshop",
+      "imagePath": "gear-savannah/buried-workshop.webp"
+    },
+    {
+      "location": "Reclamation Beacon Camp",
+      "area": null,
+      "sourceLocation": "Gear Savannah",
+      "sourceArea": null,
+      "imagePath": "gear-savannah/overview.webp"
+    },
+    {
+      "location": "Contradictory Bridge",
+      "area": "Near-Side Survey Landing",
+      "sourceLocation": "Spiral Mountain Echo",
+      "sourceArea": "Lower Spiral",
+      "imagePath": "spiral-mountain-echo/lower-spiral.webp"
+    },
+    {
+      "location": "Contradictory Bridge",
+      "area": "Fractured Center Span",
+      "sourceLocation": "Spiral Mountain Echo",
+      "sourceArea": "Broken Causeway",
+      "imagePath": "spiral-mountain-echo/broken-causeway.webp"
+    },
+    {
+      "location": "Contradictory Bridge",
+      "area": "Competing Route Marker",
+      "sourceLocation": "Spiral Mountain Echo",
+      "sourceArea": "Domain Junction",
+      "imagePath": "spiral-mountain-echo/domain-junction.webp"
+    },
+    {
+      "location": "Contradictory Bridge",
+      "area": "Far-Side Return Anchor",
+      "sourceLocation": "Spiral Mountain Echo",
+      "sourceArea": "Apex Gate",
+      "imagePath": "spiral-mountain-echo/apex-gate.webp"
+    },
+    {
+      "location": "Contradictory Bridge",
+      "area": null,
+      "sourceLocation": "Spiral Mountain Echo",
+      "sourceArea": null,
+      "imagePath": "spiral-mountain-echo/overview.jpg"
+    },
+    {
+      "location": "Lost Name Caravan Shelter",
+      "area": "Caravan Arrival Line",
+      "sourceLocation": "Lantern Harbor",
+      "sourceArea": "Arrival Pier",
+      "imagePath": "lantern-harbor/arrival-pier.webp"
+    },
+    {
+      "location": "Lost Name Caravan Shelter",
+      "area": "No-Condition Meal Shelter",
+      "sourceLocation": "Lantern Harbor",
+      "sourceArea": "Soup Kitchen",
+      "imagePath": "lantern-harbor/soup-kitchen.webp"
+    },
+    {
+      "location": "Lost Name Caravan Shelter",
+      "area": "Chosen Name Witness Desk",
+      "sourceLocation": "Lantern Harbor",
+      "sourceArea": "Lantern Office",
+      "imagePath": "lantern-harbor/lantern-office.webp"
+    },
+    {
+      "location": "Lost Name Caravan Shelter",
+      "area": "Caravan Equipment Dock",
+      "sourceLocation": "Lantern Harbor",
+      "sourceArea": "Repair Dock",
+      "imagePath": "lantern-harbor/repair-dock.webp"
+    },
+    {
+      "location": "Lost Name Caravan Shelter",
+      "area": null,
+      "sourceLocation": "Lantern Harbor",
+      "sourceArea": null,
+      "imagePath": "lantern-harbor/overview.jpg"
+    },
+    {
+      "location": "Kernel Expedition Staging Hall",
+      "area": "Approved Expedition Board",
+      "sourceLocation": "Gate Junction Station",
+      "sourceArea": "Departure Board",
+      "imagePath": "gate-junction-station/departure-board.webp"
+    },
+    {
+      "location": "Kernel Expedition Staging Hall",
+      "area": "Consent and Custody Desk",
+      "sourceLocation": "Gate Junction Station",
+      "sourceArea": "Customs Desk",
+      "imagePath": "gate-junction-station/customs-desk.webp"
+    },
+    {
+      "location": "Kernel Expedition Staging Hall",
+      "area": "Compatible Stabilizer Bench",
+      "sourceLocation": "Gate Junction Station",
+      "sourceArea": "Repair Booth",
+      "imagePath": "gate-junction-station/repair-booth.webp"
+    },
+    {
+      "location": "Kernel Expedition Staging Hall",
+      "area": "Recovery and Return Platform",
+      "sourceLocation": "Gate Junction Station",
+      "sourceArea": "Rest Platform",
+      "imagePath": "gate-junction-station/rest-platform.webp"
+    },
+    {
+      "location": "Kernel Expedition Staging Hall",
+      "area": null,
+      "sourceLocation": "Gate Junction Station",
+      "sourceArea": null,
+      "imagePath": "gate-junction-station/overview.jpg"
+    },
+    {
+      "location": "Core Identity Repository",
+      "area": "Provenance Entry Trail",
+      "sourceLocation": "Index Forest",
+      "sourceArea": "Memory Trail",
+      "imagePath": "index-forest/memory-trail.webp"
+    },
+    {
+      "location": "Core Identity Repository",
+      "area": "Independent Witness Clearing",
+      "sourceLocation": "Index Forest",
+      "sourceArea": "Witness Clearing",
+      "imagePath": "index-forest/witness-clearing.webp"
+    },
+    {
+      "location": "Core Identity Repository",
+      "area": "Protected Core Record Vault",
+      "sourceLocation": "Index Forest",
+      "sourceArea": "Root Archive",
+      "imagePath": "index-forest/root-archive.jpg"
+    },
+    {
+      "location": "Core Identity Repository",
+      "area": "Authenticated Signal Canopy",
+      "sourceLocation": "Index Forest",
+      "sourceArea": "Signal Canopy",
+      "imagePath": "index-forest/signal-canopy.webp"
+    },
+    {
+      "location": "Core Identity Repository",
+      "area": null,
+      "sourceLocation": "Index Forest",
+      "sourceArea": null,
+      "imagePath": "index-forest/overview.webp"
+    },
+    {
+      "location": "Deep Maintenance Threshold",
+      "area": "Outer Diagnostic Lens",
+      "sourceLocation": "First Light Observatory",
+      "sourceArea": "Sky Lens",
+      "imagePath": "first-light-observatory/sky-lens.webp"
+    },
+    {
+      "location": "Deep Maintenance Threshold",
+      "area": "Living Subject Consent Room",
+      "sourceLocation": "First Light Observatory",
+      "sourceArea": "Consent Chamber",
+      "imagePath": "first-light-observatory/consent-chamber.webp"
+    },
+    {
+      "location": "Deep Maintenance Threshold",
+      "area": "Isolated Maintenance Console",
+      "sourceLocation": "First Light Observatory",
+      "sourceArea": "Restoration Console",
+      "imagePath": "first-light-observatory/restoration-console.webp"
+    },
+    {
+      "location": "Deep Maintenance Threshold",
+      "area": "Sealed Inner Core Approach",
+      "sourceLocation": "First Light Observatory",
+      "sourceArea": "First Bond Core",
+      "imagePath": "first-light-observatory/first-bond-core.webp"
+    },
+    {
+      "location": "Deep Maintenance Threshold",
+      "area": null,
+      "sourceLocation": "First Light Observatory",
+      "sourceArea": null,
+      "imagePath": "first-light-observatory/overview.webp"
+    },
+    {
+      "location": "Digi-Egg Shrine of Friendship",
+      "area": "Companion Arrival Gate",
+      "sourceLocation": "Digi-Egg Shrine of Courage",
+      "sourceArea": "Sealed Door",
+      "imagePath": "digi-egg-shrine-of-courage/sealed-door.webp"
+    },
+    {
+      "location": "Digi-Egg Shrine of Friendship",
+      "area": "Trust and Rescue Court",
+      "sourceLocation": "Digi-Egg Shrine of Courage",
+      "sourceArea": "Flame Relief",
+      "imagePath": "digi-egg-shrine-of-courage/flame-relief.webp"
+    },
+    {
+      "location": "Digi-Egg Shrine of Friendship",
+      "area": "Friendship Relic Dais",
+      "sourceLocation": "Digi-Egg Shrine of Courage",
+      "sourceArea": "Egg Dais",
+      "imagePath": "digi-egg-shrine-of-courage/egg-dais.webp"
+    },
+    {
+      "location": "Digi-Egg Shrine of Friendship",
+      "area": "Companion Recovery Passage",
+      "sourceLocation": "Digi-Egg Shrine of Courage",
+      "sourceArea": "Exit Tunnel",
+      "imagePath": "digi-egg-shrine-of-courage/exit-tunnel.webp"
+    },
+    {
+      "location": "Digi-Egg Shrine of Friendship",
+      "area": null,
+      "sourceLocation": "Digi-Egg Shrine of Courage",
+      "sourceArea": null,
+      "imagePath": "digi-egg-shrine-of-courage/overview.webp"
+    },
+    {
+      "location": "Digi-Egg Shrine of Sincerity",
+      "area": "Claim and Evidence Threshold",
+      "sourceLocation": "Digi-Egg Shrine of Knowledge",
+      "sourceArea": "Stone Puzzle",
+      "imagePath": "digi-egg-shrine-of-knowledge/stone-puzzle.webp"
+    },
+    {
+      "location": "Digi-Egg Shrine of Sincerity",
+      "area": "Truthful Account Room",
+      "sourceLocation": "Digi-Egg Shrine of Knowledge",
+      "sourceArea": "Map Room",
+      "imagePath": "digi-egg-shrine-of-knowledge/map-room.webp"
+    },
+    {
+      "location": "Digi-Egg Shrine of Sincerity",
+      "area": "Sincerity Armor Dais",
+      "sourceLocation": "Digi-Egg Shrine of Knowledge",
+      "sourceArea": "Egg Dais",
+      "imagePath": "digi-egg-shrine-of-knowledge/egg-dais.webp"
+    },
+    {
+      "location": "Digi-Egg Shrine of Sincerity",
+      "area": "Evidence Recovery Shaft",
+      "sourceLocation": "Digi-Egg Shrine of Knowledge",
+      "sourceArea": "Digging Shaft",
+      "imagePath": "digi-egg-shrine-of-knowledge/digging-shaft.webp"
+    },
+    {
+      "location": "Digi-Egg Shrine of Sincerity",
+      "area": null,
+      "sourceLocation": "Digi-Egg Shrine of Knowledge",
+      "sourceArea": null,
+      "imagePath": "digi-egg-shrine-of-knowledge/overview.webp"
+    },
+    {
+      "location": "Digi-Egg Shrine of Reliability",
+      "area": "Route Promise Stair",
+      "sourceLocation": "Digi-Egg Shrine of Love",
+      "sourceArea": "Wind Stair",
+      "imagePath": "digi-egg-shrine-of-love/wind-stair.webp"
+    },
+    {
+      "location": "Digi-Egg Shrine of Reliability",
+      "area": "Rescue Preparation Court",
+      "sourceLocation": "Digi-Egg Shrine of Love",
+      "sourceArea": "Feather Court",
+      "imagePath": "digi-egg-shrine-of-love/feather-court.webp"
+    },
+    {
+      "location": "Digi-Egg Shrine of Reliability",
+      "area": "Reliability Relic Dais",
+      "sourceLocation": "Digi-Egg Shrine of Love",
+      "sourceArea": "Egg Dais",
+      "imagePath": "digi-egg-shrine-of-love/egg-dais.webp"
+    },
+    {
+      "location": "Digi-Egg Shrine of Reliability",
+      "area": "Safe Return Bridge",
+      "sourceLocation": "Digi-Egg Shrine of Love",
+      "sourceArea": "Sky Bridge",
+      "imagePath": "digi-egg-shrine-of-love/sky-bridge.webp"
+    },
+    {
+      "location": "Digi-Egg Shrine of Reliability",
+      "area": null,
+      "sourceLocation": "Digi-Egg Shrine of Love",
+      "sourceArea": null,
+      "imagePath": "digi-egg-shrine-of-love/overview.webp"
+    },
+    {
+      "location": "Digi-Egg Shrine of Kindness",
+      "area": "Compassionate Request Court",
+      "sourceLocation": "Digi-Egg Shrine of Hope and Light",
+      "sourceArea": "Hope Court",
+      "imagePath": "digi-egg-shrine-of-hope-and-light/hope-court.webp"
+    },
+    {
+      "location": "Digi-Egg Shrine of Kindness",
+      "area": "Extended Relic Evidence Court",
+      "sourceLocation": "Digi-Egg Shrine of Hope and Light",
+      "sourceArea": "Light Court",
+      "imagePath": "digi-egg-shrine-of-hope-and-light/light-court.webp"
+    },
+    {
+      "location": "Digi-Egg Shrine of Kindness",
+      "area": "Caregiver Cooperation Bridge",
+      "sourceLocation": "Digi-Egg Shrine of Hope and Light",
+      "sourceArea": "Shared Bridge",
+      "imagePath": "digi-egg-shrine-of-hope-and-light/shared-bridge.webp"
+    },
+    {
+      "location": "Digi-Egg Shrine of Kindness",
+      "area": "Protected Kindness Sanctuary",
+      "sourceLocation": "Digi-Egg Shrine of Hope and Light",
+      "sourceArea": "Sanctuary",
+      "imagePath": "digi-egg-shrine-of-hope-and-light/sanctuary.jpg"
+    },
+    {
+      "location": "Digi-Egg Shrine of Kindness",
+      "area": null,
+      "sourceLocation": "Digi-Egg Shrine of Hope and Light",
+      "sourceArea": null,
+      "imagePath": "digi-egg-shrine-of-hope-and-light/overview.webp"
+    },
+    {
+      "location": "Meat Farm and Care Camp",
+      "area": "Farm Entry Root Path",
+      "sourceLocation": "Native Forest",
+      "sourceArea": "Root Trail",
+      "imagePath": "native-forest/root-trail.webp"
+    },
+    {
+      "location": "Meat Farm and Care Camp",
+      "area": "Irrigation and Wash Pool",
+      "sourceLocation": "Native Forest",
+      "sourceArea": "Forest Pool",
+      "imagePath": "native-forest/forest-pool.webp"
+    },
+    {
+      "location": "Meat Farm and Care Camp",
+      "area": "Caretaker Rest Shelter",
+      "sourceLocation": "Native Forest",
+      "sourceArea": "Bird Nest",
+      "imagePath": "native-forest/bird-nest.webp"
+    },
+    {
+      "location": "Meat Farm and Care Camp",
+      "area": "Ripe Meat Plant Rows",
+      "sourceLocation": "Native Forest",
+      "sourceArea": "Meat Orchard",
+      "imagePath": "native-forest/meat-orchard.jpg"
+    },
+    {
+      "location": "Meat Farm and Care Camp",
+      "area": null,
+      "sourceLocation": "Native Forest",
+      "sourceArea": null,
+      "imagePath": "native-forest/overview.jpg"
+    },
+    {
+      "location": "Partner Training Grounds",
+      "area": "Coach Introduction Gate",
+      "sourceLocation": "Baihumon's Western Bastion",
+      "sourceArea": "Stone Gate",
+      "imagePath": "baihumon-s-western-bastion/stone-gate.webp"
+    },
+    {
+      "location": "Partner Training Grounds",
+      "area": "Learned Move Practice Court",
+      "sourceLocation": "Baihumon's Western Bastion",
+      "sourceArea": "Training Court",
+      "imagePath": "baihumon-s-western-bastion/training-court.webp"
+    },
+    {
+      "location": "Partner Training Grounds",
+      "area": "Terrain Observation Stand",
+      "sourceLocation": "Baihumon's Western Bastion",
+      "sourceArea": "Watch Summit",
+      "imagePath": "baihumon-s-western-bastion/watch-summit.webp"
+    },
+    {
+      "location": "Partner Training Grounds",
+      "area": "Finite Equipment Store",
+      "sourceLocation": "Baihumon's Western Bastion",
+      "sourceArea": "Supply Vault",
+      "imagePath": "baihumon-s-western-bastion/supply-vault.webp"
+    },
+    {
+      "location": "Partner Training Grounds",
+      "area": null,
+      "sourceLocation": "Baihumon's Western Bastion",
+      "sourceArea": null,
+      "imagePath": "baihumon-s-western-bastion/overview.webp"
+    },
+    {
+      "location": "Rookie Recovery Clinic",
+      "area": "Return Condition Desk",
+      "sourceLocation": "Datamon Relay Hospital",
+      "sourceArea": "Reception",
+      "imagePath": "datamon-relay-hospital/reception.webp"
+    },
+    {
+      "location": "Rookie Recovery Clinic",
+      "area": "Qualified Care Bay",
+      "sourceLocation": "Datamon Relay Hospital",
+      "sourceArea": "Diagnostic Bay",
+      "imagePath": "datamon-relay-hospital/diagnostic-bay.webp"
+    },
+    {
+      "location": "Rookie Recovery Clinic",
+      "area": "Quiet Rookie Rest Garden",
+      "sourceLocation": "Datamon Relay Hospital",
+      "sourceArea": "Recovery Garden",
+      "imagePath": "datamon-relay-hospital/recovery-garden.webp"
+    },
+    {
+      "location": "Rookie Recovery Clinic",
+      "area": "Specific Isolation Room",
+      "sourceLocation": "Datamon Relay Hospital",
+      "sourceArea": "Quarantine Room",
+      "imagePath": "datamon-relay-hospital/quarantine-room.webp"
+    },
+    {
+      "location": "Rookie Recovery Clinic",
+      "area": null,
+      "sourceLocation": "Datamon Relay Hospital",
+      "sourceArea": null,
+      "imagePath": "datamon-relay-hospital/overview.webp"
+    },
+    {
+      "location": "Whamon Crossing",
+      "area": "Tide-Watched Approach",
+      "sourceLocation": "MetalSeadramon Ocean",
+      "sourceArea": "Reef Passage",
+      "imagePath": "metalseadramon-ocean/reef-passage.webp"
+    },
+    {
+      "location": "Whamon Crossing",
+      "area": "Cargo and Personal Gear Check",
+      "sourceLocation": "MetalSeadramon Ocean",
+      "sourceArea": "Wreck Field",
+      "imagePath": "metalseadramon-ocean/wreck-field.webp"
+    },
+    {
+      "location": "Whamon Crossing",
+      "area": "Whamon Agreement Harbor",
+      "sourceLocation": "MetalSeadramon Ocean",
+      "sourceArea": "Harbor Refuge",
+      "imagePath": "metalseadramon-ocean/harbor-refuge.webp"
+    },
+    {
+      "location": "Whamon Crossing",
+      "area": "Verified Deep Passage",
+      "sourceLocation": "MetalSeadramon Ocean",
+      "sourceArea": "Deep Trench",
+      "imagePath": "metalseadramon-ocean/deep-trench.webp"
+    },
+    {
+      "location": "Whamon Crossing",
+      "area": null,
+      "sourceLocation": "MetalSeadramon Ocean",
+      "sourceArea": null,
+      "imagePath": "metalseadramon-ocean/overview.webp"
+    },
+    {
+      "location": "Sincerity Rain Garden",
+      "area": "Caretaker Welcome Trail",
+      "sourceLocation": "Native Forest",
+      "sourceArea": "Root Trail",
+      "imagePath": "native-forest/root-trail.webp"
+    },
+    {
+      "location": "Sincerity Rain Garden",
+      "area": "Rainwater Inspection Pool",
+      "sourceLocation": "Native Forest",
+      "sourceArea": "Forest Pool",
+      "imagePath": "native-forest/forest-pool.webp"
+    },
+    {
+      "location": "Sincerity Rain Garden",
+      "area": "Honest Account Shelter",
+      "sourceLocation": "Native Forest",
+      "sourceArea": "Bird Nest",
+      "imagePath": "native-forest/bird-nest.webp"
+    },
+    {
+      "location": "Sincerity Rain Garden",
+      "area": "Shared Harvest Garden",
+      "sourceLocation": "Native Forest",
+      "sourceArea": "Meat Orchard",
+      "imagePath": "native-forest/meat-orchard.jpg"
+    },
+    {
+      "location": "Sincerity Rain Garden",
+      "area": null,
+      "sourceLocation": "Native Forest",
+      "sourceArea": null,
+      "imagePath": "native-forest/overview.jpg"
+    },
+    {
+      "location": "Reliability Rescue Pass",
+      "area": "Rescue Approach Trail",
+      "sourceLocation": "Mount Infinity",
+      "sourceArea": "Lower Climb",
+      "imagePath": "mount-infinity/lower-climb.webp"
+    },
+    {
+      "location": "Reliability Rescue Pass",
+      "area": "Inspected Crossing Bridge",
+      "sourceLocation": "Mount Infinity",
+      "sourceArea": "Rock Bridge",
+      "imagePath": "mount-infinity/rock-bridge.webp"
+    },
+    {
+      "location": "Reliability Rescue Pass",
+      "area": "Emergency Supply Alcove",
+      "sourceLocation": "Mount Infinity",
+      "sourceArea": "Black Gear Shrine",
+      "imagePath": "mount-infinity/black-gear-shrine.webp"
+    },
+    {
+      "location": "Reliability Rescue Pass",
+      "area": "Return Signal Summit",
+      "sourceLocation": "Mount Infinity",
+      "sourceArea": "Summit",
+      "imagePath": "mount-infinity/summit.webp"
+    },
+    {
+      "location": "Reliability Rescue Pass",
+      "area": null,
+      "sourceLocation": "Mount Infinity",
+      "sourceArea": null,
+      "imagePath": "mount-infinity/overview.webp"
+    },
+    {
+      "location": "Kindness Restoration House",
+      "area": "Welcome and Care Consent",
+      "sourceLocation": "Datamon Relay Hospital",
+      "sourceArea": "Reception",
+      "imagePath": "datamon-relay-hospital/reception.webp"
+    },
+    {
+      "location": "Kindness Restoration House",
+      "area": "Bounded Restoration Bay",
+      "sourceLocation": "Datamon Relay Hospital",
+      "sourceArea": "Diagnostic Bay",
+      "imagePath": "datamon-relay-hospital/diagnostic-bay.webp"
+    },
+    {
+      "location": "Kindness Restoration House",
+      "area": "Present Choice Garden",
+      "sourceLocation": "Datamon Relay Hospital",
+      "sourceArea": "Recovery Garden",
+      "imagePath": "datamon-relay-hospital/recovery-garden.webp"
+    },
+    {
+      "location": "Kindness Restoration House",
+      "area": "Safe Stabilization Room",
+      "sourceLocation": "Datamon Relay Hospital",
+      "sourceArea": "Quarantine Room",
+      "imagePath": "datamon-relay-hospital/quarantine-room.webp"
+    },
+    {
+      "location": "Kindness Restoration House",
+      "area": null,
+      "sourceLocation": "Datamon Relay Hospital",
+      "sourceArea": null,
+      "imagePath": "datamon-relay-hospital/overview.webp"
+    },
+    {
+      "location": "Aki's Lantern Workshop",
+      "area": "Witness Signature Desk",
+      "sourceLocation": "Izzy's Computer Workshop",
+      "sourceArea": "Analysis Desk",
+      "imagePath": "izzy-s-computer-workshop/analysis-desk.jpg"
+    },
+    {
+      "location": "Aki's Lantern Workshop",
+      "area": "Compatible Lantern Bench",
+      "sourceLocation": "Izzy's Computer Workshop",
+      "sourceArea": "Device Bench",
+      "imagePath": "izzy-s-computer-workshop/device-bench.jpg"
+    },
+    {
+      "location": "Aki's Lantern Workshop",
+      "area": "Isolated Choir Test Corner",
+      "sourceLocation": "Izzy's Computer Workshop",
+      "sourceArea": "Server Corner",
+      "imagePath": "izzy-s-computer-workshop/server-corner.jpg"
+    },
+    {
+      "location": "Aki's Lantern Workshop",
+      "area": "Courier Rest Mat",
+      "sourceLocation": "Izzy's Computer Workshop",
+      "sourceArea": "Guest Mat",
+      "imagePath": "izzy-s-computer-workshop/guest-mat.jpg"
+    },
+    {
+      "location": "Aki's Lantern Workshop",
+      "area": null,
+      "sourceLocation": "Izzy's Computer Workshop",
+      "sourceArea": null,
+      "imagePath": "izzy-s-computer-workshop/overview.jpg"
+    },
+    {
+      "location": "Blank Spire Reclamation Camp",
+      "area": "Community Safety Gate",
+      "sourceLocation": "Factorial Town",
+      "sourceArea": "Factory Gate",
+      "imagePath": "factorial-town/factory-gate.jpg"
+    },
+    {
+      "location": "Blank Spire Reclamation Camp",
+      "area": "Spire Effect Observation Hall",
+      "sourceLocation": "Factorial Town",
+      "sourceArea": "Cooling Hall",
+      "imagePath": "factorial-town/cooling-hall.webp"
+    },
+    {
+      "location": "Blank Spire Reclamation Camp",
+      "area": "Isolated Reclamation Console",
+      "sourceLocation": "Factorial Town",
+      "sourceArea": "Control Room",
+      "imagePath": "factorial-town/control-room.webp"
+    },
+    {
+      "location": "Blank Spire Reclamation Camp",
+      "area": "Protected Conduit Passage",
+      "sourceLocation": "Factorial Town",
+      "sourceArea": "Pipe Tunnels",
+      "imagePath": "factorial-town/pipe-tunnels.webp"
+    },
+    {
+      "location": "Blank Spire Reclamation Camp",
+      "area": null,
+      "sourceLocation": "Factorial Town",
+      "sourceArea": null,
+      "imagePath": "factorial-town/overview.jpg"
+    },
+    {
+      "location": "First Bond Waystation",
+      "area": "Quiet Arrival Meadow",
+      "sourceLocation": "Primary Village",
+      "sourceArea": "Egg Meadow",
+      "imagePath": "primary-village/egg-meadow.webp"
+    },
+    {
+      "location": "First Bond Waystation",
+      "area": "Partner Care Preparation Hut",
+      "sourceLocation": "Primary Village",
+      "sourceArea": "Incubation Hut",
+      "imagePath": "primary-village/incubation-hut.webp"
+    },
+    {
+      "location": "First Bond Waystation",
+      "area": "Route Mentor Watch",
+      "sourceLocation": "Primary Village",
+      "sourceArea": "Elecmon's Watch",
+      "imagePath": "primary-village/elecmon-s-watch.webp"
+    },
+    {
+      "location": "First Bond Waystation",
+      "area": "Voluntary Bond Glade",
+      "sourceLocation": "Primary Village",
+      "sourceArea": "Hatching Glade",
+      "imagePath": "primary-village/hatching-glade.webp"
+    },
+    {
+      "location": "First Bond Waystation",
+      "area": null,
+      "sourceLocation": "Primary Village",
+      "sourceArea": null,
+      "imagePath": "primary-village/overview.jpg"
+    },
+    {
+      "location": "DigiDestined Supply Depot",
+      "area": "Food Packing Kitchen",
+      "sourceLocation": "First Light Community Room",
+      "sourceArea": "Kitchen",
+      "imagePath": "first-light-community-room/kitchen.jpg"
+    },
+    {
+      "location": "DigiDestined Supply Depot",
+      "area": "Supply Issue Board",
+      "sourceLocation": "First Light Community Room",
+      "sourceArea": "Noticeboard",
+      "imagePath": "first-light-community-room/noticeboard.jpg"
+    },
+    {
+      "location": "DigiDestined Supply Depot",
+      "area": "Medical Kit Check Alcove",
+      "sourceLocation": "First Light Community Room",
+      "sourceArea": "Quiet Alcove",
+      "imagePath": "first-light-community-room/quiet-alcove.jpg"
+    },
+    {
+      "location": "DigiDestined Supply Depot",
+      "area": "Device and Gear Demonstration Terrace",
+      "sourceLocation": "First Light Community Room",
+      "sourceArea": "Training Terrace",
+      "imagePath": "first-light-community-room/training-terrace.jpg"
+    },
+    {
+      "location": "DigiDestined Supply Depot",
+      "area": null,
+      "sourceLocation": "First Light Community Room",
+      "sourceArea": null,
+      "imagePath": "first-light-community-room/overview.jpg"
+    },
+    {
+      "location": "Partner Quiet Room",
+      "area": "Host Conversation Room",
+      "sourceLocation": "Yagami Apartment",
+      "sourceArea": "Living Room",
+      "imagePath": "yagami-apartment/living-room.jpg"
+    },
+    {
+      "location": "Partner Quiet Room",
+      "area": "Small Partner Rest Nook",
+      "sourceLocation": "Yagami Apartment",
+      "sourceArea": "Tai and Kari's Room",
+      "imagePath": "yagami-apartment/tai-and-kari-s-room.jpg"
+    },
+    {
+      "location": "Partner Quiet Room",
+      "area": "Supervised Fresh-Air Balcony",
+      "sourceLocation": "Yagami Apartment",
+      "sourceArea": "Balcony",
+      "imagePath": "yagami-apartment/balcony.jpg"
+    },
+    {
+      "location": "Partner Quiet Room",
+      "area": "Family and Referral Entrance",
+      "sourceLocation": "Yagami Apartment",
+      "sourceArea": "Building Lobby",
+      "imagePath": "yagami-apartment/building-lobby.jpg"
+    },
+    {
+      "location": "Partner Quiet Room",
+      "area": null,
+      "sourceLocation": "Yagami Apartment",
+      "sourceArea": null,
+      "imagePath": "yagami-apartment/overview.jpg"
+    },
+    {
+      "location": "Anchored Tide Watch",
+      "area": "Measured Shore Watch",
+      "sourceLocation": "Dark Ocean Shore",
+      "sourceArea": "Beach",
+      "imagePath": "dark-ocean-shore/beach.webp"
+    },
+    {
+      "location": "Anchored Tide Watch",
+      "area": "Outside Anchor Signal House",
+      "sourceLocation": "Dark Ocean Shore",
+      "sourceArea": "Signal House",
+      "imagePath": "dark-ocean-shore/signal-house.webp"
+    },
+    {
+      "location": "Anchored Tide Watch",
+      "area": "Patrol Turnaround Road",
+      "sourceLocation": "Dark Ocean Shore",
+      "sourceArea": "Fog Road",
+      "imagePath": "dark-ocean-shore/fog-road.webp"
+    },
+    {
+      "location": "Anchored Tide Watch",
+      "area": "Protected Return Gate",
+      "sourceLocation": "Dark Ocean Shore",
+      "sourceArea": "Return Gate",
+      "imagePath": "dark-ocean-shore/return-gate.webp"
+    },
+    {
+      "location": "Anchored Tide Watch",
+      "area": null,
+      "sourceLocation": "Dark Ocean Shore",
+      "sourceArea": null,
+      "imagePath": "dark-ocean-shore/overview.jpg"
+    },
+    {
+      "location": "DATS Field Recovery Station",
+      "area": "Field Return Intake",
+      "sourceLocation": "Datamon Relay Hospital",
+      "sourceArea": "Reception",
+      "imagePath": "datamon-relay-hospital/reception.webp"
+    },
+    {
+      "location": "DATS Field Recovery Station",
+      "area": "Compatible Medical Assessment",
+      "sourceLocation": "Datamon Relay Hospital",
+      "sourceArea": "Diagnostic Bay",
+      "imagePath": "datamon-relay-hospital/diagnostic-bay.webp"
+    },
+    {
+      "location": "DATS Field Recovery Station",
+      "area": "Supervised Recovery Ground",
+      "sourceLocation": "Datamon Relay Hospital",
+      "sourceArea": "Recovery Garden",
+      "imagePath": "datamon-relay-hospital/recovery-garden.webp"
+    },
+    {
+      "location": "DATS Field Recovery Station",
+      "area": "Evidence-Based Isolation Bay",
+      "sourceLocation": "Datamon Relay Hospital",
+      "sourceArea": "Quarantine Room",
+      "imagePath": "datamon-relay-hospital/quarantine-room.webp"
+    },
+    {
+      "location": "DATS Field Recovery Station",
+      "area": null,
+      "sourceLocation": "Datamon Relay Hospital",
+      "sourceArea": null,
+      "imagePath": "datamon-relay-hospital/overview.webp"
+    },
+    {
+      "location": "Hologram Incident Clinic",
+      "area": "Visibility and Patient Intake",
+      "sourceLocation": "Datamon Relay Hospital",
+      "sourceArea": "Reception",
+      "imagePath": "datamon-relay-hospital/reception.webp"
+    },
+    {
+      "location": "Hologram Incident Clinic",
+      "area": "Qualified Incident Assessment",
+      "sourceLocation": "Datamon Relay Hospital",
+      "sourceArea": "Diagnostic Bay",
+      "imagePath": "datamon-relay-hospital/diagnostic-bay.webp"
+    },
+    {
+      "location": "Hologram Incident Clinic",
+      "area": "Quiet Materialization Garden",
+      "sourceLocation": "Datamon Relay Hospital",
+      "sourceArea": "Recovery Garden",
+      "imagePath": "datamon-relay-hospital/recovery-garden.webp"
+    },
+    {
+      "location": "Hologram Incident Clinic",
+      "area": "Specific Containment Room",
+      "sourceLocation": "Datamon Relay Hospital",
+      "sourceArea": "Quarantine Room",
+      "imagePath": "datamon-relay-hospital/quarantine-room.webp"
+    },
+    {
+      "location": "Hologram Incident Clinic",
+      "area": null,
+      "sourceLocation": "Datamon Relay Hospital",
+      "sourceArea": null,
+      "imagePath": "datamon-relay-hospital/overview.webp"
+    },
+    {
+      "location": "App Drive Service Studio",
+      "area": "Listed Service Booth",
+      "sourceLocation": "Appmon Terminal Square",
+      "sourceArea": "App Booth",
+      "imagePath": "appmon-terminal-square/app-booth.webp"
+    },
+    {
+      "location": "App Drive Service Studio",
+      "area": "Permission Verification Office",
+      "sourceLocation": "Appmon Terminal Square",
+      "sourceArea": "Search Office",
+      "imagePath": "appmon-terminal-square/search-office.webp"
+    },
+    {
+      "location": "App Drive Service Studio",
+      "area": "Compatible App Drive Bench",
+      "sourceLocation": "Appmon Terminal Square",
+      "sourceArea": "App Drive Bench",
+      "imagePath": "appmon-terminal-square/app-drive-bench.webp"
+    },
+    {
+      "location": "App Drive Service Studio",
+      "area": "Verified Service Return Gate",
+      "sourceLocation": "Appmon Terminal Square",
+      "sourceArea": "Cross Gate",
+      "imagePath": "appmon-terminal-square/cross-gate.webp"
+    },
+    {
+      "location": "App Drive Service Studio",
+      "area": null,
+      "sourceLocation": "Appmon Terminal Square",
+      "sourceArea": null,
+      "imagePath": "appmon-terminal-square/overview.jpg"
+    },
+    {
+      "location": "Application Recovery Depot",
+      "area": "Backup Custody Gate",
+      "sourceLocation": "Factorial Town",
+      "sourceArea": "Factory Gate",
+      "imagePath": "factorial-town/factory-gate.jpg"
+    },
+    {
+      "location": "Application Recovery Depot",
+      "area": "Recovery Condition Hall",
+      "sourceLocation": "Factorial Town",
+      "sourceArea": "Cooling Hall",
+      "imagePath": "factorial-town/cooling-hall.webp"
+    },
+    {
+      "location": "Application Recovery Depot",
+      "area": "Isolated Restore Console",
+      "sourceLocation": "Factorial Town",
+      "sourceArea": "Control Room",
+      "imagePath": "factorial-town/control-room.webp"
+    },
+    {
+      "location": "Application Recovery Depot",
+      "area": "Protected Data Transfer Passage",
+      "sourceLocation": "Factorial Town",
+      "sourceArea": "Pipe Tunnels",
+      "imagePath": "factorial-town/pipe-tunnels.webp"
+    },
+    {
+      "location": "Application Recovery Depot",
+      "area": null,
+      "sourceLocation": "Factorial Town",
+      "sourceArea": null,
+      "imagePath": "factorial-town/overview.jpg"
+    },
+    {
+      "location": "X-Refuge Supply Camp",
+      "area": "Refuge Provision Shelter",
+      "sourceLocation": "X-Antibody Refuge",
+      "sourceArea": "Refuge Camp",
+      "imagePath": "x-antibody-refuge/refuge-camp.webp"
+    },
+    {
+      "location": "X-Refuge Supply Camp",
+      "area": "Medical Supply Allocation",
+      "sourceLocation": "X-Antibody Refuge",
+      "sourceArea": "Antibody Clinic",
+      "imagePath": "x-antibody-refuge/antibody-clinic.webp"
+    },
+    {
+      "location": "X-Refuge Supply Camp",
+      "area": "Discreet Courier Watch",
+      "sourceLocation": "X-Antibody Refuge",
+      "sourceArea": "Border Watch",
+      "imagePath": "x-antibody-refuge/border-watch.webp"
+    },
+    {
+      "location": "X-Refuge Supply Camp",
+      "area": "Approved Onward Approach",
+      "sourceLocation": "X-Antibody Refuge",
+      "sourceArea": "Knight Approach",
+      "imagePath": "x-antibody-refuge/knight-approach.webp"
+    },
+    {
+      "location": "X-Refuge Supply Camp",
+      "area": null,
+      "sourceLocation": "X-Antibody Refuge",
+      "sourceArea": null,
+      "imagePath": "x-antibody-refuge/overview.jpg"
+    },
+    {
+      "location": "Royal Knight Watchpost",
+      "area": "Verified Representative Post",
+      "sourceLocation": "Yggdrasil Access Frontier",
+      "sourceArea": "Royal Knight Post",
+      "imagePath": "yggdrasil-access-frontier/royal-knight-post.webp"
+    },
+    {
+      "location": "Royal Knight Watchpost",
+      "area": "Guarded Approach Bridge",
+      "sourceLocation": "Yggdrasil Access Frontier",
+      "sourceArea": "Access Bridge",
+      "imagePath": "yggdrasil-access-frontier/access-bridge.webp"
+    },
+    {
+      "location": "Royal Knight Watchpost",
+      "area": "Source Order Console",
+      "sourceLocation": "Yggdrasil Access Frontier",
+      "sourceArea": "Host Console",
+      "imagePath": "yggdrasil-access-frontier/host-console.webp"
+    },
+    {
+      "location": "Royal Knight Watchpost",
+      "area": "Refuge Return Gate",
+      "sourceLocation": "Yggdrasil Access Frontier",
+      "sourceArea": "Withdrawal Gate",
+      "imagePath": "yggdrasil-access-frontier/withdrawal-gate.webp"
+    },
+    {
+      "location": "Royal Knight Watchpost",
+      "area": null,
+      "sourceLocation": "Yggdrasil Access Frontier",
+      "sourceArea": null,
+      "imagePath": "yggdrasil-access-frontier/overview.webp"
+    },
+    {
+      "location": "Liberator Match Archive",
+      "area": "Replay Permission Desk",
+      "sourceLocation": "Liberator Contact Arena",
+      "sourceArea": "Welcome Deck",
+      "imagePath": "liberator-contact-arena/welcome-deck.webp"
+    },
+    {
+      "location": "Liberator Match Archive",
+      "area": "Controlled Replay Arena",
+      "sourceLocation": "Liberator Contact Arena",
+      "sourceArea": "Practice Arena",
+      "imagePath": "liberator-contact-arena/practice-arena.webp"
+    },
+    {
+      "location": "Liberator Match Archive",
+      "area": "Player and Partner Witness Lounge",
+      "sourceLocation": "Liberator Contact Arena",
+      "sourceArea": "Partner Lounge",
+      "imagePath": "liberator-contact-arena/partner-lounge.webp"
+    },
+    {
+      "location": "Liberator Match Archive",
+      "area": "Authenticated Record Export Gate",
+      "sourceLocation": "Liberator Contact Arena",
+      "sourceArea": "Exit Gate",
+      "imagePath": "liberator-contact-arena/exit-gate.webp"
+    },
+    {
+      "location": "Liberator Match Archive",
+      "area": null,
+      "sourceLocation": "Liberator Contact Arena",
+      "sourceArea": null,
+      "imagePath": "liberator-contact-arena/overview.jpg"
+    }
+  ]
+}
