@@ -1,0 +1,33 @@
+name: Build Digimon location atlas
+on:
+  push:
+    branches: [digimon-locations-20261004]
+    paths: ['digimon/studio/build-request.txt']
+permissions:
+  contents: write
+concurrency:
+  group: digimon-location-atlas-build
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v7
+      - name: Install image tools if needed
+        run: |
+          if ! command -v convert >/dev/null; then
+            sudo apt-get update
+            sudo apt-get install -y imagemagick
+          fi
+      - name: Extract pictures and validate Studio JSON
+        run: node digimon/tools/build-location-atlas.mjs
+      - name: Publish completed atlas files
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add digimon/location-images digimon/studio/Digimon_Locations_UPDATED.json digimon/studio/locations-validation.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Publish 154 Digimon locations and 410 atlas scenes'
+            git push origin HEAD:digimon-locations-20261004
+          fi

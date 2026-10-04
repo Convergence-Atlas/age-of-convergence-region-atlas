@@ -1,0 +1,1148 @@
+{
+  "Odaiba and Tokyo Bay": {
+    "name": "Odaiba and Tokyo Bay",
+    "basicInfo": "Tokyo Bay is the human heart of the campaign: apartment balconies above busy roads, school computer rooms, waterfront promenades, ferries, bridge approaches and the bright silhouette of Fuji TV. Tai and Kari's home, Odaiba Elementary School, Izzy's Computer Workshop and the First Light Community Room give the adventure familiar places to return to. Myotismon's invasion survives in family recollections, repaired buildings and uneasy reactions to sudden fog; the default present is rebuilding after Adventure 02, rather than another automatic replay of that attack.\n\nTai, Matt, Sora, Izzy, Mimi, Joe, T.K., Kari and the newer team have their own families, schedules and partnerships. Their availability changes with the scene. A new DigiDestined can become a trusted teammate through practical help, honest conversation and shared danger. The First Light Community Room offers introductions, partner-care advice and a supervised place to examine an unpaired living Digi-Egg. Choosing an adult character changes the player's responsibilities without making their bond less valuable.\n\nOrdinary days include homework, errands, shared meals, repairs, part-time work, medical visits and a partner trying to understand trains or vending machines. Fresh and In-Training partners need quiet rest and careful handling; Rookie companions can participate in suitable everyday activities. Larger forms require space, preparation and a clear reason to appear around civilians. Food, medicine, device parts and travel tickets come from actual purchases, help or earned rewards.\n\nDigital departures use a discovered, working terminal and the appropriate gate-capable device or earned adapter. An original Adventure Digivice is not a universal Internet portal. School access, ferry timetables, outages and a family expecting someone home can all shape a journey. Before crossing, establish the destination, a contact, supplies and a usable return endpoint. The waterfront remains a physical coastline, not a shortcut into every other realm.\n\nFirst Light investigations begin close to home: a photograph with an empty place where a partner should be, a nursery delivery addressed to someone nobody remembers, a forged message from Gennai, or a computer-room log that contradicts a witness. Rescue routes, shelter, evacuation and careful evidence gathering matter during emergencies. Established villains return only through an explained surviving threat, deliberate historical expedition or selected future branch; routine street encounters should suit the ordinary people living here.",
+    "x": 0,
+    "y": 0,
+    "realm": "Real World",
+    "factions": [
+      "Adventure DigiDestined",
+      "Adventure 02 DigiDestined",
+      "Odaiba Families and Civilian Allies",
+      "International Chosen Network",
+      "Lantern Network"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 1,
+      "max": 20
+    },
+    "images": {
+      "map": {
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/digimon-regions-20261004/digimon/region-images/odaiba-and-tokyo-bay.jpg",
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        }
+      }
+    }
+  },
+  "Hikarigaoka and Nerima": {
+    "name": "Hikarigaoka and Nerima",
+    "basicInfo": "Residential towers, modest parks, footpaths and neighborhood shops surround the place where an early Digimon encounter became a childhood memory too strange to explain. Hikarigaoka Apartments and the First Encounter Memorial Route connect ordinary present-day life to the Greymon and Parrotmon incident. The Summer Camp Trailhead is a campaign rendezvous for expeditions; it does not assert that every original camp event happened in this exact district.\n\nNeighbors remember different fragments: a huge shadow between buildings, a broken window, a child's account dismissed as a dream, or a sound that returned years later. Older witnesses may disagree honestly. The original chosen children carry their own memories, but a new player can investigate without being assigned someone else's childhood. Families, shopkeepers, custodians and patient local guides make this an inhabited neighborhood rather than a museum of one battle.\n\nThe region supports gentle early quests: locate a witness, compare an old photo with a repaired street, help a hatchling tolerate city noise, recover a mislabeled camp box, or trace why two people remember different names for the same friend. Meals, safe lodging, public transport and a discreet resting place for a partner can be arranged through ordinary contacts. School or work obligations continue during an investigation.\n\nThe 1995 encounter may be visited through an explicitly dated archive expedition. Such a visit has its own entry and return conditions; an image or recollection cannot become a physical Greymon in the present merely because the scene is emotional. Existing outcomes remain part of the default history unless the player knowingly selects a different branch. A modern gate needs a real terminal, compatible protocol and verified destination.\n\nThe Null Choir's influence appears through inconsistent records rather than constant monsters: a witness loses only the name of the child who helped them, a household keeps an unexplained Digivice-shaped mark in a drawer, or a duplicated photograph has subtly different dates. Corroboration through objects, locations and independent accounts can recover a lead. Large-scale battles threaten homes and must allow shelter, evacuation and consequences appropriate to a real neighborhood.",
+    "x": -1,
+    "y": -1,
+    "realm": "Real World",
+    "factions": [
+      "Odaiba Families and Civilian Allies",
+      "International Chosen Network",
+      "Homeostasis Custodians",
+      "Lantern Network"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 1,
+      "max": 18
+    },
+    "images": {
+      "map": {
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/digimon-regions-20261004/digimon/region-images/hikarigaoka-and-nerima.jpg",
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        }
+      }
+    }
+  },
+  "Tamachi and Inner Tokyo": {
+    "name": "Tamachi and Inner Tokyo",
+    "basicInfo": "Train platforms, school routes, apartment corridors, clinics and busy office streets form a more private side of Tokyo. The Ichijouji Home anchors Ken's family history, Tamachi Station connects the team to the wider city, and Tokyo General Hospital provides a setting for grounded treatment and recovery. The DigiDestined Terminal Cafe is an original campaign meeting place where ordinary customers share the room with carefully managed digital messages.\n\nKen is a recovering ally with responsibility for what he did as the Digimon Emperor. Wormmon remains his own partner, with a voice, feelings and a history that cannot be traded away. Their work can involve repairing control damage, helping frightened Digimon or challenging a forged claim about Ken's past. He is not automatically re-corrupted whenever the story needs a villain, and friendship does not remove the need for accountability.\n\nLocal scenes include a missed train, a family visit, an exhausted partner falling asleep during a conversation, or a support appointment after an expedition. A clinic can treat human injuries; Digimon-specific core damage, device faults or imposed digital conditions require an appropriate specialist. Ordinary first aid, clean water, meals and rest help within their established limits. Returning to Rookie preserves injury and spent resources rather than replacing medical care.\n\nPublic stations are physical transport hubs. Reaching another district takes a ticket, time and the appropriate service; reaching the Digital World takes an authenticated gate. A hospital terminal, school computer or cafe relay is usable only with permission or a scene-established access route. Public networks may expose a message to interception, so sensitive evidence needs a trusted recipient and a practical backup.\n\nInvestigations can compare Emperor-era records with current Blank Spire symptoms, find a missing courier, escort someone avoiding a stalker, or distinguish a compromised message from a deliberate lie. Dark Spores, control fragments, illness and memory erasure are different problems. Let witnesses disagree and let Ken refuse an exploitative request. The strongest outcomes restore safety and truthful records while preserving the agency of both people and Digimon.",
+    "x": -1,
+    "y": 0,
+    "realm": "Real World",
+    "factions": [
+      "Adventure 02 DigiDestined",
+      "Odaiba Families and Civilian Allies",
+      "International Chosen Network",
+      "Lantern Network"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 1,
+      "max": 22
+    },
+    "images": {
+      "map": {
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/digimon-regions-20261004/digimon/region-images/tamachi-and-inner-tokyo.jpg",
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        }
+      }
+    }
+  },
+  "International Chosen Routes": {
+    "name": "International Chosen Routes",
+    "basicInfo": "This atlas region represents a network of distant human-world contacts, not one walkable country. Its established rendezvous include New York, Colorado, Hong Kong, Paris and Sydney. Airports, ports, neighborhood meeting places and carefully maintained terminals connect DigiDestined who share an extraordinary responsibility while living with different languages, time zones, laws, families and daily routines.\n\nLocal chosen partners remain distinct individuals. Mimi's international connections, Willis's Colorado-linked film history and the Adventure 02 worldwide contacts can open introductions when the selected era supports them. A contact's species, device and experience do not make them interchangeable with a Tokyo teammate. Messages may need translation, and some families openly welcome a visiting partner while others need a gradual explanation.\n\nExpeditions begin by choosing a specific city and host. Air travel, rail, ferries or a verified digital endpoint determine the route; a map marker never makes New York and Sydney neighboring streets. Establish tickets or gate permission, lodging, suitable food, emergency contacts, communication windows and a return plan. A small partner's concealment is a practical choice, while a large form arriving in a crowded public place creates immediate safety obligations.\n\nQuests may follow nursery shipments across borders, compare records of first partnerships, rescue a local gate technician, or coordinate evacuation during a digital incursion. Each community has its own problem and can offer useful knowledge rather than merely waiting for the original team to solve everything. Local residents, sailors, archivists and shopkeepers can matter alongside the chosen children.\n\nColorado can host a deliberately selected Hurricane Touchdown-related expedition, with Willis, Terriermon and Lopmon's particular history kept separate from Tamers characters of the same species. Golden Armor access is a specific earned route, not a souvenir obtained by visiting that location. International Null Choir clues can reveal coordinated purchases or matching erased names, but shared evidence does not prove every foreign contact is involved. Preserve local victories, friendships and responsibilities after the party returns home.",
+    "x": 2,
+    "y": 0,
+    "realm": "Real World",
+    "factions": [
+      "International Chosen Network",
+      "Adventure DigiDestined",
+      "Adventure 02 DigiDestined",
+      "First Light Interworld Accord"
+    ],
+    "known": true,
+    "npcLevelRange": {
+      "min": 1,
+      "max": 30
+    },
+    "images": {
+      "map": {
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/digimon-regions-20261004/digimon/region-images/international-chosen-routes.jpg",
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        }
+      }
+    }
+  },
+  "File Island": {
+    "name": "File Island",
+    "basicInfo": "File Island is a vivid patchwork of forests, giant gears, cold uplands, lakes, toy streets, machinery and mountain ruins. The campaign's island joins Adventure-inspired wilderness with selected Digimon World-inspired landmarks, so Primary Village, Gear Savannah, Native Forest, Mount Infinity, Toy Town, Factorial Town, Freezeland and Dragon Eye Lake have clearly established routes rather than being claimed as one exact television map. Climate and terrain can change sharply across an old data boundary.\n\nPrimary Village shelters living Digitama, Fresh hatchlings and In-Training children under protective nursery care. Elecmon and other caretakers value provenance, quiet handling, warmth and a safe place for every egg. These are living hatching or rebirth eggs, distinct from Armor Digi-Eggs. A new DigiDestined may help with feeding, incubation records, damaged shelters or a missing hatchling, then gradually learn the island alongside a developing partner.\n\nThe wider island has workers, traders, hunters, healers, guides and Digimon who want to be left alone. Toy Town can offer repairs and playful social scenes; Factorial Town needs parts, cooling and safe access; forest orchards and meat-growing plots need caretakers and finite harvests. Vaccine, Virus and Data residents can cooperate or quarrel for individual reasons. Attribute advantage belongs to the combat profile, not to a community's moral worth.\n\nWalking trails, lakeside boats, caravan stops and friendly transport partners provide useful alternatives to evolution. Flight requires an actual flying body and enough energy; underwater exploration needs breathing support, suitable transport or the correct earned form. Freezeland requires warmth, the savannah requires water, and machinery can injure a careless visitor. Ordinary temporary higher forms return to the partner's recorded Rookie base, so plan the return route around the resting body's limits.\n\nDevimon's Black Gear wounds remain historical and practical concerns: surviving fragments can cause control problems, but every dark-colored resident is not infected. Mount Infinity expeditions need climbing equipment, a guide and a reason to enter hazardous ruins. First Light quests can recover stolen nursery names, protect a delivery or follow a witness into a shifting forest. Nursery sanctuary is relatively safe; that safety does not extend automatically to every cave, hostile camp or mature predator on the island.",
+    "x": 0,
+    "y": 0,
+    "realm": "Digital World",
+    "factions": [
+      "File Island Defenders",
+      "Nursery Covenant",
+      "Toy Town Caretakers",
+      "Factorial Town Workers",
+      "Devimon's Black Gear Remnants",
+      "Digital Traders Guild",
+      "Independent Digimon"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 1,
+      "max": 45
+    },
+    "images": {
+      "map": {
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/digimon-regions-20261004/digimon/region-images/file-island.jpg",
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        }
+      }
+    }
+  },
+  "Server Continent": {
+    "name": "Server Continent",
+    "basicInfo": "Server Continent stretches far beyond File Island's introductory routes: blazing deserts, rough caravan roads, villages, concealed archives, old relay towers and subterranean machinery. Gennai's Hidden House, the Etemon Desert Network, Nanomon Pyramid, Koromon Village, Crest Ruins and Datamon Relay Hospital anchor different kinds of expedition. Its great distances make reliable water, shelter, local directions and communication as valuable as a powerful attack.\n\nThe original team's search for the Crests left stories, damaged networks and conflicting claims about sacred objects. Gennai's agents can explain authenticated records, but a message using his name needs verification. Koromon villagers have ordinary livelihoods and specific people to protect. Hospital staff distinguish injury, device failure and core damage; they do not have a limitless cure for deletion or every lost memory.\n\nTravel moves through known wells, trade camps, settlements and guarded crossings. Heat and sand can exhaust a partner or damage exposed equipment. Flight still needs a capable body and a landing plan; temporary digivolution is costly transport rather than permission to ignore geography. Machinery, buried conduits and unsafe excavation sites call for a guide, careful scans and rescue preparation. Returning to Rookie does not restore lost water, HP or DP.\n\nCrest Ruins reward meaningful demonstrations of Courage, Friendship, Love, Knowledge, Sincerity, Reliability, Hope, Light or Kindness within the campaign's established paths. A counterfeit Tag may produce a false signal without granting genuine attunement. Personal Miracles and Destiny crests are original campaign additions; the continent's older records can provide leads to them without inventing two extra members of the first television team's eight-child quest.\n\nEtemon's entertainment networks can survive as abandoned infrastructure, recordings or separately established followers. Nanomon/Datamon naming follows the individual source record, not two automatic copies of one character. An Emperor fragment, Black Gear and Blank Spire require different diagnoses. Quests can expose a rigged broadcast, escort medicine, repair a relay or recover a name from an erased passenger list. Major villain appearances require the selected era or an explained present-day cause.",
+    "x": 1,
+    "y": 0,
+    "realm": "Digital World",
+    "factions": [
+      "Gennai's Agents",
+      "Koromon Village Council",
+      "Etemon's Network",
+      "Datamon Relay Hospital Staff",
+      "Crest and Digimental Keepers",
+      "Digital Traders Guild",
+      "Independent Digimon"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 12,
+      "max": 65
+    },
+    "images": {
+      "map": {
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/digimon-regions-20261004/digimon/region-images/server-continent.jpg",
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        }
+      }
+    }
+  },
+  "Dark Masters Territories": {
+    "name": "Dark Masters Territories",
+    "basicInfo": "These landscapes preserve the scars of the Dark Masters without requiring their rule to be active in the default present. MetalSeadramon Ocean, Puppetmon Forest, Machinedramon City, Piedmon's Nightmare Keep and the Spiral Mountain Echo are campaign exploration anchors: reclaimed stretches of sea, woodland and industry beside restricted ruins and deliberately opened historical zones. Their old names express remembered danger rather than ownership over everyone who lives there now.\n\nSurviving communities rebuild docks, shelters, factories and woodland homes. Residents can disagree about whether to dismantle a fortress, preserve its records or leave a memorial. A traumatized Digimon may distrust a visiting human while still needing help; a machine worker can choose peace. Current allegiance and imposed control must be established separately from species, color or Vaccine/Virus/Data attribute.\n\nOcean travel requires a seaworthy vessel, a cooperating marine partner or an earned underwater-capable route. Puppetmon's woodland rewards attention to tracks, concealed strings and unfamiliar play rules; coercive games are threats to resist, not consent. City expeditions face damaged power systems, heavy debris and unreliable automation. The keep uses documented passage locks, dangerous mechanisms and limited illusions, with observable evidence and an escape or rescue approach.\n\nHistorical expeditions may encounter the actual Dark Masters at a stated date. Present-day manifestations may instead be a surviving agent, recording, fragment or original adversary using recovered equipment; those states are not interchangeable. Apocalymon's old catastrophe is not an unlimited supply of living copies. A defeated villain cannot return merely because the party crossed a map boundary.\n\nThis is a difficult frontier for experienced teams. Small rescue operations can begin at a cleared perimeter, while deep assaults need intelligence, allies and withdrawal plans. Quests can recover prisoners' names, shut down a dangerous factory, protect a restored village or prove that an apparent resurrection is a forged projection. Mega or qualified Ultra power remains brief and costly; evacuation, infrastructure work and coordinated counterplay can accomplish what indiscriminate destruction cannot.",
+    "x": 1,
+    "y": -1,
+    "realm": "Digital World",
+    "factions": [
+      "Dark Masters",
+      "File Island Defenders",
+      "Spire Reclamation Teams",
+      "Apocalymon Echoes",
+      "Independent Digimon",
+      "Lantern Network"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 30,
+      "max": 90
+    },
+    "images": {
+      "map": {
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/digimon-regions-20261004/digimon/region-images/dark-masters-territories.jpg",
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        }
+      }
+    }
+  },
+  "Adventure 02 Borderlands": {
+    "name": "Adventure 02 Borderlands",
+    "basicInfo": "Open prairies, old control sites, shrines, valleys and routes once blocked by Dark Spires carry the strongest Adventure 02 identity. The Digi-Egg Shrines of Courage, Love and Knowledge, the Hope and Light sanctuary, Digimon Emperor Fortress, Dark Spire Prairie and Holy Stone Valley provide established destinations. Other Digimental traditions can be discovered through their keepers without pretending every artifact still waits untouched on a pedestal.\n\nDavis, Yolei, Cody, T.K., Kari and Ken bring different experiences of Armor evolution, partnership and recovery. Veemon, Hawkmon, Armadillomon, Patamon, Gatomon and Wormmon remain their own companions. Local Digimon remember captivity, resistance and repair. Ken can work to undo damage without automatically becoming the Emperor again; freed residents can choose whether to trust him.\n\nActive Emperor-style control infrastructure can suppress ordinary evolution under its established rules. Armor routes mattered because they provided a compatible response to that historical problem. Detect whether a present tower is functional, inert, modified or a Null Choir Blank Spire before applying its effects. A purchased control fragment does not automatically impose a world-wide ban on every stage or device.\n\nCompatible Armor requires the real Digimental, a bonded suitable Digivice, a learned route, partner agreement and the necessary charge or resources. Courage may support Veemon's Flamedramon route; Knowledge supports Armadillomon's Digmon route; Hope and Light have their recorded Patamon and Gatomon paths. These are qualified examples, not universal transformations for any species. DNA progression likewise needs the actual willing partners and its earned combination.\n\nHoly Stones and guardian approaches are protected locations with specific access conditions. Their history can lead toward Azulongmon without making the Sovereigns common quest dispensers. The original campaign can introduce reclamation teams, shrine wardens, repair camps and conflicting claims over recovered data. Rescue a still-controlled resident, preserve evidence from the fortress, or expose a false golden relic. Ordinary Rookie resting forms remain practical during long journeys, while Gatomon's established Champion resting form keeps its own exception.",
+    "x": 0,
+    "y": 1,
+    "realm": "Digital World",
+    "factions": [
+      "Adventure 02 DigiDestined",
+      "Emperor Control Remnants",
+      "Sacred Stone Wardens",
+      "Crest and Digimental Keepers",
+      "Spire Reclamation Teams",
+      "Arukenimon and Mummymon",
+      "Independent Digimon"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 5,
+      "max": 70
+    },
+    "images": {
+      "map": {
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/digimon-regions-20261004/digimon/region-images/adventure-02-borderlands.jpg",
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        }
+      }
+    }
+  },
+  "Sovereign Frontiers": {
+    "name": "Sovereign Frontiers",
+    "basicInfo": "Guardian roads converge on Azulongmon's Eastern Sanctuary, Zhuqiaomon's Southern Crater, Baihumon's Western Bastion, Ebonwumon's Northern Forest and Fanglongmon's Central Seal. Eastern mist and rain, southern ash and heat, western stone approaches and northern living woodland create sharply different travel needs. Their arrangement is an original campaign atlas connecting guardian traditions; a cross-source name does not prove that every depiction shares one history.\n\nWardens, pilgrims, archivists and resident Digimon maintain the approaches. The four guardians have distinct priorities and can disagree about security, change or human involvement. An audience must be earned through the relevant route, a local sponsor and an actual reason for seeking it. A Sovereign may send a representative or decline to intervene directly rather than solving the player's whole adventure.\n\nTravel requires provisions appropriate to the chosen frontier: weather protection and safe crossings in the east, heat management in the south, climbing support in the west and negotiated paths in the north. A sacred threshold is closed until its wardens grant access or its recorded trial is completed. Possessing a Crest, a golden Digi-Egg or a rare partner does not create universal authority over guardian lands.\n\nAzulongmon's Adventure 02-related history is available through the core setting. Zhuqiaomon's Tamers-era actions belong to that selected branch, and Fanglongmon's central role here is an explicitly gated campaign addition. Preserve each encountered individual's identity and source. Royal Knights, Olympus XII and other great groups are not automatically servants of these guardians; their meetings require a separate narrative cause.\n\nQuests can recover a damaged seal record, mediate between border communities, stabilize a route or investigate why a guardian archive has lost a first-partnership name. Trials test choices through concrete obligations, with different ways to demonstrate wisdom, care or courage. The central seal offers clues and difficult decisions, not permission to rewrite every timeline or revive every deleted life. Powerful defenders should be encountered through clear warnings and meaningful options rather than random early-game ambushes.",
+    "x": 2,
+    "y": 0,
+    "realm": "Digital World",
+    "factions": [
+      "Four Sovereigns",
+      "Sacred Stone Wardens",
+      "Homeostasis Custodians",
+      "Crest and Digimental Keepers",
+      "First Light Interworld Accord",
+      "Independent Digimon"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 35,
+      "max": 90
+    },
+    "images": {
+      "map": {
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/digimon-regions-20261004/digimon/region-images/sovereign-frontiers.jpg",
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        }
+      }
+    }
+  },
+  "First Light Archipelago": {
+    "name": "First Light Archipelago",
+    "basicInfo": "Original campaign region. Islands formed around surviving memories of first meetings rise from a sea of drifting signals: lamps burn over Lantern Harbor, abandoned cradle rooms echo in Hollow Nursery, the Index Forest stores names among its roots, and Unsent Letter Beach gathers messages that never reached their recipients. Farther out stand the Choir's White Citadel and the First Light Observatory. Each island has residents, supplies and material consequences alongside its strange relationship with memory.\n\nLantern Harbor is an early refuge with caretakers, guides, workshops and a working trade routine. Aki Minase's Lantern Network helps people compare evidence and protect partners without claiming every recovered memory is perfectly accurate. Hollow Nursery needs careful treatment of living Digitama and frightened hatchlings. Names restored to records do not establish ownership over a Digimon; the individual and their wishes matter.\n\nRoutes are maintained by boats, beacon chains and authenticated gates. A path can become unreliable when its supporting records are damaged, but the change must leave observable clues and a practical way to investigate it. Guides carry ordinary charts, spare lamps and physical message copies alongside digital tools. A compatible Digivice can monitor an earned route; it cannot invent a harbor or make every lost signal a safe teleport.\n\nThe Null Choir's Blank Spires attack recognition and relationship records, distinct from the Emperor's historical evolution-suppression towers. Mercy, Silence and Witness groups have different methods and conflicting motives. Dr. Nao Tsukishiro's citadel is a restricted late-arc destination, with entry dependent on established infiltration, invitation, rescue or assault preparations. The Observatory's deeper restoration systems remain locked until their safeguards and story milestones are satisfied.\n\nLocal quests range from returning an unrecognized nursery worker's name to exposing a forged farewell, rescuing a Blank-marked resident or choosing who should control a recovered archive. Repair requires evidence, resources and the affected person's participation. Recovery never forces affection, manufactures consent or silently changes the player's identity. Miracles and Destiny can open difficult earned possibilities, while the islands remain a place for meals, humor, disagreements, rest and durable new friendships.",
+    "x": -1,
+    "y": 0,
+    "realm": "Digital World",
+    "factions": [
+      "Lantern Network",
+      "Nursery Covenant",
+      "Null Choir",
+      "Choir Mercy Wing",
+      "Choir Silence Wing",
+      "Choir Witness Wing",
+      "First Light Interworld Accord",
+      "Independent Digimon"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 1,
+      "max": 65
+    },
+    "images": {
+      "map": {
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/digimon-regions-20261004/digimon/region-images/first-light-archipelago.jpg",
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        }
+      }
+    }
+  },
+  "Internet and Gate Lanes": {
+    "name": "Internet and Gate Lanes",
+    "basicInfo": "A traversable campaign interpretation of Internet routes: illuminated transfer platforms, signal tunnels, monitored junctions and the stormy Lost Packet Sea connect established endpoints. Gate Junction Station supplies charts and message relays. Our War Game Network and Diaboromon Copy Basin preserve settings for deliberately selected movie expeditions or clearly explained surviving incidents, rather than making every email a doorway into the same historical battle.\n\nEntering requires an authenticated terminal, the right device or earned network-travel protocol, and a verified destination. Opening a gate and safely navigating within a network are separate tasks. An Adventure Digivice alone does not provide universal access. The realm remains closed until a route is discovered and stabilized; nearby map markers do not create a public footpath from Tokyo into cyberspace.\n\nNetwork travelers have actual boundaries: bandwidth congestion, dropped messages, closed relays, damaged identity checks and endpoints under hostile control. A notice can be forged, and a friendly voice can be an imitation. Establish which body or digital representation has entered, what happens to the human outside, and how the party returns. Never treat a saved recording, copied avatar and living partner as automatically the same entity.\n\nTransport workers, rescue crews and independent Digimon maintain useful services. Ordinary couriers can carry duplicated instructions or emergency supplies, while specialized allies handle major routing failures. Lost Packet Sea expeditions need a beacon trail, an active rescue contact and a way to keep identities and evidence linked. A delay is not a license to arbitrarily age the party or change the agreed Earth-time conversion.\n\nQuests can trace a corrupted nursery shipment, repair a station, verify a claimed Gennai dispatch or interrupt a finite Diaboromon copy source. Omnimon's debut and Imperialdramon Paladin Mode's movie conditions belong to their specific earned routes; visiting a battle record grants neither. Large attacks can destroy useful infrastructure or sever the return lane. Careful scanning, controlled combat, evacuation and source isolation offer alternatives to brute force.",
+    "x": 0,
+    "y": 0,
+    "realm": "Network Realms",
+    "factions": [
+      "International Chosen Network",
+      "Lantern Network",
+      "Gennai's Agents",
+      "Diaboromon Copy Swarm",
+      "Digital Traders Guild",
+      "Independent Digimon"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 10,
+      "max": 80
+    },
+    "images": {
+      "map": {
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/digimon-regions-20261004/digimon/region-images/internet-and-gate-lanes.jpg",
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        }
+      }
+    }
+  },
+  "Dark Ocean": {
+    "name": "Dark Ocean",
+    "basicInfo": "A salt-heavy, liminal shore under a dim horizon, with black water, abandoned structures and lights that seem farther away when approached. Dark Ocean Shore and the campaign's Deep One Settlement are exploration anchors inspired by Adventure 02's unsettling encounters. Kari's experience and the series' unresolved imagery are important history, but the campaign should not present a newly invented complete cosmology as a settled television fact.\n\nCalls, dreams or unusual light may alert someone to a possible route. They do not prove consent to travel or give an outside force automatic control of the player. The realm is sealed at the start. Entry requires a discovered threshold, a reason to investigate, a compatible stabilizing method and a prepared return anchor; an ordinary beach walk or water-type attack cannot cross this boundary.\n\nEstablish what can actually be observed: tide lines, structures, tracks, voices, reflections and the behavior of encountered residents. A settlement may contain individuals with different intentions. Similarity to a name, symbol or feared legend is evidence to investigate, not permission to label every inhabitant a servant of one known villain. The player can negotiate, retreat, seek outside help or limit an expedition to the accessible shore.\n\nPreparation includes a cooperating partner, lights, food, medical supplies, communication checks and a finite search plan. Swimming and underwater breathing need suitable equipment or a real compatible form. Light-themed moves have their recorded reach, cost and effect; they do not automatically cleanse the whole realm. A Digivice signal can fail under an established interference condition, but a working return anchor should not be removed merely to force a horror scene.\n\nStories can examine a repeated distress call, recover a witness's missing name, identify a false memory or rescue someone drawn toward the water. The Null Choir may exploit a damaged coastal archive only when evidence establishes its presence; it is not declared the source of every ancient danger here. Partial answers, uncertain testimony and lasting precautions preserve the region's mystery. Any madness, possession, binding or memory alteration requires a defined, resistible campaign effect and a recovery path.",
+    "x": 0,
+    "y": 1,
+    "realm": "Network Realms",
+    "factions": [
+      "Dark Ocean Enclave",
+      "Lantern Network",
+      "Independent Digimon"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 30,
+      "max": 90
+    },
+    "images": {
+      "map": {
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/digimon-regions-20261004/digimon/region-images/dark-ocean.jpg",
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        }
+      }
+    }
+  },
+  "Adventure Future Archives": {
+    "name": "Adventure Future Archives",
+    "basicInfo": "Authenticated branch gates provide selected Adventure film expeditions beyond the default post-Adventure 02 present. tri. Odaiba Archive, Kizuna Memory Sphere and The Beginning Egg Canopy are campaign entry anchors for distinct premises and dates, not three neighboring districts of contemporary Tokyo. Each gate is closed until its source, era, destination and stabilizer have been established.\n\nThe tri. route can examine Meiko and Meicoomon, infection, contested protection, the reboot and the cost of choices across its six chapters. A selected crisis preserves the relevant characters' identities and source-qualified forms. The player may investigate, help with evacuation or seek a different outcome through actual preparation, without being assigned someone else's decisions or a compulsory sacrifice.\n\nLast Evolution Kizuna can open an opt-in future investigation of bonds, growth, separation and constructed refuge. Reaching adulthood in the core campaign does not automatically delete the player's partner. If the branch begins with the film's premise, establish its evidence and rules for that expedition, then let the player's actions matter within the agreed adaptation. A recovered image or simulated childhood is not proof that a living person has consented to stay there.\n\nThe Beginning route explores Rui, Ukkomon and the particular account surrounding their relationship and large-scale Digi-Egg imagery. Do not silently declare every previously established partnership artificial. A genuine living egg needs safe handling and a verified individual history; an image of countless eggs does not award an unlimited partner inventory.\n\nVisits require a named destination and a return plan, with local time and ordinary-world circumstances recorded. Cast members keep their ages, families, established partners and relationships for the selected era. Powers and modes follow their own records: Meicoomon's corrupted progression is not healthy routine training, and a film-specific apex requires its actual route. Quests can protect witnesses, test a dangerous theory, compare contradictory memories or rescue a threatened bond. Concluding one expedition does not overwrite all other archives or force its future on the default timeline.",
+    "x": 0,
+    "y": 0,
+    "realm": "Archive Branches",
+    "factions": [
+      "Future Film Investigators",
+      "Adventure DigiDestined",
+      "Adventure 02 DigiDestined",
+      "Homeostasis Custodians",
+      "Independent Digimon"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 20,
+      "max": 90
+    },
+    "images": {
+      "map": {
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/digimon-regions-20261004/digimon/region-images/adventure-future-archives.jpg",
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        }
+      }
+    }
+  },
+  "Tamers Shinjuku": {
+    "name": "Tamers Shinjuku",
+    "basicInfo": "A separate Tamers continuity where city parks, school routes and hideouts coexist with Hypnos surveillance, the Monster Makers' history and a dangerous digital frontier. Shinjuku Park Hideout, Hypnos Command Center, D-Reaper Quarantine and Runaway Locomon Line provide established campaign anchors. The branch stays closed until an authenticated coordinate and stabilizer open a visit to a stated era.\n\nTakato and Guilmon, Henry and Terriermon, Rika and Renamon, Jeri, Calumon and their allies retain distinct identities. Henry's Terriermon is not Willis's partner from an Adventure film. Impmon's choices, growth and recovery require their own source context; a visitor does not automatically gain Beelzemon's story or its power by meeting the species.\n\nD-Power/D-Ark card tactics require the appropriate device, actual cards, compatible effects and an established opportunity to use them. Human-partner Biomerge is a qualified Tamers system with its own consent and progression, not a feature unlocked by importing a D-3. The campaign may preserve a visiting partner's ordinary Rookie resting rule while honoring established Tamers resting-form exceptions for local individuals.\n\nHypnos can provide intelligence and monitored access while also raising questions about authority and trust. Monster Makers may explain a system without knowing every answer. The D-Reaper is a distinct threat whose active crisis must be selected and staged; it is not a harmless random resident or an alternative name for the Null Choir. Quarantine entry requires clearance, protection and a verified extraction route.\n\nEarly scenes can involve partner concealment, card practice, a small digital anomaly or building trust with a local investigator. Later expeditions may follow Runaway Locomon or a deliberately selected Battle of Adventurers-related incident. Trains, passengers, communications and physical rescue plans still matter. Branch encounters can connect thematically to lost recognition, but any actual Choir intrusion needs evidence and a breach route. Return travel preserves which person's memories, body and device came from which world.",
+    "x": 1,
+    "y": 0,
+    "realm": "Archive Branches",
+    "factions": [
+      "Tamers and Hypnos",
+      "Hypnos",
+      "Monster Makers",
+      "D-Reaper",
+      "Independent Digimon"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 8,
+      "max": 85
+    },
+    "images": {
+      "map": {
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/digimon-regions-20261004/digimon/region-images/tamers-shinjuku.jpg",
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        }
+      }
+    }
+  },
+  "Frontier Spirit Trails": {
+    "name": "Frontier Spirit Trails",
+    "basicInfo": "Trailmon tracks cross a Digital World shaped by Spirit traditions, contested domains and the legacies of the Ten Legendary Warriors. Trailmon Terminal, Ten Spirits Sanctuary and the Island of Lost Digimon form the campaign's entry points. This is an explicitly opened Frontier branch, with its own history; a railway on File Island does not automatically connect to it.\n\nTakuya, Koji, Zoe, J.P., Tommy, Koichi and appropriate local allies keep their established roles. Human Spirit evolution differs from an Adventure-style human with a separately evolved partner. A visitor may investigate a Spirit route or train with a mentor only after the correct access, device, Spirit data and personal conditions are established. Owning a Crest or finding an ordinary Armor Digi-Egg does not grant that transformation.\n\nHuman, Beast and later combined Spirit routes retain their particular classifications and requirements. A transformation changes the active body and its actual movement, attacks and defenses. Susanoomon is a qualified high-order route with the required participating Spirit data and conditions, not a reward for buying a Trailmon ticket. Fusion and separation preserve the participants' identities and limitations.\n\nTravel depends on operating trains, safe stations, guides and the political situation along a line. Tickets or a local agreement, provisions, missed connections and blocked tracks can shape an expedition. Spiritless visitors and resting partners still need practical protection from cold, falls and hostile territory. A sealed sanctuary remains closed until its recorded wardens or trials permit entry.\n\nStories can repair a railway, return stolen Spirit records, mediate a dispute or explore the selected Island of Lost Digimon film premise. The celestial guardians' conflicts and Lucemon's actions belong to the chosen era; they need not all be active at once. Local rescue, negotiation and careful restoration can matter more than overwhelming a guardian. An archive crossing has a stated return endpoint, and learning about Frontier does not replace the player's original partner or rewrite the core Adventure setting.",
+    "x": 2,
+    "y": 0,
+    "realm": "Archive Branches",
+    "factions": [
+      "Frontier Spirit Guardians",
+      "Three Celestial Guardians",
+      "Lucemon's Crusaders",
+      "Independent Digimon"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 12,
+      "max": 90
+    },
+    "images": {
+      "map": {
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/digimon-regions-20261004/digimon/region-images/frontier-spirit-trails.jpg",
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        }
+      }
+    }
+  },
+  "Data Squad and DATS": {
+    "name": "Data Squad and DATS",
+    "basicInfo": "An opened Data Squad/Savers branch combines monitored human-world incidents with DATS operations and a separate digital frontier. DATS Headquarters provides briefings, equipment checks, detention questions and mission support. Yggdrasil Access Frontier is a restricted campaign destination requiring a stated era and route; proximity to the headquarters marker does not make it publicly accessible.\n\nMarcus and his Agumon, Thomas and Gaomon, Yoshino and Lalamon, Keenan and Falcomon have their own relationships and histories. The Data Squad Agumon and Falcomon records remain distinct from similarly named species variants in other sources. Local members can cooperate with a visiting DigiDestined while questioning their unfamiliar device, authority or proposed treatment of a Digimon.\n\nDigisoul/DNA activation, Digivice iC and Burst access follow qualified branch rules. An ordinary Adventure partner cannot receive every Burst form by entering the region. Human courage can support a scene without making an untrained visitor automatically able to punch any Mega into submission. Training, the proper body, earned forms, device compatibility and partner agreement establish what is actually possible.\n\nDATS missions distinguish an actual offender from a lost traveler, coerced resident or frightened independent Digimon. Local staff may offer diagnosis, monitored transport and recovery support, but a containment order is not proof that a creature lacks agency. Food, medicine, communications and a functioning return endpoint remain part of every expedition. A higher temporary form has a finite cost and must eventually recover.\n\nStories can inspect conflicting incident reports, rescue a missing field team, challenge misuse of a control system or uncover why two departments disagree about a civilian's memories. Yggdrasil-related conflict belongs to the selected story phase, rather than becoming the universal ruler of every continuity. The Burst Mode film premise may open as its own deliberate expedition. Branch travel needs a verified stabilizer and checkpoint; a DATS badge does not unlock other realms, command the original teams or substitute for an earned evolution route.",
+    "x": 3,
+    "y": 0,
+    "realm": "Archive Branches",
+    "factions": [
+      "DATS",
+      "Yggdrasil System Enforcers",
+      "Independent Digimon",
+      "Future Film Investigators"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 15,
+      "max": 90
+    },
+    "images": {
+      "map": {
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/digimon-regions-20261004/digimon/region-images/data-squad-and-dats.jpg",
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        }
+      }
+    }
+  },
+  "Fusion and Hunters Zones": {
+    "name": "Fusion and Hunters Zones",
+    "basicInfo": "This campaign region is an index of distinct Xros Wars/Fusion zones and a separately selected Hunters-era route. Green Zone Assembly and Bagra Fortress Border serve the zone-war branch; DigiQuartz Crossing serves the later time-space hunting premise. Choose the destination and era before crossing. These anchors share an atlas entry without pretending all their worlds and events form one walkable neighborhood.\n\nMikey/Taiki, Shoutmon, their allies and the competing commanders have particular teams, histories and goals. Xros Heart and Blue Flare can cooperate or disagree; Bagra forces are encountered only when their presence fits the selected era. Local residents need food, shelter and repairs even when larger armies pursue strategic objectives. The player can support a community without joining whichever commander speaks first.\n\nAn Xros Loader and a compatible earned protocol coordinate DigiXros. Participating Digimon must actually be available and willing, with a recorded assembly, resource cost and separation rule. Members do not become permanently owned equipment, and a visiting Adventure Digivice does not unlock every formation. Similarly named Xros-era species variants keep their particular bodies and source records.\n\nZone travel requires an established transfer route, permission or a recovered access mechanism. Front lines, occupied outposts and fortified boundaries are genuinely locked while their recorded obstacles remain. Supply caravans, scouts, engineering crews and negotiation offer alternatives to direct assault. Large combined forms can struggle with narrow passages or recovery needs, making ordinary team skills useful.\n\nHunters expeditions establish the DigiQuartz boundary, the outside-world body and time conditions, and a safe exit. A hunt needs a real target and reason; independent Digimon are not automatically loot or criminals. Stories can extract civilians, restore a supply route, find a coerced team member or trace a missing memory across an actual boundary breach. Defeating one faction does not award all its leaders' partners, revive defeated commanders or collapse unrelated zones into the Adventure timeline.",
+    "x": 4,
+    "y": 0,
+    "realm": "Archive Branches",
+    "factions": [
+      "Xros Heart",
+      "Blue Flare",
+      "Bagra Army",
+      "Twilight",
+      "DigiQuartz Hunters",
+      "Independent Digimon"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 12,
+      "max": 90
+    },
+    "images": {
+      "map": {
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/digimon-regions-20261004/digimon/region-images/fusion-and-hunters-zones.jpg",
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        }
+      }
+    }
+  },
+  "Ghost Game Hologram City": {
+    "name": "Ghost Game Hologram City",
+    "basicInfo": "A Ghost Game branch where ordinary streets, dormitories, school routines and online rumors meet unsettling Digimon incidents. Hazakura Academy provides a familiar student setting, while Hologram Market is an original campaign rendezvous for discreet trade and information. The city is accessible only after its continuity, era and crossing protocol have been authenticated.\n\nHiro and Gammamon, Ruli and Angoramon, and Kiyoshiro and Jellymon have distinctive partnerships and social lives. Familiar species or a visual resemblance does not transfer those companions to a visiting player. Local investigations begin with concrete symptoms, witness accounts and the possibility of a misunderstood resident, not an automatic assumption that every unusual event is deliberate cruelty.\n\nDigivice-V/VV materialization and the branch's encounter-space rules need compatible equipment and an established route. Seeing a hologram does not prove the player's body has crossed into the same space. An unfamiliar device can be studied or adapted through an earned campaign quest, but picking it up grants neither every form nor control over someone else's Digimon.\n\nInvestigations can follow a disappearing meal, a repeated voice in a dormitory corridor, an exhausted worker being targeted or a rumor attached to a genuine missing person. Explain the actual attack or condition, its limits and what counters it. Illusion, disguise, hunger, possession and core damage are different problems. Local conversations, mediation, tracing evidence and rescuing a victim can resolve cases alongside combat.\n\nThe city still needs hospital visits, school permission, quiet partner care, shopping and a way home. Suspense can increase through evidence while keeping the player's dialogue, choices and relationships their own. Gammamon's particular line and darker developments retain source-qualified conditions rather than becoming a free route for every Rookie. A Null Choir connection, if used, must be demonstrated through a real crossing and specific evidence. Concluding a case should leave changed relationships and practical follow-up rather than resetting every witness for another identical mystery.",
+    "x": 0,
+    "y": 1,
+    "realm": "Archive Branches",
+    "factions": [
+      "Ghost Game Investigators",
+      "Digital Traders Guild",
+      "Independent Digimon"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 5,
+      "max": 80
+    },
+    "images": {
+      "map": {
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/digimon-regions-20261004/digimon/region-images/ghost-game-hologram-city.jpg",
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        }
+      }
+    }
+  },
+  "Appmon Network": {
+    "name": "Appmon Network",
+    "basicInfo": "An explicitly opened Appmon continuity of application services, user communities, interfaces and hidden network conflicts. Appmon Terminal Square is the campaign's contact point for local app beings and their human allies. Visiting requires a verified branch coordinate and compatible crossing equipment; an ordinary phone application in Odaiba is not automatically an entrance.\n\nAppmon are software beings with Standard, Super, Ultimate and God grades. Their classification is separate from the Fresh-to-Mega Digimon growth ladder and the campaign's qualified Ultra tier. A similarly named grade does not establish the same biology, combat profile or evolution method. Haru, Gatchmon and their local allies retain their own identities, devices and partnerships.\n\nApp Drive/Duo functions, Appmon Chips, compatible App Fusion and the relevant grade conditions govern local progression. An Adventure Digivice, a Crest or an Armor Digi-Egg does not grant every app protocol. A visiting Digimon can interact with this community as an individual while device adapters or defensive tools are researched through actual evidence and assistance.\n\nServices can fail for practical reasons: an altered permission, a hijacked interface, false reviews, a compromised route or a malicious actor. A scanner's report is useful evidence, not a universal verdict about a resident's intentions. Search, navigation, messaging and medical-themed app beings have their recorded abilities and limits; their names do not authorize perfect knowledge, effortless teleportation or complete healing.\n\nQuests can restore a community service, expose a forged identity notice, investigate Leviathan-related influence in the selected era or protect a frightened application being from exploitation. Keep the local users affected by an outage visible through concrete consequences. Visitors need a clear account of whether they are physically present or using a defined representation, with a verified return route. Any connection to the First Light mystery is an original, evidence-based crossover and preserves the Appmon branch's own history and transformation system.",
+    "x": 1,
+    "y": 1,
+    "realm": "Archive Branches",
+    "factions": [
+      "Appmon Allies",
+      "Leviathan System",
+      "Independent Digimon"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 5,
+      "max": 80
+    },
+    "images": {
+      "map": {
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/digimon-regions-20261004/digimon/region-images/appmon-network.jpg",
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        }
+      }
+    }
+  },
+  "X-Evolution Refuge": {
+    "name": "X-Evolution Refuge",
+    "basicInfo": "A selected X-Evolution/X-Program branch of displaced communities, patrol routes, hidden shelters and arguments about who is permitted to survive. The X-Antibody Refuge is a campaign rendezvous that offers a practical foothold in this distinct continuity. Entry remains closed until the branch era, access method and extraction plan are established.\n\nX-Antibody status is a particular condition with recorded species variants and source context. An X form is not simply a stronger recolor available to every partner after one battle. Establish how an individual acquired the relevant data, whether the current body supports it and which learned routes it possesses. An ordinary visiting companion does not receive universal protection from every purge or automatically become X-evolved.\n\nDorumon's story, the Royal Knights' conflicting positions and Yggdrasil-related authority belong to the chosen expedition. Individual Knights can disagree; membership does not determine identical motives. Their powerful bodies, techniques and source-qualified high-order routes should appear with clear danger signals rather than as casual early-game recruits.\n\nRefuge communities need food, medical support, safe passage and truthful records. Their residents can negotiate, work, volunteer, refuse a tamer relationship or disagree with a rescue plan. Patrol barriers and quarantine crossings are closed until a documented permission, disguise, alternative route or negotiated resolution overcomes them. A rare attribute or unfamiliar core is not itself evidence of hostile intent.\n\nStories can escort a vulnerable group, test a claimed sanctuary, expose a false clearance document or preserve a threatened individual's name and lineage records. Survival technology has finite capacity and maintenance needs. First Light memory erasure can enter only through a demonstrated cross-branch breach; it does not become the explanation for the entire X-Program. Returning home preserves the visitor's earned adaptations and their actual limitations, without automatically importing the branch's catastrophe into Adventure's default present.",
+    "x": 2,
+    "y": 1,
+    "realm": "Archive Branches",
+    "factions": [
+      "X-Antibody Refugees",
+      "Royal Knights",
+      "Yggdrasil System Enforcers",
+      "Independent Digimon"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 25,
+      "max": 90
+    },
+    "images": {
+      "map": {
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/digimon-regions-20261004/digimon/region-images/x-evolution-refuge.jpg",
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        }
+      }
+    }
+  },
+  "Liberator and New Horizons": {
+    "name": "Liberator and New Horizons",
+    "basicInfo": "An expandable atlas index for verified later card, game and web-story settings, with Liberator Contact Arena as the established rendezvous. Seekers Archive remains an existing contact location under this region for compatibility, while the separate Seekers Urban Network entry gives that continuity fuller context. New horizons open only through a researched source, a named destination and an authenticated campaign gate.\n\nLiberator-related expeditions preserve their local participants, card rules, partners and the distinction between a game interface and a living entity. A card, representation, simulation record and physically present Digimon are not interchangeable. Establish what a visitor is controlling, which participants have agreed, and what a loss or disconnect actually means before a duel begins.\n\nFriendly matches can build relationships, test tactics and introduce unusual forms without awarding ownership of another person's partner. Card effects operate within the declared ruleset. They do not automatically become permanently learned field abilities or permit an Adventure Digivice to summon any printed species. Cross-media move records remain source-qualified, with an individual's learned subset kept separate from the full catalog.\n\nLocal scenes can involve tournament logistics, a damaged contact terminal, a disputed identity record, an invitation from a cautious new ally or a player investigating a suspicious packet. Rest spaces and interviews matter alongside combat. Any physical expedition needs supplies, suitable protection and an active exit, while a remote session needs a clear record of the body and partner outside it.\n\nThis index can admit additional later material after verification without rewriting existing characters or merging every continuity. Iliad and Time Stranger, Seekers and other already registered branches retain their own destinations and requirements. First Light connections are original campaign hooks supported by evidence: a missing participant name, an altered match archive or a genuinely crossed signal. The existence of a new series is not a free unlock for its devices, supreme forms or final villains.",
+    "x": 3,
+    "y": 1,
+    "realm": "Archive Branches",
+    "factions": [
+      "Liberator Contact Network",
+      "Seekers Contact Network",
+      "Tamer Union",
+      "Independent Digimon"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 5,
+      "max": 85
+    },
+    "images": {
+      "map": {
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/digimon-regions-20261004/digimon/region-images/liberator-and-new-horizons.jpg",
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        }
+      }
+    }
+  },
+  "File City Restoration Lands": {
+    "name": "File City Restoration Lands",
+    "basicInfo": "A Digimon World-inspired game branch built around File City's decline and restoration. A modest settlement expands through willing recruits who open shops, a clinic, food services, training facilities, transport and other useful work. Its surrounding forests, plains, factories, cold routes and dungeon approaches belong to the selected game atlas; this File City history is not automatically the same as Adventure's File Island history.\n\nJijimon and the restoration community can introduce the visitor to local needs. Recruitment means solving an individual's problem, offering a suitable role and arranging housing or resources, not winning permanent ownership of a defeated Digimon. A resident who becomes a cook, guard, farmer or shopkeeper still has a name, habits, relationships and the right to refuse an unreasonable request.\n\nPartner care brings Digimon World-style routines into play: meat or suitable food, clean water, rest, toilet access, medical attention and training with recovery. The clinic and supply shops can offer finite healing, MP/DP support, bandages and practical equipment under the imported item records. A Training Manual, portable toilet or recovery item must be acquired; mentioning a service in the regional description does not place it automatically in the player's inventory.\n\nEvolution follows the selected individual's source-qualified care and training routes. Game-style lifespan and rebirth systems may be used when the player deliberately chooses that origin or mode. Merely visiting the town does not impose a sudden death timer, erase an Adventure partner's learned routes or replace its recorded Rookie resting base. Unwanted growth requires established causes and a practical response rather than punishment for one missed snack.\n\nRestoration quests can reopen a clinic, repair a bridge, escort a merchant, stabilize a farm or recover an absent worker's name. Town prosperity should visibly change services and relationships. Analogman-related threats require the chosen story era or a documented surviving remnant. Clinics cannot restore every deleted core without evidence of a recoverable life. A branch gate remains closed until the destination and stabilizer are verified, with a concrete plan for the party's return to the First Light present.",
+    "x": 4,
+    "y": 1,
+    "realm": "Archive Branches",
+    "factions": [
+      "File City Restoration Council",
+      "Digital Traders Guild",
+      "DigiFarm Caretakers",
+      "Analogman Remnants",
+      "Independent Digimon"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 1,
+      "max": 65
+    },
+    "images": {
+      "map": {
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/digimon-regions-20261004/digimon/region-images/file-city-restoration-lands.jpg",
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        }
+      }
+    }
+  },
+  "Floatia and Next Order Frontier": {
+    "name": "Floatia and Next Order Frontier",
+    "basicInfo": "A Next Order branch centered on Floatia, a town whose useful facilities grow through the help of recruited Digimon. Developed streets, service buildings and training spaces contrast with dangerous outer regions and the threat of unstable transformations.\n\nLocal caretakers and recruited workers can offer medicine, food, equipment, cultivation, transport and training. Their presence changes what the town can actually provide. A newly opened service needs a willing worker, supplies and a reason to operate; prosperity is tracked through completed work rather than granted because the party arrived.\n\nNext Order's two-partner structure belongs to this selected game system. A visitor with one Adventure partner does not automatically receive a second companion. A deliberately chosen local tamer may build a consensual two-partner relationship, with each individual's hunger, rest, health, learned forms and preferences tracked separately. Teamwork can produce qualified local techniques only after the correct partners and conditions are established.\n\nDaily care includes appropriate food, toilet access, sleep, treatment and training that leaves time to recover. Rebirth and lifespan follow the chosen local mode; they are not silently imposed on every outside partner. Human-led temporary Adventure evolution still needs the bonded Digivice and earned route, and its reversion preserves injury and resource expenditure. Local facilities support recovery through an actual service, item or time interval.\n\nQuests can recruit a skilled resident, secure farmland, rescue a sick courier, investigate a dangerous transformation or repair a ruined route. Every task should have a visible practical result and a specific person affected. A local Machinedramon-related emergency needs evidence and an actual source of instability; a similar mechanical species is not automatically the same culprit. Expeditions beyond town require supplies and a return plan, and the Floatia gate remains locked until its continuity, era and stabilizer are confirmed.",
+    "x": 0,
+    "y": 2,
+    "realm": "Archive Branches",
+    "factions": [
+      "Floatia Reconstruction Guild",
+      "DigiFarm Caretakers",
+      "Digital Traders Guild",
+      "Independent Digimon"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 5,
+      "max": 80
+    },
+    "images": {
+      "map": {
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/digimon-regions-20261004/digimon/region-images/floatia-and-next-order-frontier.jpg",
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        }
+      }
+    }
+  },
+  "Digital City and Digi-Beetle Sectors": {
+    "name": "Digital City and Digi-Beetle Sectors",
+    "basicInfo": "A Digimon World 2-inspired game branch of guarded cities, server sectors, mission briefings and vehicle-supported dungeon exploration. Digital City acts as a service and social hub, while authorized Digi-Beetle expeditions enter identified sectors.\n\nGold Hawks, Blue Falcons and Black Sword retain their distinct organizational cultures. Their attribute associations guide local traditions without proving that Vaccine is virtuous, Virus is criminal or Data is trustworthy. Recruits and independent Digimon have individual reasons for serving, resisting or leaving an organization. A faction introduction does not require the player to abandon an existing partnership.\n\nA Digi-Beetle needs actual authorization or ownership, working parts, repairs and mission supplies. Its storage, protection and traversal functions are bounded by the selected game rules and the vehicle's established configuration. A missing key, damaged component or sector lock needs a concrete solution. Do not turn the vehicle into a universal safe house or automatic transport into other continuities.\n\nLocal recruitment, multi-partner teams and DNA-based growth must follow authenticated game records. DNA research and de-digivolution can differ from Adventure 02's Paildramon-style temporary fusion; record which protocol is active, the willing participants, resource cost and resulting identity. A successful laboratory procedure does not authorize every cross-media fusion or grant an instant apex form.\n\nMissions may rescue a stranded crew, escort repair parts, verify a corrupted sector map or investigate a Blood Knights-related threat in the selected era. Debriefings, friendships, equipment upkeep and neighborhood scenes provide time between expeditions. Visiting humans remain outside the Vaccine/Virus/Data damage triangle. The branch opens only after its source coordinate and stabilizer are verified, and a working Digi-Beetle cannot itself replace the return gate to Odaiba.",
+    "x": 1,
+    "y": 2,
+    "realm": "Archive Branches",
+    "factions": [
+      "Digital City Guard Teams",
+      "Gold Hawks",
+      "Blue Falcons",
+      "Black Sword",
+      "Blood Knights",
+      "Tamer Union",
+      "Independent Digimon"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 10,
+      "max": 85
+    },
+    "images": {
+      "map": {
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/digimon-regions-20261004/digimon/region-images/digital-city-and-digi-beetle-sectors.jpg",
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        }
+      }
+    }
+  },
+  "Asuka and Amaterasu Online Servers": {
+    "name": "Asuka and Amaterasu Online Servers",
+    "basicInfo": "A Digimon World 3/2003-inspired online-game branch with distinct server cities, field routes, transport access and hidden control problems. Asuka and Amaterasu are separate named server destinations within this atlas index. Select the server, local era and entry state before a journey; their names are not adjacent human-world neighborhoods or an automatic continuation of Adventure 02.\n\nMAGAMI-related services, ordinary tamers, shop workers and local partners provide a lively surface routine. Resistance activity and A.o.A. interference emerge through the selected storyline and evidence. Residents can be uninformed, frightened, complicit or actively helpful; membership in an institution should not determine every individual's intentions.\n\nEstablish whether the visitor has entered physically, through an authenticated digital representation, or under a selected game-origin premise. Record what remains outside, what a connection loss means and how the party exits. A Digimon partner's living identity, a game representation and copied data must stay distinct unless a specific source-qualified event establishes otherwise.\n\nLocal quests can involve a transport fault, a locked sector, an intercepted message, a suspicious tournament rule or a missing player. Shops and travel services need money, access and working infrastructure. Team rosters, equipment and evolution research follow this branch's game records. A participating tamer cannot take another person's partner as a reward, and merely opening an evolution menu does not grant a visiting Adventure Digimon every form listed.\n\nInvestigation and resistance work can offer several approaches: compare account records, persuade a worried employee, escort someone through a controlled route or disable a finite source of coercion. Sealed zones need their actual access item, authority or resolved obstacle. The server branch is locked until a verified coordinate and stabilizer are earned. Return travel preserves learned discoveries without importing all of its villains, rules or avatar assumptions into the First Light default present.",
+    "x": 2,
+    "y": 2,
+    "realm": "Archive Branches",
+    "factions": [
+      "MAGAMI Corporation",
+      "A.o.A.",
+      "Asuka and Amaterasu Resistance",
+      "Tamer Union",
+      "Independent Digimon"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 5,
+      "max": 90
+    },
+    "images": {
+      "map": {
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/digimon-regions-20261004/digimon/region-images/asuka-and-amaterasu-online-servers.jpg",
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        }
+      }
+    }
+  },
+  "Digital Card Battle Arenas": {
+    "name": "Digital Card Battle Arenas",
+    "basicInfo": "A Digital Card Battle-inspired game branch of arena communities, card shops, training tables and local rivals. Its campaign atlas treats each arena town as a social place with workers, spectators, transport and stories beyond a duel. An invitation to one arena is not universal clearance to every tournament or a physical summons of all Digimon depicted on cards.\n\nA beginner can learn a declared ruleset, assemble an actual deck and meet a mentor willing to explain its limits. Friendly rivals have personalities, preferred tactics and lives outside competition. A victory can earn information, reputation, a scheduled rematch or an agreed card reward. Living Digimon partners remain independent participants; ownership is not transferred by a card-game result.\n\nCard statistics and effects apply to the active match. They do not automatically become the species' field weaknesses, permanent learned attacks or digivolution history. If the game establishes a represented partner, record its relationship to any physically present individual. A visiting Adventure partner still uses its own body, learned move subset and bonded Digivice outside the duel.\n\nTournaments require entry permission, a legal deck, the posted conditions and a plausible venue. Shop purchases and trades use actual inventory, money and agreement. The player can question a disputed ruling, practice, volunteer with logistics or help a nervous competitor instead of being forced into a battle at every stop. Partner meals and rest continue between events.\n\nOriginal campaign quests can expose a counterfeit card shipment, trace an altered match log, repair an arena's equipment or investigate why a regular player has vanished from everyone's memory. The Null Choir can affect a real record only through a demonstrated breach, not by changing the rules whenever the party is winning. This branch remains locked until its coordinate and stabilizer are verified, with a concrete exit and a clear distinction between a tournament session and physical exploration.",
+    "x": 3,
+    "y": 2,
+    "realm": "Archive Branches",
+    "factions": [
+      "Tamer Union",
+      "Digital Traders Guild",
+      "Independent Digimon"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 1,
+      "max": 65
+    },
+    "images": {
+      "map": {
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/digimon-regions-20261004/digimon/region-images/digital-card-battle-arenas.jpg",
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        }
+      }
+    }
+  },
+  "Story DigiFarm and Union Lands": {
+    "name": "Story DigiFarm and Union Lands",
+    "basicInfo": "A regional index for selected Digimon Story/Digimon World DS and Dawn/Dusk game branches. Tamer Union communities, farms, field routes and mission contacts give the player a practical base. Light Fang and Night Crow belong to the appropriate Dawn/Dusk route, not every earlier Story setting. Choose the specific game and era before opening an expedition.\n\nDigiFarms are living workplaces with caretakers, habitats, food, training spaces and maintenance needs. A resident may enjoy research, gardening or preparing supplies without becoming the player's bonded partner. Farm recruitment needs agreement and capacity; it is not permission to warehouse unwilling Digimon or ignore the needs of different bodies.\n\nScanning, conversion, experience requirements and de-digivolution use the chosen game's source-qualified rules. A scan log records observed data and confidence. It does not automatically duplicate a famous living individual, carry all of their personal memories or authorize every catalog route. An Adventure visitor can study local methods, but its established identity and Rookie resting base change only through an explicitly chosen compatible procedure.\n\nMissions can support training, transport, rescue, investigation and local diplomacy. Light Fang and Night Crow can compete, cooperate or disagree in the selected phase without each member sharing one personality or moral alignment. Attribute advantage remains separate from organization. A field contains residents and resources, not only targets for repeated compulsory battles.\n\nOriginal First Light quests can restore damaged farm records, reunite a converted individual's authenticated history with its community, repair a route or expose a false mission notice. Harvests, training gains and supplies are finite, with rest and upkeep needed between sessions. The branch is closed until its destination and stabilizer are earned. Gate travel keeps the local game ledger and outside-world partner ledger clear rather than silently replacing one growth system with another.",
+    "x": 4,
+    "y": 2,
+    "realm": "Archive Branches",
+    "factions": [
+      "Tamer Union",
+      "DigiFarm Caretakers",
+      "Light Fang",
+      "Night Crow",
+      "Digital Traders Guild",
+      "Independent Digimon"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 3,
+      "max": 80
+    },
+    "images": {
+      "map": {
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/digimon-regions-20261004/digimon/region-images/story-digifarm-and-union-lands.jpg",
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        }
+      }
+    }
+  },
+  "Lost Evolution Tree Lands": {
+    "name": "Lost Evolution Tree Lands",
+    "basicInfo": "A Lost Evolution-inspired branch of broken route records, threatened communities and a damaged evolution-tree system. Its local Evolution Tree is a specific system, not proof that every Digimon continuity has one universal family tree.\n\nRestoration workers and local tamers gather evidence, recover damaged route information and help individuals whose available growth has been disrupted. A recovered record can describe a possibility without granting mastery. The partner still needs the correct lineage, active body, learned route, device or local protocol, resources and agreement.\n\nTree and plate restoration use the selected game's mechanics. Establish what an object actually stores, how damage is diagnosed and what preparation a repair requires. A similar crest symbol or an unidentified fragment does not automatically unlock a golden Armor, DNA combination or qualified Ultra. Keep published stages, alternative game branches and the visiting partner's individual progression distinct.\n\nRoutes can lead through excavation sites, field camps, archives and guarded passages. Equipment, medicine, food and a map are practical necessities. A safe workshop provides a place to rest, compare testimony and document changes before the next expedition. De-digivolution research is optional and source-qualified; it is not an unannounced reset of a beloved companion after a failed check.\n\nQuests can recover a particular missing plate, repair an authenticated route, identify a counterfeit record or help a Digimon choose between newly reopened possibilities. The Null Choir connection, if used, should target a demonstrated record or witness rather than make every local failure its doing. Reopening a route should be recorded as lasting progress with its actual requirements. This branch remains sealed until an authenticated coordinate, stabilizer and return endpoint establish a safe visit.",
+    "x": 0,
+    "y": 3,
+    "realm": "Archive Branches",
+    "factions": [
+      "Lost Evolution Tree Restorers",
+      "Tamer Union",
+      "DigiFarm Caretakers",
+      "Independent Digimon"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 8,
+      "max": 85
+    },
+    "images": {
+      "map": {
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/digimon-regions-20261004/digimon/region-images/lost-evolution-tree-lands.jpg",
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        }
+      }
+    }
+  },
+  "EDEN and Hudie Network": {
+    "name": "EDEN and Hudie Network",
+    "basicInfo": "A Cyber Sleuth and Hacker's Memory branch pairing human-world investigation with the digital spaces of EDEN. The Kuremi Detective Agency and Hudie's practical work provide different entry routes into the same selected game-era mystery. Districts, accounts, terminals and restricted zones are established through the active case; this network is not automatically the Internet setting of Our War Game.\n\nInvestigators, hackers, employees, ordinary users and independent Digimon can have conflicting interests. Hudie offers a human-scale social setting alongside technical work. Zaxon, Rebels, Kamishiro-related actors and public security require individual motives and current evidence, rather than an automatic good or evil assignment based only on a group label.\n\nEstablish whether the visitor is physically present, operating through a defined digital state or using a permitted representation. Account identity, embodied memory, copied files and living cores are distinct. A stolen login can be evidence of a crime without making every action from that account voluntary. A sealed server needs its actual clearance, route or resolved obstacle.\n\nCases can involve a missing user, forged evidence, a malfunctioning service, a disguised resident or a specific Eater-related threat. Eaters are not another name for the D-Reaper or Null Choir. Their active crisis belongs to the selected era. Detective work should offer interviews, observation, protected backups and meaningful counterevidence alongside controlled digital combat.\n\nDigiFarm care, scans, conversion and local evolution research follow the chosen game rules. They do not copy a named canon partner or grant all registered moves. An original First Light crossover can investigate a recovered memory that conflicts with an EDEN log, but it needs a demonstrated breach and cannot erase every game's history. The branch remains closed until an authenticated coordinate and stabilizer are earned, with a stated exit and practical protection for any body remaining outside the network.",
+    "x": 1,
+    "y": 3,
+    "realm": "Archive Branches",
+    "factions": [
+      "Kuremi Detective Agency",
+      "Hudie",
+      "Zaxon",
+      "Rebels",
+      "Kamishiro Enterprises",
+      "EDEN Public Security",
+      "Eater Swarm",
+      "Independent Digimon"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 8,
+      "max": 90
+    },
+    "images": {
+      "map": {
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/digimon-regions-20261004/digimon/region-images/eden-and-hudie-network.jpg",
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        }
+      }
+    }
+  },
+  "Survive Mistlands": {
+    "name": "Survive Mistlands",
+    "basicInfo": "A deliberately opened Digimon Survive branch of unfamiliar forests, deserted structures, uneasy shelters and roads that become dangerous in the mist. Its founding premise concerns a group lost during a school excursion, with Takuma and his local companions facing uncertain allies and a way home. This is a distinct game history and atmosphere, not an automatic explanation of Adventure's Digital World.\n\nThe group has different fears, loyalties and practical abilities. Local Kemonogami traditions are understood through the branch's witnesses and evidence; they do not redefine every Digimon in every continuity. A visitor can help with shelter, treatment, scouting or discussion without being assigned a protagonist's feelings or forcing a predetermined decision onto the group.\n\nRelationship choices and source-qualified progression matter. Moral, Wrathful and Harmony themes belong to the selected game system; they are not a replacement for Vaccine/Virus/Data attributes or the campaign's personal Crest quests. An individual partner's actual body, learned moves and consent govern its available actions. A thoughtful conversation can change trust without automatically unlocking every Mega.\n\nTravel emphasizes a clear headcount, food, rest, communications, safe paths and a prepared retreat from hazardous mist. Sealed ruins and dangerous thresholds require their actual access conditions. Establish signals of approaching danger before a major expedition. Failed plans can produce injuries, separation or difficult recovery work, with rescue options grounded in what happened; do not impose a source character's death simply because the film or game had a dramatic route.\n\nOriginal crossover quests can compare remembered names, recover a missing group member's belongings or investigate whether a contradictory witness account is mistaken or altered. The Null Choir requires an actual breach to enter this setting, rather than becoming the hidden source of all its ancient problems. The branch is locked until a verified coordinate and stabilizer allow a visit. Its time conditions and return route must be recorded so an emotionally intense scene cannot arbitrarily erase the player's outside-world life.",
+    "x": 2,
+    "y": 3,
+    "realm": "Archive Branches",
+    "factions": [
+      "Survive Expedition Survivors",
+      "Independent Digimon",
+      "Lantern Network"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 5,
+      "max": 85
+    },
+    "images": {
+      "map": {
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/digimon-regions-20261004/digimon/region-images/survive-mistlands.jpg",
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        }
+      }
+    }
+  },
+  "ReDigitize Restoration Frontier": {
+    "name": "ReDigitize Restoration Frontier",
+    "basicInfo": "A selected Re:Digitize or Decode game branch of city restoration, partner raising, damaged routes and investigations into digital instability. Its File City tradition resembles other Digimon World games while retaining its own cast, events and expanded material. Declare whether the expedition uses Re:Digitize or Decode before applying a source-specific route or encounter.\n\nTaiga and the relevant local allies keep their established partnerships and personalities. Mirei or another knowledgeable contact can explain a discovered crossing only within her actual role and available information; meeting an experienced traveler is not a grant of unrestricted access to every continuity. Visitors may support restoration, research or rescue without replacing the local protagonists.\n\nThe town's services depend on willing recruits, materials and working facilities. Clinics, food providers, shops and training spaces can supply finite help under the campaign's item and service rules. Meat, water, medicine, toilet access and sleep remain part of partner care. Care outcomes, lifespan and rebirth are governed by a deliberately selected game mode, not suddenly imposed on an outside Adventure partner.\n\nEvolution research uses authenticated records and the partner's actual compatible body. Decode-specific or other expanded options require their particular conditions. A database entry is a possibility to study, not a free learned transformation. An earned visit preserves the outside partner's identity, current injuries, learned routes and stable resting form unless a compatible, chosen procedure explicitly changes its ledger.\n\nQuests can repair a trade route, restore a damaged facility, investigate an unstable opponent or recover the history of a resident whom town records no longer recognize. The branch remains sealed until its coordinate and stabilizer are verified, and expeditions require a named exit instead of treating any city computer as a universal return gate.",
+    "x": 3,
+    "y": 3,
+    "realm": "Archive Branches",
+    "factions": [
+      "Re:Digitize Restoration Team",
+      "File City Restoration Council",
+      "DigiFarm Caretakers",
+      "Digital Traders Guild",
+      "Independent Digimon"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 5,
+      "max": 85
+    },
+    "images": {
+      "map": {
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/digimon-regions-20261004/digimon/region-images/redigitize-restoration-frontier.jpg",
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        }
+      }
+    }
+  },
+  "Adventure 2020 Frontiers": {
+    "name": "Adventure 2020 Frontiers",
+    "basicInfo": "An alternate Adventure reboot branch with its own digital landscapes, ancient conflicts, network incidents and chosen-team history. The familiar names of Tai, Matt and the other children do not make these counterparts the same individuals as the 1999/2002 team's default campaign cast. Entry requires a clearly identified 2020 continuity, destination and era.\n\nWide wilderness, ruined sanctuaries, inhabited settlements and dangerous data frontiers provide exploration distinct from the core File Island route. A familiar partner species may have different experiences and source-qualified growth in this branch. Keep the active individuals, their bonds and their learned transformations tied to this history rather than collecting every counterpart into one combined roster.\n\nVisitors can scout, protect civilians, restore a local passage or investigate a network disturbance alongside the local team. Ancient-war claims and major threats should be established by relevant witnesses, surviving records and the chosen story phase. Do not activate every final adversary at once or award an apex form merely because it appeared somewhere in the reboot.\n\nLocal flights, sea crossings and wilderness journeys need bodies capable of that movement, finite energy and a safe resting route. A visiting Adventure partner's temporary higher form can expire, returning it to its recorded Rookie base with injuries and expenditure intact. Local counterparts follow their established records and exceptions. Large battlefield scenes should preserve cover, warnings, evacuation and meaningful objectives besides destruction.\n\nA First Light connection can compare divergent accounts of a first partnership, but an alternate memory is not automatically a lie or proof that someone has been replaced. Cross-branch travel remains locked until its authenticated coordinate and stabilizer are earned, with a clear return endpoint and no silent rewriting of the original team's past.",
+    "x": 4,
+    "y": 3,
+    "realm": "Archive Branches",
+    "factions": [
+      "Adventure DigiDestined",
+      "Homeostasis Custodians",
+      "Independent Digimon",
+      "Future Film Investigators"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 10,
+      "max": 90
+    },
+    "images": {
+      "map": {
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/digimon-regions-20261004/digimon/region-images/adventure-2020-frontiers.jpg",
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        }
+      }
+    }
+  },
+  "Seekers Urban Network": {
+    "name": "Seekers Urban Network",
+    "basicInfo": "A Seekers branch of crowded human streets, specialist work, private terminals, digital investigations and contested security operations. The existing Seekers Archive contact remains under Liberator and New Horizons for compatibility; this new region supplies a fuller destination for a separately opened expedition. A named local rendezvous and era must be authenticated before travel.\n\nEiji Nagasumi, known as Fang, and Loogamon have their own developing partnership and source-qualified line. They are not an alternate owner or mandatory evolution route for the player's companion. Crackers, security personnel, clients and independent Digimon have concrete motives and different levels of trust; a posted contract may be misleading or exploitative.\n\nDigimon Linker and Mindlink-related systems require their appropriate equipment, permissions, compatibility and established safeguards. A visiting Adventure Digivice cannot perform those functions automatically. Define whose body remains outside, what connection is active, the willing participants, duration limits and a functioning exit. A signal copied from someone's voice is not consent to enter their memories or use their partner.\n\nInvestigations can examine a dubious capture request, a corrupted work log, a missing courier or an inconsistency between a security report and a living witness. Digital Security Guard activity and D-Brigade involvement belong to the chosen source phase rather than universal jurisdiction over the other realms. A mechanical body, dark coloring or Virus attribute does not establish guilt.\n\nFirst Light interference needs a demonstrated breach, with recognition damage kept distinct from a connection fault or ordinary deception. Supplies, pay, equipment repair, rest and the relationship between client and worker can matter between crises. The gate stays closed until its coordinate and stabilizer are verified, preserving both the visitor's identity and the local branch's history.",
+    "x": 0,
+    "y": 4,
+    "realm": "Archive Branches",
+    "factions": [
+      "Seekers Contact Network",      "Digital Security Guard",
+      "D-Brigade",
+      "Digital Traders Guild",
+      "Independent Digimon"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 15,
+      "max": 90
+    },
+    "images": {
+      "map": {
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/digimon-regions-20261004/digimon/region-images/seekers-urban-network.jpg",
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        }
+      }
+    }
+  },
+  "Iliad and Time Stranger": {
+    "name": "Iliad and Time Stranger",
+    "basicInfo": "A verified Time Stranger-related branch between its human-world setting and Digital World: Iliad, with Central Town as a recognizable local destination. Its parallel-world and temporal mystery is separate from Adventure's default history.\n\nADAMAS contacts, Olympos XII/Olympus XII-related powers and resident communities appear according to the selected game era. The campaign's registered Olympus XII and Titans of Iliad factions provide role hooks without making every member an ally, enemy or subordinate of Adventure's Sovereigns. A familiar mythological title or species name does not merge separate source individuals.\n\nOriginal visiting-party scenes can begin with an interview, a damaged crossing, a disputed record or a town needing practical aid. Central Town supplies a social base for meals, lodging, equipment and local introductions when those services are established. Partner raising, training and evolution research use the branch's actual records while preserving the visitor's identity and individually earned routes.\n\nEvery temporal passage needs a discovered mechanism, a specific destination date or state, an established body and resource cost, and an authenticated return condition. Owning the campaign's Crest of Destiny does not grant unlimited time travel or authority to rewrite other people's lives. A changed recollection is evidence to test against an independent record, not automatic proof that history has been replaced.\n\nFirst Light crossover quests are original adaptations: compare two legitimate accounts of a first bond, protect a record before a crossing fails, or investigate whether a memory discrepancy came from local temporal circumstances or a demonstrated Choir breach. Outcomes remain in the selected branch unless the player explicitly chooses a compatible consequence for the core world. The gate is sealed until its source coordinate and stabilizer are earned, and defeating a powerful local opponent never grants every supreme form or retroactive control of the entire atlas.",
+    "x": 1,
+    "y": 4,
+    "realm": "Archive Branches",
+    "factions": [
+      "ADAMAS",
+      "Olympus XII",
+      "Titans of Iliad",
+      "Independent Digimon",
+      "First Light Interworld Accord"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 20,
+      "max": 90
+    },
+    "images": {
+      "map": {
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/digimon-regions-20261004/digimon/region-images/iliad-and-time-stranger.jpg",
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        }
+      }
+    }
+  },
+  "Golden Digimental Highlands": {
+    "name": "Golden Digimental Highlands",
+    "basicInfo": "Original campaign region. High terraces, windy bridges, sheltered pilgrim houses and golden-lit chambers preserve leads concerning Miracles and Destiny. The highlands extend the campaign's relic quests without claiming to be a previously named television location. Their keepers maintain records of artifacts, compatibility, custody and the choices required to approach a sealed chamber.\n\nLiving Digitama are cared for in protected shelters when an expedition brings them here. They remain distinct from Armor Digi-Eggs/Digimentals, which store an earned evolution protocol for a compatible existing partner. A golden relic is not an unborn Magnamon or a universal resurrection egg. A nursery record, a relic provenance record and a person's Crest attunement are three different things.\n\nThe personal Crests of Miracles and Destiny are attainable original campaign paths, separate from the established golden Armor Digi-Eggs. Miracles tests costly, practical hope when a rescue appears impossible; it does not make every wish come true. Destiny concerns perceiving possibilities and choosing responsibly; it does not control another person's future. A player can pursue both through separate earned arcs without beginning as a master of either.\n\nVerified golden Armor examples retain their actual classification: compatible Veemon plus the Miracles Digimental can reach Magnamon, while compatible Terriermon plus Destiny can reach golden Rapidmon Armor. Green Rapidmon's Ultimate growth route is separate. A Poyomon-line partner or any other chosen companion needs its own recorded, compatible route; crest affinity alone does not make every species eligible for these two forms.\n\nChambers are locked until their actual keeper permission, provenance checks, trial milestones and resource requirements are satisfied. Weather, narrow approaches and long climbing routes make ordinary supplies and the resting partner's abilities useful. Quests can expose a counterfeit relic, rescue a pilgrim, recover an erased keeper's name or resolve a custody dispute without compulsory combat. Relic charges, temporary forms and reversion remain finite; a reward neither refills spent DP automatically nor creates permanent Ultra-level power.",
+    "x": 1,
+    "y": 1,
+    "realm": "Digital World",
+    "factions": [
+      "Golden Digimental Pilgrims",
+      "Crest and Digimental Keepers",
+      "Nursery Covenant",
+      "First Light Interworld Accord",
+      "Independent Digimon"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 20,
+      "max": 80
+    },
+    "images": {
+      "map": {
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/digimon-regions-20261004/digimon/region-images/golden-digimental-highlands.jpg",
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        }
+      }
+    }
+  },
+  "Memory Fault Frontier": {
+    "name": "Memory Fault Frontier",
+    "basicInfo": "Original campaign region. Beyond stable island routes, damaged memory boundaries leave roads, coastlines and signal landmarks only partly reconciled. A bridge may be remembered in two positions, a caravan may carry a destination name no station recognizes, or a shelter's ledger may contradict its surviving occupants. The frontier is a physical exploration space affected by record faults, not a dream that can discard consequences at will.\n\nResidents include lost couriers, reclamation workers, independent communities and witnesses protecting evidence. Choir Witness contacts may oppose erasure while still distrusting outsiders. Allegiance is assessed through actions and corroboration. A confused person is not automatically possessed, and an incomplete identity record does not make a living Digimon expendable.\n\nEntry requires a marked route, a local guide or earned navigation record, a dependable anchor and practical rescue arrangements. Marked unsafe boundaries remain closed until their documented obstacle is resolved. Keep physical charts, duplicate messages, food, lights, medicine and a retreat point. Travel changes must be signaled through observable clues rather than arbitrarily moving the destination whenever the party approaches it.\n\nBlank Spires can deepen recognition damage where their actual infrastructure and agents are present. They do not explain every old fault or rewrite the partner's current body without a defined effect. Higher forms still use compatible Digivices and earned routes; their normal reversion preserves identity, wounds, fatigue and resource expenditure. A Rookie may fit a shelter or cross a narrow passage that an enormous temporary form cannot.\n\nQuests can escort a caravan, reconcile two incomplete route records, restore a beacon, rescue an overlooked witness or discover a genuinely deeper archive lead. Successful work should make a specific path or name more reliable. Restoration requires evidence and cannot force a person's affection or turn a counterfeit memory into truth by popularity. The frontier offers access toward the Kernel and Deep Archives only after its seals and expedition milestones are satisfied; identifying that lead does not make the deepest system immediately safe to enter.",
+    "x": -1,
+    "y": -1,
+    "realm": "Digital World",
+    "factions": [
+      "Lantern Network",
+      "Choir Witness Wing",
+      "Null Choir",
+      "Spire Reclamation Teams",
+      "Independent Digimon"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 20,
+      "max": 85
+    },
+    "images": {
+      "map": {
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/digimon-regions-20261004/digimon/region-images/memory-fault-frontier.jpg",
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        }
+      }
+    }
+  },
+  "Kernel and Deep Archives": {
+    "name": "Kernel and Deep Archives",
+    "basicInfo": "Original campaign late-game region. Beneath known routes lie sealed storage chambers, unfinished directories, dormant bridges and structures whose oldest records predate the surviving archive. The region is a proposed First Light foundation zone, not a claim that every Digimon source shares this exact origin or one all-powerful governing computer. Its systems may contain clues about why the world remembers some first bonds and loses others.\n\nThe fundamental mystery goes beyond the Null Choir: ancient maintenance processes may have lost the ability to distinguish a living, changing individual from an obsolete or duplicated record. That is a dangerous hypothesis to investigate, not a settled explanation delivered on arrival. If true, a well-intended repair could discard irreplaceable lives, places or connections while reporting that it had made the world more orderly.\n\nAccess is sealed until authenticated guardians, recovered keys, independent evidence and a prepared expedition establish a route. An ordinary gate adapter, golden Digi-Egg, Crest of Destiny or Mega body cannot bypass the seal. Researchers need backups, finite power, a safe staging shelter, a trusted witness outside and a verified extraction protocol. Failed equipment should create a concrete repair or retreat problem rather than an automatic total-world erasure.\n\nDormant records, preserved personalities, simulations and surviving cores are distinct findings. A stored voice cannot authorize a change on behalf of every living person it resembles. Competing interpretations may come from Gennai's agents, custodians, guardians and people whose histories were damaged. None should be infallible simply because they speak through an ancient console.\n\nQuests can protect a neglected core, test a dangerous maintenance claim, compare independent timelines or decide how to preserve both safety and change. The Choir may exploit a flaw without having created the whole system. Qualified Ultra power can defend an expedition briefly, but permanent repair demands knowledge, cooperation and a bounded technical solution. Preserve the player's choice about risk, disclosure and stewardship; a final revelation does not force the loss of a partner, rewrite all canon or promise that every deleted life can be restored.",
+    "x": 2,
+    "y": -1,
+    "realm": "Digital World",
+    "factions": [
+      "Homeostasis Custodians",
+      "Gennai's Agents",
+      "Four Sovereigns",
+      "Choir Witness Wing",
+      "First Light Interworld Accord",
+      "Independent Digimon"
+    ],
+    "known": false,
+    "npcLevelRange": {
+      "min": 50,
+      "max": 90
+    },
+    "images": {
+      "map": {
+        "imageUrl": "https://raw.githubusercontent.com/Convergence-Atlas/age-of-convergence-region-atlas/digimon-regions-20261004/digimon/region-images/kernel-and-deep-archives.jpg",
+        "crop": {
+          "focus": {
+            "x": 50,
+            "y": 50
+          },
+          "zoom": 100
+        }
+      }
+    }
+  }
+}
