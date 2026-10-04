@@ -1,0 +1,1 @@
+Build and validate the complete 154-location, 616-area atlas and its 410 verified picture scenes.
